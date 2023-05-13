@@ -15,18 +15,13 @@
         "fields": [
             {
                 "inline": false,
-                "name": "Stats",
-                "value": "<&Scrap&> 8 | <&Attack&> 8 | <&Counter&> 3"
+                "name": "Phase 1",
+                "value": "**Stats**: <&Scrap&> 8 | <&Attack&> 8 | <&Counter&> 3\n**Effects**: Backline. Bombard."
             },
             {
                 "inline": false,
-                "name": "Effects",
-                "value": "Backline. Bombard."
-            },
-            {
-                "inline": false,
-                "name": "Notes",
-                "value": "Transforms into **** when defeated."
+                "name": "Phase 2",
+                "value": "**Stats**: <&Health&> 50 | <&Attack&> 3 | <&Counter&> 2\n**Effects**: Backline. Bombard."
             }
         ],
         "footer": {
