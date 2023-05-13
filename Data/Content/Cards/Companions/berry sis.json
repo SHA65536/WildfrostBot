@@ -1,0 +1,34 @@
+{
+    "metadata": {
+        "title": "berry sis",
+        "aliases": [],
+        "tags": [
+            "companions"
+        ],
+        "keys": {}
+    },
+    "embed": {
+        "color": 12846604,
+		"url":"https://wildfrostwiki.com/Berry_Sis",
+        "description": "**Berry Sis** is a **Companion** that the player can bring along on a run.",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Stats",
+                "value": "<&Health&> 8 | <&Attack&> 2 | <&Counter&> 3"
+            },
+            {
+                "inline": false,
+                "name": "Effects",
+                "value": "When hit, add <&Health&> to a random ally"
+            }
+        ],
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "image": {
+            "url": "https://wildfrostwiki.com/images/d/d2/Berry_Sis_%28BloodBoy%29.png"
+        },
+        "title": "Berry Sis"
+    }
+}

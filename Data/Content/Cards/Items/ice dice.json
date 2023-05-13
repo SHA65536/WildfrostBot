@@ -1,0 +1,35 @@
+{
+    "metadata": {
+        "title": "ice dice",
+        "aliases": [],
+        "tags": [
+            "items",
+            "block"
+        ],
+        "keys": {}
+    },
+    "embed": {
+        "color": 12846604,
+		"url":"https://wildfrostwiki.com/Ice_Dice",
+        "description": "**Ice Dice** is an item players may accumulate over a run.",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Stats",
+                "value": "<&Frenzy&> x2"
+            },
+            {
+                "inline": false,
+                "name": "Effects",
+                "value": "Apply 1 <&Block&> to a random ally or enemy"
+            }
+        ],
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "image": {
+            "url": "https://wildfrostwiki.com/images/4/46/Ice_Dice_%28IceDice%29.png"
+        },
+        "title": "Ice Dice"
+    }
+}

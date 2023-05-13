@@ -1,0 +1,35 @@
+{
+    "metadata": {
+        "title": "junkhead",
+        "aliases": [],
+        "tags": [
+            "clunkers",
+            "trash"
+        ],
+        "keys": {}
+    },
+    "embed": {
+        "color": 12846604,
+		"url":"https://wildfrostwiki.com/Junkhead",
+        "description": "**Junkhead** is a **Clunker** that players start with when starting a run with a **Clunkmaster** leader",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Stats",
+                "value": "<&Scrap&> 3"
+            },
+            {
+                "inline": false,
+                "name": "Effects",
+                "value": "**Trash** 1 when hit"
+            }
+        ],
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "image": {
+            "url": "https://wildfrostwiki.com/images/6/68/Junkhead_%28Junkhead%29.png"
+        },
+        "title": "Junkhead"
+    }
+}

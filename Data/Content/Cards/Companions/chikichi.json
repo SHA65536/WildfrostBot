@@ -1,0 +1,35 @@
+{
+    "metadata": {
+        "title": "chikichi",
+        "aliases": [],
+        "tags": [
+            "companions",
+            "chikani"
+        ],
+        "keys": {}
+    },
+    "embed": {
+        "color": 12846604,
+		"url":"https://wildfrostwiki.com/Chikichi",
+        "description": "**Chikichi** is a **Companion** that the player can bring along on a run.\nPlayers can sacrifice **Chikichi** and the ones they summon to gain increasingly powerful versions with more and more heads. The chain culminates in the five-headed **Chikagaru**.\nThe stages of **Chikichi** includes the following: **Chikichi** -> **Chikani** -> **Chikasan** -> **Chikashi** -> **Chikagaru**",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Stats",
+                "value": "<&Health&> 2 | <&Attack&> 2 | <&Counter&> 3"
+            },
+            {
+                "inline": false,
+                "name": "Effects",
+                "value": "When **Sacrificed**, summon **Chikani**"
+            }
+        ],
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "image": {
+            "url": "https://wildfrostwiki.com/images/9/9a/Chikichi_%28TailsFive%29.png"
+        },
+        "title": "Chikichi"
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "metadata": {
+        "title": "pets",
+        "aliases": [],
+        "tags": [
+            "pet house"
+        ],
+        "keys": {}
+    },
+    "embed": {
+        "color": 12846604,
+        "url": "https://wildfrostwiki.com/Companions#Pets",
+        "description": "Pets are companions that the player may bring with them to start a run. Additional pets may be unlocked by completing special tasks, though these tasks must first be discovered by unlocking previous pets. When the player has unlocked two or more pets, they will choose a pet to start with after choosing a leader.",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Pet List",
+                "value": ""
+            }
+        ],
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "thumbnail": {
+            "url": "https://wildfrostwiki.com/images/e/e5/Icon_Pet_House.png"
+        },
+        "title": "Pets"
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "metadata": {
+        "title": "dregg",
+        "aliases": [],
+        "tags": [
+            "shades",
+            "egg"
+        ],
+        "keys": {}
+    },
+    "embed": {
+        "color": 12846604,
+		"url":"https://wildfrostwiki.com/Dregg",
+        "description": "**Dregg** is a **Shade** that is summoned when **Egg** is destroyed",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Stats",
+                "value": "<&Health&> 4 | <&Attack&> 5 | <&Counter&> 5 | <&Frenzy&> x3"
+            },
+            {
+                "inline": false,
+                "name": "Effects",
+                "value": "**Summoned**"
+            }
+        ],
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "image": {
+            "url": "https://wildfrostwiki.com/images/f/f2/Dregg_%28Dregg%29.png"
+        },
+        "title": "Dregg"
+    }
+}

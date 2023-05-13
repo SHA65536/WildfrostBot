@@ -1,0 +1,41 @@
+{
+    "metadata": {
+        "title": "junk",
+        "aliases": [],
+        "tags": [
+            "items",
+            "trash",
+            "recycle"
+        ],
+        "keys": {}
+    },
+    "embed": {
+        "color": 12846604,
+		"url":"https://wildfrostwiki.com/Junk",
+        "description": "**Junk** is an item players may accumulate over a run with a **Clunkmaster** leader. It will hit a card for zero damage. ",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Stats",
+                "value": "<&Attack&> 0"
+            },
+            {
+                "inline": false,
+                "name": "Effects",
+                "value": "Does absolutely nothing..."
+            },
+            {
+                "inline": false,
+                "name": "Mechanics",
+                "value": "With **Trash** and **Recycle** keywords, it can be used to power the effects of other cards. Additionally, Junk can be buffed through **Spice** or cards like **Tinkerson Jr** enabling it to deal damage."
+            }
+        ],
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "image": {
+            "url": "https://wildfrostwiki.com/images/8/84/Junk_%28Junk%29.png"
+        },
+        "title": "Junk"
+    }
+}

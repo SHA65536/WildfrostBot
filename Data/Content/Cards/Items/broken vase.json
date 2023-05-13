@@ -1,0 +1,34 @@
+{
+    "metadata": {
+        "title": "broken vase",
+        "aliases": [],
+        "tags": [
+            "items"
+        ],
+        "keys": {}
+    },
+    "embed": {
+        "color": 12846604,
+		"url":"https://wildfrostwiki.com/Broken_Vase",
+        "description": "**Broken Vase** is an item players may accumulate over a run.",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Effects",
+                "value": "Maybe it can be fixed..."
+            },
+            {
+                "inline": false,
+                "name": "||The Lumin Vase||",
+                "value": "||Available from treasure chests or shops when using 3 difficulty bells. Combined with **Lumin Goop** to create **The Lumin Vase**||"
+            }
+        ],
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "image": {
+            "url": "https://wildfrostwiki.com/images/6/63/Broken_Vase_%28BrokenVase%29.png"
+        },
+        "title": "Broken Vase"
+    }
+}

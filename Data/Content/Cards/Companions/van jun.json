@@ -1,0 +1,39 @@
+{
+    "metadata": {
+        "title": "van jun",
+        "aliases": [],
+        "tags": [
+            "companions"
+        ],
+        "keys": {}
+    },
+    "embed": {
+        "color": 12846604,
+		"url":"https://wildfrostwiki.com/Van_Jun",
+        "description": "**Van Jun** is a **Companion** that the player can bring along on a run.",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Stats",
+                "value": "<&Health&> 6 | <&Attack&> 1 | <&Counter&> 4"
+            },
+            {
+                "inline": false,
+                "name": "Effects",
+                "value": "While active, add current <&Attack&> to all Summoned allies"
+            },
+            {
+                "inline": false,
+                "name": "Unlock",
+                "value": "Van Jun can be unlocked at the Hot Spring in Snowdwell by summoning 50 allies"
+            }
+        ],
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "image": {
+            "url": "https://wildfrostwiki.com/images/5/55/Van_Jun_%28BoBo%29.png"
+        },
+        "title": "Van Jun"
+    }
+}

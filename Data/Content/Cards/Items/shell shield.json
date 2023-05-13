@@ -1,0 +1,30 @@
+{
+    "metadata": {
+        "title": "shell shield",
+        "aliases": [],
+        "tags": [
+            "items",
+            "shell"
+        ],
+        "keys": {}
+    },
+    "embed": {
+        "color": 12846604,
+		"url":"https://wildfrostwiki.com/Shell_Shield",
+        "description": "**Shell Shield** is an item players may accumulate over a run.",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Effects",
+                "value": "Apply 4 <&Shell&>"
+            }
+        ],
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "image": {
+            "url": "https://wildfrostwiki.com/images/b/b0/Shell_Shield_%28ShellShield%29.png"
+        },
+        "title": "Shell Shield"
+    }
+}

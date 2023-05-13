@@ -1,0 +1,35 @@
+{
+    "metadata": {
+        "title": "portable workbench",
+        "aliases": [],
+        "tags": [
+            "clunkers",
+            "junk"
+        ],
+        "keys": {}
+    },
+    "embed": {
+        "color": 12846604,
+		"url":"https://wildfrostwiki.com/Portable_Workbench",
+        "description": "**Portable Workbench** is a **Clunker** that can be obtained in a run.",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Stats",
+                "value": "<&Scrap&> 1"
+            },
+            {
+                "inline": false,
+                "name": "Effects",
+                "value": "While active, add +3 <&Attack&> to all **Junk** in your hand "
+            }
+        ],
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "image": {
+            "url": "https://wildfrostwiki.com/images/b/b3/Portable_Workbench_%28Bonfire%29.png"
+        },
+        "title": "Portable Workbench"
+    }
+}

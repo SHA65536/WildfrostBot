@@ -1,0 +1,35 @@
+{
+    "metadata": {
+        "title": "muttonhead",
+        "aliases": [],
+        "tags": [
+            "enemies",
+            "minibosses"
+        ],
+        "keys": {}
+    },
+    "embed": {
+        "color": 12846604,
+        "url": "https://wildfrostwiki.com/Muttonhead",
+        "description": "**Muttonhead** is a Miniboss type enemy that the player can encounter. ",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Stats",
+                "value": "<&Health&> 30 | <&Attack&> 4 | <&Counter&> 3"
+            },
+            {
+                "inline": false,
+                "name": "Effects",
+                "value": "When <&Snow&>'d. apply 1 <&Demonize&> to all enemies"
+            }
+        ],
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "image": {
+            "url": "https://wildfrostwiki.com/images/1/19/Muttonhead_%28GukaGuka%29.png"
+        },
+        "title": "Muttonhead"
+    }
+}

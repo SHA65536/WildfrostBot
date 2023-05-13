@@ -1,0 +1,35 @@
+{
+    "metadata": {
+        "title": "soulbound skulls",
+        "aliases": [],
+        "tags": [
+            "items",
+            "soulbound"
+        ],
+        "keys": {}
+    },
+    "embed": {
+        "color": 12846604,
+		"url":"https://wildfrostwiki.com/Soulbound_Skulls",
+        "description": "**Soulbound Skulls** is an item players may accumulate over a run.",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Effects",
+                "value": "Add **Soulbound** to an enemy. Add **Soulbound** to a random ally"
+            },
+            {
+                "inline": false,
+                "name": "Notes",
+                "value": "This can also apply to the boss or to your leader!"
+            }
+        ],
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "image": {
+            "url": "https://wildfrostwiki.com/images/e/e9/Soulbound_Skulls_%28VoidStaff%29.png"
+        },
+        "title": "Soulbound Skulls"
+    }
+}

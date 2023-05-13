@@ -1,0 +1,30 @@
+{
+    "metadata": {
+        "title": "tigris mask",
+        "aliases": [],
+        "tags": [
+            "items",
+            "tigris"
+        ],
+        "keys": {}
+    },
+    "embed": {
+        "color": 12846604,
+		"url":"https://wildfrostwiki.com/Tigris_Mask",
+        "description": "**Tigris Mask** is an item players may accumulate over a run.",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Effects",
+                "value": "Summon **Tigris**. Consume"
+            }
+        ],
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "image": {
+            "url": "https://wildfrostwiki.com/images/4/47/Tigris_Mask_%28TigrisMask%29.png"
+        },
+        "title": "Tigris Mask"
+    }
+}

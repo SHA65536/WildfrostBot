@@ -1,0 +1,29 @@
+{
+    "metadata": {
+        "title": "magma booster",
+        "aliases": [],
+        "tags": [
+            "items"
+        ],
+        "keys": {}
+    },
+    "embed": {
+        "color": 12846604,
+		"url":"https://wildfrostwiki.com/Magma_Booster",
+        "description": "**Magma Booster** is an item players may accumulate over a run.",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Effects",
+                "value": "Increase <&Attack&> by 3. Add **Aimless** to the target"
+            }
+        ],
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "image": {
+            "url": "https://wildfrostwiki.com/images/1/1a/Magma_Booster_%28EyeDrops%29.png"
+        },
+        "title": "Magma Booster"
+    }
+}

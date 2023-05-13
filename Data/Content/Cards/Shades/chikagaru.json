@@ -1,0 +1,36 @@
+{
+    "metadata": {
+        "title": "chikagaru",
+        "aliases": [],
+        "tags": [
+            "shades",
+            "overburn",
+            "chikichi"
+        ],
+        "keys": {}
+    },
+    "embed": {
+        "color": 12846604,
+		"url":"https://wildfrostwiki.com/Chikani",
+        "description": "**Chikagaru** is a **Shade** that the player can summon by sacrificing **Chikashi**. **Chikagaru** is the final form in the chain of **Chikichi**.",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Stats",
+                "value": "<&Health&> 10 | <&Attack&> 10 | <&Counter&> 3"
+            },
+            {
+                "inline": false,
+                "name": "Effects",
+                "value": "**Summoned**"
+            }
+        ],
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "image": {
+            "url": "https://wildfrostwiki.com/images/b/b3/Chikagoru_%28TailsOne%29.png"
+        },
+        "title": "Chikagaru"
+    }
+}

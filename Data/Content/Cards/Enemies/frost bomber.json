@@ -1,0 +1,35 @@
+{
+    "metadata": {
+        "title": "frost bomber",
+        "aliases": [],
+        "tags": [
+            "enemies",
+            "bosses"
+        ],
+        "keys": {}
+    },
+    "embed": {
+        "color": 12846604,
+        "url": "https://wildfrostwiki.com/Frost_Bomber",
+        "description": "**Frost Bomber** is a Boss type enemy that the player can encounter.",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Stats",
+                "value": "<&Health&> 60 | <&Attack&> 5 | <&Counter&> 4 | <&ResistSnow&>"
+            },
+            {
+                "inline": false,
+                "name": "Effects",
+                "value": "Barrage"
+            }
+        ],
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "image": {
+            "url": "https://wildfrostwiki.com/images/0/00/Frost_Bomber_%28TrueFinalBoss4%29.png"
+        },
+        "title": "Frost Bomber"
+    }
+}

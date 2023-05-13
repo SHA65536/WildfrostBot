@@ -1,0 +1,40 @@
+{
+    "metadata": {
+        "title": "sneezle",
+        "aliases": [],
+        "tags": [
+            "companions",
+            "pets"
+        ],
+        "keys": {}
+    },
+    "embed": {
+        "color": 12846604,
+		"url":"https://wildfrostwiki.com/Sneezle",
+        "description": "**Sneezle** is a **Pet Companion** that can be unlocked.",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Stats",
+                "value": "<&Health&> 6 | <&Attack&> 2 | <&Counter&> 3"
+            },
+            {
+                "inline": false,
+                "name": "Effects",
+                "value": "Draw 1 when hit"
+            },
+            {
+                "inline": false,
+                "name": "Unlock",
+                "value": "Sneezle can be unlocked at the Pet's House in Snowdwell by buying 5 discounted items"
+            }
+        ],
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "image": {
+            "url": "https://wildfrostwiki.com/images/e/e2/Sneezle_%28DrawPet%29.png"
+        },
+        "title": "Sneezle"
+    }
+}

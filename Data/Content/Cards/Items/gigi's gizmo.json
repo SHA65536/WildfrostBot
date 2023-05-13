@@ -1,0 +1,30 @@
+{
+    "metadata": {
+        "title": "gigi's gizmo",
+        "aliases": [],
+        "tags": [
+            "items",
+            "scrap"
+        ],
+        "keys": {}
+    },
+    "embed": {
+        "color": 12846604,
+		"url":"https://wildfrostwiki.com/Gigi%27s_Gizmo",
+        "description": "**Gigi's Gizmo** is an item players may accumulate over a run.",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Effects",
+                "value": "Add 1 <&Scrap&>. **Recycle** 1."
+            }
+        ],
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "image": {
+            "url": "https://wildfrostwiki.com/images/2/28/Gigi%27s_Gizmo_%28Juicepot%29.png"
+        },
+        "title": "Gigi's Gizmo"
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "metadata": {
+        "title": "popshroom",
+        "aliases": [],
+        "tags": [
+            "enemies"
+        ],
+        "keys": {}
+    },
+    "embed": {
+        "color": 12846604,
+        "url": "https://wildfrostwiki.com/Popshroom",
+        "description": "**Popshroom** is an enemy which the player can encounter during a run. ",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Stats",
+                "value": "<&Health&> 6 | <&Attack&> 0 | <&Counter&> 4"
+            },
+            {
+                "inline": false,
+                "name": "Effects",
+                "value": "Apply 4 <&Shroom&>. Destroy self"
+            }
+        ],
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "image": {
+            "url": "https://wildfrostwiki.com/images/c/c8/Popshroom_Card.png"
+        },
+        "title": "Popshroom"
+    }
+}

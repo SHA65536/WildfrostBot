@@ -1,0 +1,29 @@
+{
+    "metadata": {
+        "title": "clunkers",
+        "aliases": [],
+        "tags": [
+            "inventors hut"
+        ],
+        "keys": {}
+    },
+    "embed": {
+        "color": 12846604,
+        "url": "https://wildfrostwiki.com/Clunkers",
+        "description": "Clunkers are machine-like cards similar to Companions in being able to attack, defend, and have special abilities. They are unique in using scrap instead of the standard hearts, and will only lose 1 scrap if 1 or more damage is taken. This makes them great at surviving high-damage hits that would take out a Companion or the leader, or at absorbing debuffs instead of another card.\nClunkers can be played anywhere on the board and moved around freely like any other Companion, and they can be recalled. However, a Clunker will not heal scrap when recalled. One can still apply buffs/debuffs as normal with mostly normal behavior. Exceptions include: Shrooms will only deal 1 scrap damage regardless of the number stacked, and Overburn will always trigger as health hearts and scrap are not exchangeable.\nIn Snowdwell, Clunkers are unlocked from the Inventor's Hut, after it finishes construction. Players can view unlocked Clunkers there and see what challenges are available for the next unlock.\nThroughout a run, Clunkers can be collected through Treasure Chest events. They will appear in a lineup with other items and Clunkers, where the player has the option to choose 1 card to add to their deck. This choice does not affect the cards found later in the run",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Clunker List",
+                "value": ""
+            }
+        ],
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "thumbnail": {
+            "url": "https://wildfrostwiki.com/images/7/7b/Icon_Clunkers.png"
+        },
+        "title": "Clunkers"
+    }
+}

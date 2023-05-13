@@ -1,0 +1,35 @@
+{
+    "metadata": {
+        "title": "bolgo",
+        "aliases": [],
+        "tags": [
+            "enemies",
+            "minibosses"
+        ],
+        "keys": {}
+    },
+    "embed": {
+        "color": 12846604,
+        "url": "https://wildfrostwiki.com/Bolgo",
+        "description": "**Bolgo** is a Miniboss type enemy that the player can encounter.",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Stats",
+                "value": "<&Health&> 20 | <&Attack&> 5 | <&Counter&> 3 | <&Shell&> 10"
+            },
+            {
+                "inline": false,
+                "name": "Effects",
+                "value": "When hit, gain +1 <&Attack&>"
+            }
+        ],
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "image": {
+            "url": "https://wildfrostwiki.com/images/a/af/Bolgo_%28Bolgo%29.png"
+        },
+        "title": "Bolgo"
+    }
+}

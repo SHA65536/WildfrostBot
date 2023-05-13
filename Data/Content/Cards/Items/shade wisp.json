@@ -1,0 +1,29 @@
+{
+    "metadata": {
+        "title": "shade wisp",
+        "aliases": [],
+        "tags": [
+            "items"
+        ],
+        "keys": {}
+    },
+    "embed": {
+        "color": 12846604,
+		"url":"https://wildfrostwiki.com/Shade_Wisp",
+        "description": "**Shade Wisp** is an item players may accumulate over a run.",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Effects",
+                "value": "Summon a copy of an enemy on your side with 1 <&Health&>"
+            }
+        ],
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "image": {
+            "url": "https://wildfrostwiki.com/images/0/03/Shade_Wisp_%28EnemyCloner%29.png"
+        },
+        "title": "Shade Wisp"
+    }
+}

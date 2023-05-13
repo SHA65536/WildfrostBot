@@ -1,0 +1,30 @@
+{
+    "metadata": {
+        "title": "naked gnome",
+        "aliases": [],
+        "tags": [
+            "companions",
+            "enemies"
+        ],
+        "keys": {}
+    },
+    "embed": {
+        "color": 12846604,
+		"url":"https://wildfrostwiki.com/Naked_Gnome",
+        "description": "**Naked Gnome** is an enemy who can be recruited to join the player as a companion.",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Stats",
+                "value": "Enemy: <&Health&> 1\nCompanion: <&Health&> 1 | <&Attack&> 1 | <&Counter&> 2"
+            }
+        ],
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "image": {
+            "url": "https://wildfrostwiki.com/images/3/3e/Naked_Gnome_Card.png"
+        },
+        "title": "Naked Gnome"
+    }
+}

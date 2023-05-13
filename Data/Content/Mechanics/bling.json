@@ -1,0 +1,34 @@
+{
+    "metadata": {
+        "title": "bling",
+        "aliases": [],
+        "tags": [
+            "greed"
+        ],
+        "keys": {}
+    },
+    "embed": {
+        "color": 12846604,
+        "url": "https://wildfrostwiki.com/Bling",
+        "description": "Bling is the currency used in Wildfrost. Bling is used in the game to purchase goods from shops, and is collected and spent exclusively during a run. It is not persistent between runs, and will not carry over to new leaders.",
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "fields": [
+            {
+                "inline": false,
+                "name": "Earning Bling",
+                "value": "Players can earn Bling in several ways. The most common way to earn Bling is by defeating Enemies in battles. Each enemy drops a small amount of coins when defeated. This amount varies, but appears to be up to 10 Bling. Achieving combo kills is a second way to collect Bling. When the player kills more than a single enemy in a turn, each additional kill rewards 5 Bling multiplied by a rolling total of additional kills: the second kill will award 5 Bling, third would reward 10, fourth rewards 15 and so forth. The final way to earn Bling is by visiting Blingsnail Caves on the map. They will reward a random number of Bling that appears to be between 40 and 100 Bling."
+            },
+            {
+                "inline": false,
+                "name": "Using Bling",
+                "value": "Bling can be spent at shops during a run. They can be used to purchase Items, Charms, or Crowns, depending on the shop visited. Bling can also be hoarded for cards with Greed. This grants an additional damage per 50 Bling held, and can be devastating when carrying hundreds of Bling or combined with Frenzy. "
+            }
+        ],
+        "thumbnail": {
+            "url": "https://wildfrostwiki.com/images/c/ca/Bling.png"
+        },
+        "title": "Bling"
+    }
+}

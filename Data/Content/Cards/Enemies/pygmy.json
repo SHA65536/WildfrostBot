@@ -1,0 +1,34 @@
+{
+    "metadata": {
+        "title": "pygmy",
+        "aliases": [],
+        "tags": [
+            "enemies"
+        ],
+        "keys": {}
+    },
+    "embed": {
+        "color": 12846604,
+        "url": "https://wildfrostwiki.com/Pygmy",
+        "description": "**Pygmy** is an enemy which the player can encounter during a run. ",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Stats",
+                "value": "<&Health&> 5 | <&Attack&> 0 | <&Counter&> 2"
+            },
+            {
+                "inline": false,
+                "name": "Effects",
+                "value": "Apply 1 <&Demonize&>. Barrage"
+            }
+        ],
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "image": {
+            "url": "https://wildfrostwiki.com/images/4/4f/Pygmy_Card.png"
+        },
+        "title": "Pygmy"
+    }
+}

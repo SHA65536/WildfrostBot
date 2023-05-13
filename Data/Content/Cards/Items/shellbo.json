@@ -1,0 +1,35 @@
+{
+    "metadata": {
+        "title": "shellbo",
+        "aliases": [],
+        "tags": [
+            "items",
+            "shell"
+        ],
+        "keys": {}
+    },
+    "embed": {
+        "color": 12846604,
+		"url":"https://wildfrostwiki.com/Shellbo",
+        "description": "**Shellbo** is an item players may accumulate over a run.",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Stats",
+                "value": "<&Attack&> 2"
+            },
+            {
+                "inline": false,
+                "name": "Effects",
+                "value": "Apply 5 <&Shell&>. Barrage"
+            }
+        ],
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "image": {
+            "url": "https://wildfrostwiki.com/images/4/4f/Shellbo_%28Shellbo%29.png"
+        },
+        "title": "Shellbo"
+    }
+}

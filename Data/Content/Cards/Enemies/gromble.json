@@ -1,0 +1,29 @@
+{
+    "metadata": {
+        "title": "gromble",
+        "aliases": [],
+        "tags": [
+            "enemies"
+        ],
+        "keys": {}
+    },
+    "embed": {
+        "color": 12846604,
+        "url": "https://wildfrostwiki.com/Gromble",
+        "description": "**Gromble** is an enemy which the player can encounter during a run. ",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Stats",
+                "value": "<&Health&> 12 | <&Attack&> 2 | <&Counter&> 2"
+            }
+        ],
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "image": {
+            "url": "https://wildfrostwiki.com/images/8/89/Gromble_Card.png"
+        },
+        "title": "Gromble"
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "metadata": {
+        "title": "ice lantern",
+        "aliases": [],
+        "tags": [
+            "enemies"
+        ],
+        "keys": {}
+    },
+    "embed": {
+        "color": 12846604,
+        "url": "https://wildfrostwiki.com/Ice_Lantern",
+        "description": "**Ice Lantern** is an enemy which the player can encounter during a run. ",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Stats",
+                "value": "<&Scrap&> 1"
+            },
+            {
+                "inline": false,
+                "name": "Effects",
+                "value": "While active, add +2 <&Attack&> to all allies"
+            }
+        ],
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "image": {
+            "url": "https://wildfrostwiki.com/images/0/0d/Ice_Lantern_%28MiniForge%29.png"
+        },
+        "title": "Ice Lantern"
+    }
+}

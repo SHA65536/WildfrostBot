@@ -1,0 +1,35 @@
+{
+    "metadata": {
+        "title": "tinkerson jr",
+        "aliases": [],
+        "tags": [
+            "companions",
+            "junk"
+        ],
+        "keys": {}
+    },
+    "embed": {
+        "color": 12846604,
+		"url":"https://wildfrostwiki.com/Tinkerson_Jr",
+        "description": "**Tinkerson Jr.** is a **Companion** that the player can bring along on a run.",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Stats",
+                "value": "<&Health&> 8 | <&Attack&> 2 | <&Counter&> 3"
+            },
+            {
+                "inline": false,
+                "name": "Effects",
+                "value": "While active, add equal <&Attack&> to all Junk in your hand "
+            }
+        ],
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "image": {
+            "url": "https://wildfrostwiki.com/images/9/94/Tinkerson_Jr_%28Jummo%29.png"
+        },
+        "title": "Tinkerson Jr."
+    }
+}

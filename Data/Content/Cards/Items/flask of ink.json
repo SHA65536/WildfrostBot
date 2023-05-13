@@ -1,0 +1,35 @@
+{
+    "metadata": {
+        "title": "flask of ink",
+        "aliases": [],
+        "tags": [
+            "items",
+            "ink"
+        ],
+        "keys": {}
+    },
+    "embed": {
+        "color": 12846604,
+		"url":"https://wildfrostwiki.com/Flask_of_Ink",
+        "description": "**Flask of Ink** is an item **Clunkmaster** leaders start with in the deck.",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Stats",
+                "value": "<&Attack&> 0"
+            },
+            {
+                "inline": false,
+                "name": "Effects",
+                "value": "Apply 4 <&Ink&>"
+            }
+        ],
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "image": {
+            "url": "https://wildfrostwiki.com/images/4/44/Flask_of_Ink_%28Voidstone%29.png"
+        },
+        "title": "Flask of Ink"
+    }
+}

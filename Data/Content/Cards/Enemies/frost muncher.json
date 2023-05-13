@@ -1,0 +1,35 @@
+{
+    "metadata": {
+        "title": "frost muncher",
+        "aliases": [],
+        "tags": [
+            "enemies",
+            "bosses"
+        ],
+        "keys": {}
+    },
+    "embed": {
+        "color": 12846604,
+        "url": "https://wildfrostwiki.com/Frost_Muncher",
+        "description": "**Frost Muncher** is a Boss type enemy that the player can encounter.",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Stats",
+                "value": "<&Health&> 30 | <&Attack&> 4 | <&Counter&> 6"
+            },
+            {
+                "inline": false,
+                "name": "Effects",
+                "value": "Destroy the right-most card in your hand"
+            }
+        ],
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "image": {
+            "url": "https://wildfrostwiki.com/images/3/3a/Frost_Muncher_%28TrueFinalBoss6%29.png"
+        },
+        "title": "Frost Muncher"
+    }
+}

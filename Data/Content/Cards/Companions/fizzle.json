@@ -1,0 +1,36 @@
+{
+    "metadata": {
+        "title": "fizzle",
+        "aliases": [],
+        "tags": [
+            "companions",
+            "bom",
+            "frenzy"
+        ],
+        "keys": {}
+    },
+    "embed": {
+        "color": 12846604,
+		"url":"https://wildfrostwiki.com/Fizzle",
+        "description": "**Fizzle** is a **Companion** that the player can bring along on a run.",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Stats",
+                "value": "<&Health&> 5 | <&Attack&> 0 | <&Counter&> 4 | <&Frenzy&> x3"
+            },
+            {
+                "inline": false,
+                "name": "Effects",
+                "value": "Apply 1 <&Bom&>"
+            }
+        ],
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "image": {
+            "url": "https://wildfrostwiki.com/images/9/9b/Fizzle_%28Gnomlings%29.png"
+        },
+        "title": "Fizzle"
+    }
+}

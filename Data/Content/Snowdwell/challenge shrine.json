@@ -1,0 +1,35 @@
+{
+    "metadata": {
+        "title": "challenge shrine",
+        "aliases": [],
+        "tags": [
+            "charms",
+            "snowdwell"
+        ],
+        "keys": {}
+    },
+    "embed": {
+        "color": 12846604,
+        "url": "https://wildfrostwiki.com/Snowdwell#Challenge_Shrine",
+        "description": "At Snowdwell's peak is built a shrine which honors the spirit of adventurers who never returned. A series of statues offer challenges that can be completed to unlock different charms. Unlike the rest of the buildings, all challenges are always available and can be completed in any order.",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Unlocks",
+                "value": "Lone Survivor - **Frog Charm** - Win a battle with just your Leader remaining\nSnowball Fight - **Pengu Charm** - Stack 15 Snow on a single target\nBig Hitter - **Moose Charm** - Deal 50 damage in a single hit\nBigger Hitter - **Durian Charm** - Deal 100 damage in a single hit\nTough Nut - **Peppernut Charm** - Stack 50 Shell on a single target\nRitual - **Lamb Charm** - Sacrifice 10 allies in a single battle\nToxic - **Truffle Charm** - Stack 20 Shroom on a single target\nOne Punch - **Molten Egg Charm** - Defeat the Frost Guardian with a Scrappy Sword"
+            },
+            {
+                "inline": false,
+                "name": "More Unlocks",
+                "value": "Icemaster - **Block Charm** - Stack 5 Block on a single target\nHigh Roller - **Greed Charm** - Buy 3 Charms from a single shop\nGnome Friend - **Chuckle Charm** - Spare the Naked Gnome\nLong Live the King - **Moko Charm** - Survive an attack from King Moko and win the battle\nFeed the Beast - **Strawberry Charm** - Feed the Muncher a Consume item\nBalloonist - **Raspberry Charm** - Win a Daily Voyage\nUndefeated - **Critical Charm** - Achieve a 3 Win Streak\nSunbringer - **Spark Charm** - Defeat the Heart of the Storm"
+            }
+        ],
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "thumbnail": {
+            "url": "https://wildfrostwiki.com/images/2/27/ChallengeShrine.png"
+        },
+        "title": "Challenge Shrine"
+    }
+}

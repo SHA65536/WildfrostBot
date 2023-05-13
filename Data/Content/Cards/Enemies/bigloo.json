@@ -1,0 +1,35 @@
+{
+    "metadata": {
+        "title": "bigloo",
+        "aliases": [],
+        "tags": [
+            "enemies",
+            "minibosses"
+        ],
+        "keys": {}
+    },
+    "embed": {
+        "color": 12846604,
+        "url": "https://wildfrostwiki.com/Bigloo",
+        "description": "**Bigloo** is a Miniboss type enemy that the player can encounter.",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Stats",
+                "value": "<&Health&> 30 | <&Attack&> 5 | <&Counter&> 4 | <&ResistSnow&>"
+            },
+            {
+                "inline": false,
+                "name": "Effects",
+                "value": "Apply 2 <&Snow&>. <&Barrage&>"
+            }
+        ],
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "image": {
+            "url": "https://wildfrostwiki.com/images/a/a0/Bigloo_%28Muttonhead%29.png"
+        },
+        "title": "Bigloo"
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "metadata": {
+        "title": "berry blade",
+        "aliases": [],
+        "tags": [
+            "items"
+        ],
+        "keys": {}
+    },
+    "embed": {
+        "color": 12846604,
+		"url":"https://wildfrostwiki.com/Berry_Blade",
+        "description": "**Berry Blade** is an item players may accumulate over a run.",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Stats",
+                "value": "<&Attack&> 3"
+            },
+            {
+                "inline": false,
+                "name": "Effects",
+                "value": "Restore <&Health&> to front ally equal to damage dealt"
+            }
+        ],
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "image": {
+            "url": "https://wildfrostwiki.com/images/0/01/Berry_Blade_%28BerryBlade%29.png"
+        },
+        "title": "Berry Blade"
+    }
+}

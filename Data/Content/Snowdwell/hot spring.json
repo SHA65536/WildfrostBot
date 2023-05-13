@@ -1,0 +1,35 @@
+{
+    "metadata": {
+        "title": "hot spring",
+        "aliases": [],
+        "tags": [
+            "companions",
+            "snowdwell"
+        ],
+        "keys": {}
+    },
+    "embed": {
+        "color": 12846604,
+        "url": "https://wildfrostwiki.com/Hot_Spring",
+        "description": "The Hot Spring is a location that can be built in Snowdwell. It's the fourth structure in the town, and is found above the Tribe Hall on the middle-left cliff of town. A players can examine unlocked Companions and the challenge available for the next one.\nErena runs the Hot Springs, and claims that people from all over the land are attracted to the soothing effects of the spring water.\nSnowdwell's Hot Spring is the third new addition to the town. It starts construction when the Inventor's Hut is completed. After it is constructed, players may begin unlocking new companions.",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Construction",
+                "value": "Challenge requirement: Gain 50 <&Bling&> from a single battle"
+            },
+            {
+                "inline": false,
+                "name": "Unlocks",
+                "value": "Snobble - Equip 10 Charms\nJumbo - Deal 10 damage to your own team\nTiny Tyko - Achieve a 4x kill combo\nBombom - Use Smackback to kill 20 enemies\nVan Jun - Summon 50 Allies\nAlloy - Add 10 Scrap to Clunkers"
+            }
+        ],
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "thumbnail": {
+            "url": "https://wildfrostwiki.com/images/8/8e/Hot_Spring.png"
+        },
+        "title": "Hot Spring"
+    }
+}

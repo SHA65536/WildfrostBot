@@ -1,0 +1,34 @@
+{
+    "metadata": {
+        "title": "shroom gobbler",
+        "aliases": [],
+        "tags": [
+            "enemies"
+        ],
+        "keys": {}
+    },
+    "embed": {
+        "color": 12846604,
+        "url": "https://wildfrostwiki.com/Shroom_Gobbler",
+        "description": "**Shroom Gobbler** is an enemy which the player can encounter during a run. ",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Stats",
+                "value": "<&Health&> 14 | <&Attack&> 2 | <&Counter&> 5"
+            },
+            {
+                "inline": false,
+                "name": "Effects",
+                "value": "Whenever anything takes damage from <&Shroom&>, gain +1 <&Attack&>"
+            }
+        ],
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "image": {
+            "url": "https://wildfrostwiki.com/images/8/8a/Shroom_Gobbler_Card.png"
+        },
+        "title": "Shroom Gobbler"
+    }
+}

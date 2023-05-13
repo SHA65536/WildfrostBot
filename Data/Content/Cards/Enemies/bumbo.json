@@ -1,0 +1,35 @@
+{
+    "metadata": {
+        "title": "bumbo",
+        "aliases": [],
+        "tags": [
+            "enemies",
+            "minibosses"
+        ],
+        "keys": {}
+    },
+    "embed": {
+        "color": 12846604,
+        "url": "https://wildfrostwiki.com/Bumbo",
+        "description": "**Bumbo** is a Miniboss type enemy that the player can encounter.",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Stats",
+                "value": "<&Health&> 15 | <&Attack&> 3 | <&Counter&> 4 | <&ResistSnow&>"
+            },
+            {
+                "inline": false,
+                "name": "Effects",
+                "value": "Apply 2 <&Snow&> Barrage"
+            }
+        ],
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "image": {
+            "url": "https://wildfrostwiki.com/images/d/d3/Bumbo_%28Bumbo%29.png"
+        },
+        "title": "Bumbo"
+    }
+}

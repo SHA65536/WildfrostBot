@@ -1,0 +1,29 @@
+{
+    "metadata": {
+        "title": "sunlight drum",
+        "aliases": [],
+        "tags": [
+            "items"
+        ],
+        "keys": {}
+    },
+    "embed": {
+        "color": 12846604,
+		"url":"https://wildfrostwiki.com/Sunlight_Drum",
+        "description": "**Sunlight Drum** is an item players may accumulate over a run.",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Effects",
+                "value": "Count down <&Counter&> by 1. **Barrage**"
+            }
+        ],
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "image": {
+            "url": "https://wildfrostwiki.com/images/d/db/Sunlight_Drum_%28SunlightDrum%29.png"
+        },
+        "title": "Sunlight Drum"
+    }
+}

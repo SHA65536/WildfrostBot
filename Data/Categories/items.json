@@ -1,0 +1,27 @@
+{
+    "metadata": {
+        "title": "items",
+        "aliases": [],
+        "tags": [],
+        "keys": {}
+    },
+    "embed": {
+        "color": 12846604,
+        "url": "https://wildfrostwiki.com/Items",
+        "description": "Item cards are those which assist the player in battle from their hand, providing effects and attacking Enemies.\nThese cards are directly applied to other cards on the board - they don't count down and play immediately when used from the player's hand.\nNote: Item without an attack value do not hit when triggering. However, an attack value of 0 means they will hit a target.",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Item List",
+                "value": ""
+            }
+        ],
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "thumbnail": {
+            "url": "https://wildfrostwiki.com/images/5/55/Icon_Items.png"
+        },
+        "title": "Items"
+    }
+}

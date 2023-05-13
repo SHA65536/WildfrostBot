@@ -1,0 +1,30 @@
+{
+    "metadata": {
+        "title": "beepop mask",
+        "aliases": [],
+        "tags": [
+            "items",
+            "beepop"
+        ],
+        "keys": {}
+    },
+    "embed": {
+        "color": 12846604,
+		"url":"https://wildfrostwiki.com/Beepop_Mask",
+        "description": "**Beepop Mask** is an item players may accumulate over a run.",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Effects",
+                "value": "Summon **Beepop**"
+            }
+        ],
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "image": {
+            "url": "https://wildfrostwiki.com/images/a/aa/Beepop_Mask_%28BeepopMask%29.png"
+        },
+        "title": "Beepop Mask"
+    }
+}

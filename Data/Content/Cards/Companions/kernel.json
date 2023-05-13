@@ -1,0 +1,35 @@
+{
+    "metadata": {
+        "title": "kernel",
+        "aliases": [],
+        "tags": [
+            "companions",
+            "shell"
+        ],
+        "keys": {}
+    },
+    "embed": {
+        "color": 12846604,
+		"url":"https://wildfrostwiki.com/Kernel",
+        "description": "**Kernel** is a **Companion** that the player can bring along on a run.",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Stats",
+                "value": "<&Health&> 8 | <&Attack&> 3 | <&Counter&> 4"
+            },
+            {
+                "inline": false,
+                "name": "Effects",
+                "value": "When hit, apply 3 <&Shell&> to ally behind"
+            }
+        ],
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "image": {
+            "url": "https://wildfrostwiki.com/images/7/70/Kernel_%28Kernel%29.png"
+        },
+        "title": "Kernel"
+    }
+}

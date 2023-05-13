@@ -1,0 +1,35 @@
+{
+    "metadata": {
+        "title": "blunky",
+        "aliases": [],
+        "tags": [
+            "companions",
+            "block"
+        ],
+        "keys": {}
+    },
+    "embed": {
+        "color": 12846604,
+		"url":"https://wildfrostwiki.com/Blunky",
+        "description": "**Blunky** is a **Companion** that the player can bring along on a run.",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Stats",
+                "value": "<&Health&> 1 | <&Attack&> 1 | <&Counter&> 2"
+            },
+            {
+                "inline": false,
+                "name": "Effects",
+                "value": "When deployed, gain 1 <&Block&>"
+            }
+        ],
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "image": {
+            "url": "https://wildfrostwiki.com/images/e/ee/Blunky_%28Blunky%29.png"
+        },
+        "title": "Blunky"
+    }
+}

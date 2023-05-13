@@ -1,0 +1,35 @@
+{
+    "metadata": {
+        "title": "stormbear spirit",
+        "aliases": [],
+        "tags": [
+            "items",
+            "snow"
+        ],
+        "keys": {}
+    },
+    "embed": {
+        "color": 12846604,
+		"url":"https://wildfrostwiki.com/Stormbear_Spirit",
+        "description": "**Stormbear Spirit** is an item players may accumulate over a run.",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Stats",
+                "value": "<&Attack&> 8"
+            },
+            {
+                "inline": false,
+                "name": "Effects",
+                "value": "Target must be <&Snow&>'d"
+            }
+        ],
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "image": {
+            "url": "https://wildfrostwiki.com/images/b/bc/Stormbear_Spirit_%28StormbearSpirit%29.png"
+        },
+        "title": "Stormbear Spirit"
+    }
+}

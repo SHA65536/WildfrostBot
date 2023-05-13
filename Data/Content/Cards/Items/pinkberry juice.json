@@ -1,0 +1,29 @@
+{
+    "metadata": {
+        "title": "pinkberry juice",
+        "aliases": [],
+        "tags": [
+            "items"
+        ],
+        "keys": {}
+    },
+    "embed": {
+        "color": 12846604,
+		"url":"https://wildfrostwiki.com/Pinkberry_Juice",
+        "description": "**Pinkberry Juice** is an item players may accumulate over a run.",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Effects",
+                "value": "Increase <&Health&> by 4"
+            }
+        ],
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "image": {
+            "url": "https://wildfrostwiki.com/images/e/e5/Pinkberry_Juice_%28PinkberryJuice%29.png"
+        },
+        "title": "Pinkberry Juice"
+    }
+}

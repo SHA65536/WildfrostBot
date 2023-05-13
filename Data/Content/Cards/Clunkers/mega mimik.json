@@ -1,0 +1,40 @@
+{
+    "metadata": {
+        "title": "mega mimik",
+        "aliases": [],
+        "tags": [
+            "clunkers",
+            "shell"
+        ],
+        "keys": {}
+    },
+    "embed": {
+        "color": 12846604,
+		"url":"https://wildfrostwiki.com/Mega_Mimik",
+        "description": "**Mega Mimik** is a **Clunker** that can be obtained in a run.",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Stats",
+                "value": "<&Scrap&> 3 | <&Attack&> 5"
+            },
+            {
+                "inline": false,
+                "name": "Effects",
+                "value": "Trigger when an ally attacks. Lose 1 <&Scrap&>"
+            },
+            {
+                "inline": false,
+                "name": "Unlock",
+                "value": "Mega Mimik can be unlocked at the Inventor's Hut in Snowdwell by applying 60 <&Shell&>"
+            }
+        ],
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "image": {
+            "url": "https://wildfrostwiki.com/images/8/83/Mega_Mimik_%28MegaMimik%29.png"
+        },
+        "title": "Mega Mimik"
+    }
+}

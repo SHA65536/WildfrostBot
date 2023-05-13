@@ -1,0 +1,35 @@
+{
+    "metadata": {
+        "title": "maw jaw",
+        "aliases": [],
+        "tags": [
+            "enemies",
+            "minibosses"
+        ],
+        "keys": {}
+    },
+    "embed": {
+        "color": 12846604,
+        "url": "https://wildfrostwiki.com/Maw_Jaw",
+        "description": "**Maw Jaw** is a Miniboss type enemy that the player can encounter.",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Stats",
+                "value": "<&Health&> 30 | <&Attack&> 5 | Reaction | <&Counter&> 4"
+            },
+            {
+                "inline": false,
+                "name": "Effects",
+                "value": "Trigger when hit"
+            }
+        ],
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "image": {
+            "url": "https://wildfrostwiki.com/images/3/34/Maw_Jaw_%28Toothless%29.png"
+        },
+        "title": "Maw Jaw"
+    }
+}

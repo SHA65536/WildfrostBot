@@ -1,0 +1,35 @@
+{
+    "metadata": {
+        "title": "snoffel",
+        "aliases": [],
+        "tags": [
+            "companions",
+            "snow"
+        ],
+        "keys": {}
+    },
+    "embed": {
+        "color": 12846604,
+		"url":"https://wildfrostwiki.com/Snoffel",
+        "description": "**Snoffel** is a **Companion** that the player can bring along on a run.",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Stats",
+                "value": "<&Health&> 4 | <&Counter&> 4"
+            },
+            {
+                "inline": false,
+                "name": "Effects",
+                "value": "Apply 1 <&Snow&> to all enemies"
+            }
+        ],
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "image": {
+            "url": "https://wildfrostwiki.com/images/5/52/Snoffel_%28Snoffel%29.png"
+        },
+        "title": "Snoffel"
+    }
+}

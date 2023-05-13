@@ -1,0 +1,29 @@
+{
+    "metadata": {
+        "title": "berry bell",
+        "aliases": [],
+        "tags": [
+            "items"
+        ],
+        "keys": {}
+    },
+    "embed": {
+        "color": 12846604,
+		"url":"https://wildfrostwiki.com/Berry_Bell",
+        "description": "**Berry Bell** is an item players may accumulate over a run.",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Effects",
+                "value": "Increase <&Health&> by 1. Barrage."
+            }
+        ],
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "image": {
+            "url": "https://wildfrostwiki.com/images/4/42/Berry_Bell_%28Plum%29.png"
+        },
+        "title": "Berry Bell"
+    }
+}

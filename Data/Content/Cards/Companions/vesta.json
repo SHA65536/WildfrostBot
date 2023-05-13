@@ -1,0 +1,35 @@
+{
+    "metadata": {
+        "title": "vesta",
+        "aliases": [],
+        "tags": [
+            "companions",
+            "overburn"
+        ],
+        "keys": {}
+    },
+    "embed": {
+        "color": 12846604,
+		"url":"https://wildfrostwiki.com/Vesta",
+        "description": "**Vesta** is a **Companion** that the player can bring along on a run.",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Stats",
+                "value": "<&Health&> 8 | <&Attack&> 0 | <&Counter&> 4"
+            },
+            {
+                "inline": false,
+                "name": "Effects",
+                "value": "Double the target's <&Overburn&>"
+            }
+        ],
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "image": {
+            "url": "https://wildfrostwiki.com/images/0/00/Vesta_%28Flash%29.png"
+        },
+        "title": "Vesta"
+    }
+}

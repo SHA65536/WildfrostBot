@@ -1,0 +1,35 @@
+{
+    "metadata": {
+        "title": "the snow knight",
+        "aliases": [],
+        "tags": [
+            "enemies",
+            "minibosses"
+        ],
+        "keys": {}
+    },
+    "embed": {
+        "color": 12846604,
+        "url": "https://wildfrostwiki.com/The_Snow_Knight",
+        "description": "**The Snow Knight** is a Miniboss type enemy that the player can encounter.",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Stats",
+                "value": "<&Health&> 10 | <&Attack&> 1 | <&Counter&> 2"
+            },
+            {
+                "inline": false,
+                "name": "Effects",
+                "value": "Whenever anything is <&Snow&>'d, gain +1 <&Attack&>"
+            }
+        ],
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "image": {
+            "url": "https://wildfrostwiki.com/images/a/ae/The_Snow_Knight_%28SnowKnight%29.png"
+        },
+        "title": "The Snow Knight"
+    }
+}

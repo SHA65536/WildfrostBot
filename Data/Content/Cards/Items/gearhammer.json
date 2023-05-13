@@ -1,0 +1,34 @@
+{
+    "metadata": {
+        "title": "gearhammer",
+        "aliases": [],
+        "tags": [
+            "items"
+        ],
+        "keys": {}
+    },
+    "embed": {
+        "color": 12846604,
+		"url":"https://wildfrostwiki.com/Gearhammer",
+        "description": "**Gearhammer** is an item **Clunkmaster** leaders start with in the deck.",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Stats",
+                "value": "<&Attack&> 2"
+            },
+            {
+                "inline": false,
+                "name": "Effects",
+                "value": "Gain +1 <&Attack&>"
+            }
+        ],
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "image": {
+            "url": "https://wildfrostwiki.com/images/3/37/Gearhammer_%28Gearhammer%29.png"
+        },
+        "title": "Gearhammer"
+    }
+}

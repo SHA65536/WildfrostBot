@@ -1,0 +1,34 @@
+{
+    "metadata": {
+        "title": "puffball",
+        "aliases": [],
+        "tags": [
+            "enemies"
+        ],
+        "keys": {}
+    },
+    "embed": {
+        "color": 12846604,
+        "url": "https://wildfrostwiki.com/Puffball",
+        "description": "**Puffball** is an enemy which the player can encounter during a run. ",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Stats",
+                "value": "<&Health&> 2 | <&Attack&> 0"
+            },
+            {
+                "inline": false,
+                "name": "Effects",
+                "value": "Apply 2 <&Shroom&>. Trigger against the target when an ally attacks"
+            }
+        ],
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "image": {
+            "url": "https://wildfrostwiki.com/images/2/21/Puffball_Card.png"
+        },
+        "title": "Puffball"
+    }
+}

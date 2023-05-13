@@ -1,0 +1,35 @@
+{
+    "metadata": {
+        "title": "bam",
+        "aliases": [],
+        "tags": [
+            "enemies",
+            "bosses"
+        ],
+        "keys": {}
+    },
+    "embed": {
+        "color": 12846604,
+        "url": "https://wildfrostwiki.com/Bam",
+        "description": "**Bam** is a Boss type enemy that the player can encounter. It splits from Bamboozle when that boss reaches the phase where it separates into Bam and Boozle.",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Stats",
+                "value": "<&Health&> 16 | <&Attack&> 6 | <&Counter&> 6 | <&ResistSnow&>"
+            },
+            {
+                "inline": false,
+                "name": "Effects",
+                "value": "**Wild**"
+            }
+        ],
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "image": {
+            "url": "https://wildfrostwiki.com/images/6/69/Bam_%28SplitBoss1%29.png"
+        },
+        "title": "Bam"
+    }
+}

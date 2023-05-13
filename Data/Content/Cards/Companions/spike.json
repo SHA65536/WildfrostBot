@@ -1,0 +1,41 @@
+{
+    "metadata": {
+        "title": "spike",
+        "aliases": [],
+        "tags": [
+            "companions",
+            "pets",
+            "hogheaded"
+        ],
+        "keys": {}
+    },
+    "embed": {
+        "color": 12846604,
+		"url":"https://wildfrostwiki.com/Spike",
+        "description": "Spike is a pet companion can be unlocked.",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Stats",
+                "value": "<&Health&> 8 | <&Teeth&> 2"
+            },
+            {
+                "inline": false,
+                "name": "Effects",
+                "value": "**Hogheaded**"
+            },
+            {
+                "inline": false,
+                "name": "Unlock",
+                "value": "Spike can be unlocked at the Pet's House in Snowdwell by killing 10 enemies with <&Teeth&>"
+            }
+        ],
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "image": {
+            "url": "https://wildfrostwiki.com/images/e/ee/Spike_%28Jagzag%29.png"
+        },
+        "title": "Spike"
+    }
+}

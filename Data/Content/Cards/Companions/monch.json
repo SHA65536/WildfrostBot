@@ -1,0 +1,34 @@
+{
+    "metadata": {
+        "title": "monch",
+        "aliases": [],
+        "tags": [
+            "companions"
+        ],
+        "keys": {}
+    },
+    "embed": {
+        "color": 12846604,
+		"url":"https://wildfrostwiki.com/Monch",
+        "description": "**Monch** is a **Companion** that the player can bring along on a run. They share similarities to **Monchi**, though the exact connection is unknown beyond an appetite for cards.",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Stats",
+                "value": "<&Health&> 6 | <&Attack&> 2 | <&Counter&> 4"
+            },
+            {
+                "inline": false,
+                "name": "Effects",
+                "value": "Eat allies in the row, absorbing their <&Attack&> and <&Health&>"
+            }
+        ],
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "image": {
+            "url": "https://wildfrostwiki.com/images/2/26/Monch_%28Monch%29.png"
+        },
+        "title": "Monch"
+    }
+}

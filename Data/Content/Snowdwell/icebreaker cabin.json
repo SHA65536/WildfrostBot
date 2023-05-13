@@ -1,0 +1,34 @@
+{
+    "metadata": {
+        "title": "icebreaker cabin",
+        "aliases": [],
+        "tags": [
+            "snowdwell"
+        ],
+        "keys": {}
+    },
+    "embed": {
+        "color": 12846604,
+        "url": "https://wildfrostwiki.com/Icebreaker_Cabin",
+        "description": "The Icebreaker Cabin is a building in Snowdwell inhabited by Charles. It is the building in the middle, above the Tribe hall. The player is able to examine unlocked events that can happen during runs and find the challenge to unlock the next one.",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Construction",
+                "value": "Challenge requirement: Spend 500 <&Bling&>"
+            },
+            {
+                "inline": false,
+                "name": "Unlocks",
+                "value": "Shade Sculptor - Gain 50 Bling fro a Single battle\nCharm Merchant - Kill 15 Enemies with Shroom\nGnome Traveller - Feed the Muncher 5 Times"
+            }
+        ],
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "thumbnail": {
+            "url": "https://wildfrostwiki.com/images/3/36/IcebreakerCabin.png"
+        },
+        "title": "Icebreaker Cabin"
+    }
+}

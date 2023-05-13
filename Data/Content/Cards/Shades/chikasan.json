@@ -1,0 +1,36 @@
+{
+    "metadata": {
+        "title": "chikasan",
+        "aliases": [],
+        "tags": [
+            "shades",
+            "overburn",
+            "chikichi"
+        ],
+        "keys": {}
+    },
+    "embed": {
+        "color": 12846604,
+		"url":"https://wildfrostwiki.com/Chikashi",
+        "description": "**Chikasan** is a **Shade** that the player can summon by sacrificing **Chikani**. **Chikasan** can again be sacrificed to summon **Chikasan**, who will continue the chain of **Chikashi**",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Stats",
+                "value": "<&Health&> 6 | <&Attack&> 6 | <&Counter&> 3"
+            },
+            {
+                "inline": false,
+                "name": "Effects",
+                "value": "When **Sacrificed**, summon **Chikashi**. **Summoned**"
+            }
+        ],
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "image": {
+            "url": "https://wildfrostwiki.com/images/7/73/Chikasan_%28TailsThree%29.png"
+        },
+        "title": "Chikasan"
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "metadata": {
+        "title": "storm globe",
+        "aliases": [],
+        "tags": [
+            "items",
+            "snow"
+        ],
+        "keys": {}
+    },
+    "embed": {
+        "color": 12846604,
+		"url":"https://wildfrostwiki.com/Storm_Globe",
+        "description": "**Storm Globe** is an item players may accumulate over a run.",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Stats",
+                "value": "<&Attack&> 0"
+            },
+            {
+                "inline": false,
+                "name": "Effects",
+                "value": "Apply 4 <&Snow&>. Reduce by 1 when played"
+            }
+        ],
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "image": {
+            "url": "https://wildfrostwiki.com/images/2/23/Storm_Globe_%28SnowGlobe%29.png"
+        },
+        "title": "Storm Globe"
+    }
+}

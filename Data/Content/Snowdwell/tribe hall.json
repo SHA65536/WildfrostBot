@@ -1,0 +1,44 @@
+{
+    "metadata": {
+        "title": "tribe hall",
+        "aliases": [],
+        "tags": [
+            "snowdwell"
+        ],
+        "keys": {}
+    },
+    "embed": {
+        "color": 12846604,
+        "url": "https://wildfrostwiki.com/Tribe_Hall",
+        "description": "The Tribe Hall is the meeting hall for the three tribes of Snowdwell. It was built at the base of the mountain, left of the Pet House and airship platform.\nIt is unlocked by default, and contains information on the tribes that player has unlocked as well as the challenge to unlock the next one.",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Unlocks",
+                "value": "Snowdwellers - Unlocked by default\nShademancers - Kill 100 enemies\nClunkmasters - Deal 1000 damage"
+            },
+            {
+                "inline": false,
+                "name": "Snowdwellers",
+                "value": "A collection of clans who banded together in the town of Snowdwell to lead the battle against the Wildfrost.\nMastering the elements is key to their strategy in battle, using snow and shrooms to hinder enemies, shells to protect themselves, and flaming hot spice to gain more power."
+            },
+            {
+                "inline": false,
+                "name": "Shademancers",
+                "value": "These skilled warriors unleash the power of darkness by summoning spirits known as Shades to aid them in battle.\nShades can absorb enemy attacks, be powered up to create devastating opponents, or strategically sacrificed to gain various boons."
+            },
+            {
+                "inline": false,
+                "name": "Clunkmasters",
+                "value": "The lost tribe of the Gnomes! These master tinkerers use junk and scrap to fuel powerful Clunkers and weapons.\nStriking a balance between creating and recycling junk to power machinery and weaponry is fundamental to the Clunkmaster strategy."
+            }
+        ],
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "thumbnail": {
+            "url": "https://wildfrostwiki.com/images/a/af/TribeHall.png"
+        },
+        "title": "Tribe Hall"
+    }
+}

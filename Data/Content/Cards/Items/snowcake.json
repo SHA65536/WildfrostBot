@@ -1,0 +1,35 @@
+{
+    "metadata": {
+        "title": "snowcake",
+        "aliases": [],
+        "tags": [
+            "items",
+            "snow"
+        ],
+        "keys": {}
+    },
+    "embed": {
+        "color": 12846604,
+		"url":"https://wildfrostwiki.com/Snowcake",
+        "description": "**Snowcake** is an item players may accumulate over a run.",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Stats",
+                "value": "<&Attack&> 0"
+            },
+            {
+                "inline": false,
+                "name": "Effects",
+                "value": "Apply 12 <&Snow&>. Consume"
+            }
+        ],
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "image": {
+            "url": "https://wildfrostwiki.com/images/0/08/Snowcake_%28Snowcake%29.png"
+        },
+        "title": "Snowcake"
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "metadata": {
+        "title": "frostbloom",
+        "aliases": [],
+        "tags": [
+            "items",
+            "frost"
+        ],
+        "keys": {}
+    },
+    "embed": {
+        "color": 12846604,
+		"url":"https://wildfrostwiki.com/Frostbloom",
+        "description": "**Frostbloom** is an item players may accumulate over a run.",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Stats",
+                "value": "<&Attack&> 0"
+            },
+            {
+                "inline": false,
+                "name": "Effects",
+                "value": "Apply 3 <&Frost&>"
+            }
+        ],
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "image": {
+            "url": "https://wildfrostwiki.com/images/d/d5/Frostbloom_%28FrostBloom%29.png"
+        },
+        "title": "Frostbloom"
+    }
+}

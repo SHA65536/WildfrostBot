@@ -1,0 +1,29 @@
+{
+    "metadata": {
+        "title": "spuncher",
+        "aliases": [],
+        "tags": [
+            "enemies"
+        ],
+        "keys": {}
+    },
+    "embed": {
+        "color": 12846604,
+        "url": "https://wildfrostwiki.com/Spuncher",
+        "description": "**Spuncher** is an enemy which the player can encounter during a run. ",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Stats",
+                "value": "<&Health&> 15 | <&Attack&> 3 | <&Counter&> 3"
+            }
+        ],
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "image": {
+            "url": "https://wildfrostwiki.com/images/2/20/Spuncher_Card.png"
+        },
+        "title": "Spuncher"
+    }
+}

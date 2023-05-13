@@ -1,0 +1,40 @@
+{
+    "metadata": {
+        "title": "infernoko",
+        "aliases": [],
+        "tags": [
+            "enemies",
+            "bosses"
+        ],
+        "keys": {}
+    },
+    "embed": {
+        "color": 12846604,
+        "url": "https://wildfrostwiki.com/Infernoko",
+        "description": "**Infernoko** is a Boss type enemy that the player can encounter.",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Stats",
+                "value": "<&Health&> 16 | <&Attack&> 1 | <&Counter&> 4 | <&ResistSnow&>"
+            },
+            {
+                "inline": false,
+                "name": "Effects",
+                "value": "When an ally is killed, gain their <&Attack&>"
+            },
+            {
+                "inline": false,
+                "name": "Notes",
+                "value": "Transforms into **** When defeated"
+            }
+        ],
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "image": {
+            "url": "https://wildfrostwiki.com/images/2/28/Infernoko_%28FrenzyBoss%29.png"
+        },
+        "title": "Infernoko"
+    }
+}

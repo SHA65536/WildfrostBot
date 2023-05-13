@@ -1,0 +1,34 @@
+{
+    "metadata": {
+        "title": "leech",
+        "aliases": [],
+        "tags": [
+            "shades"
+        ],
+        "keys": {}
+    },
+    "embed": {
+        "color": 12846604,
+		"url":"https://wildfrostwiki.com/Leech",
+        "description": "**Leech** is a **Shade** that the player can summon by using the **Leech Mask**. Leech is summoned to a location on the enemy side of the board meaning that their effect of stealing health is applied to the player's enemies, as they are Leech's allies.",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Stats",
+                "value": "<&Health&> 5 | <&Attack&> 2 | <&Counter&> 3"
+            },
+            {
+                "inline": false,
+                "name": "Effects",
+                "value": "Take 2 <&Health&> from all allies. **Summoned**"
+            }
+        ],
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "image": {
+            "url": "https://wildfrostwiki.com/images/f/fc/Leech_%28Leech%29.png"
+        },
+        "title": "Leech"
+    }
+}

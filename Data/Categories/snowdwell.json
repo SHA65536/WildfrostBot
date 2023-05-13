@@ -1,0 +1,27 @@
+{
+    "metadata": {
+        "title": "snowdwell",
+        "aliases": [],
+        "tags": [],
+        "keys": {}
+    },
+    "embed": {
+        "color": 12846604,
+        "url": "https://wildfrostwiki.com/Snowdwell",
+        "description": "Snowdwell is the home to survivors in the era of the Wildfrost. Built around a large chunk of luminice, many gravitate to the settlement for protection. While Snowdwell starts as a small settlement, there are several structures that can be constructed which allow players to unlock more cards.\nSnowdwell offers many services as it expands, and each structure brings a new opportunity to unlock cards to use in a run. The challenges that must be completed may be viewed at their respective building, and almost all must be completed in a set order. This means the current challenge seen must be completed before the next one is revealed.",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Structure List",
+                "value": ""
+            }
+        ],
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "thumbnail": {
+            "url": "https://wildfrostwiki.com/images/3/3b/Snowdwell.png"
+        },
+        "title": "Snowdwell"
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "metadata": {
+        "title": "hazeblazer",
+        "aliases": [],
+        "tags": [
+            "companions",
+            "haze"
+        ],
+        "keys": {}
+    },
+    "embed": {
+        "color": 12846604,
+		"url":"https://wildfrostwiki.com/Hazeblazer",
+        "description": "**Hazeblazer** is a **Companion** that the player can bring along on a run.",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Stats",
+                "value": "<&Health&> 4 | <&Attack&> 0 | <&Counter&> 6"
+            },
+            {
+                "inline": false,
+                "name": "Effects",
+                "value": "Apply 1 <&Haze&>. Take 2 <&Health&> from all allies"
+            }
+        ],
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "image": {
+            "url": "https://wildfrostwiki.com/images/1/14/Hazeblazer_%28Voodoo%29.png"
+        },
+        "title": "Hazeblazer"
+    }
+}

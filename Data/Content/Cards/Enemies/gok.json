@@ -1,0 +1,34 @@
+{
+    "metadata": {
+        "title": "gok",
+        "aliases": [],
+        "tags": [
+            "enemies"
+        ],
+        "keys": {}
+    },
+    "embed": {
+        "color": 12846604,
+        "url": "https://wildfrostwiki.com/Gok",
+        "description": "**Gok** is an enemy which the player can encounter during a run. ",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Stats",
+                "value": "<&Health&> 18 | <&Attack&> 5 | <&Counter&> 5"
+            },
+            {
+                "inline": false,
+                "name": "Effects",
+                "value": "When hit, apply 1 <&Demonize&> to the attacker"
+            }
+        ],
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "image": {
+            "url": "https://wildfrostwiki.com/images/5/54/Gok_Card.png"
+        },
+        "title": "Gok"
+    }
+}

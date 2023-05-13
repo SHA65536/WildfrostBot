@@ -1,0 +1,35 @@
+{
+    "metadata": {
+        "title": "snow stick",
+        "aliases": [],
+        "tags": [
+            "items",
+            "snow"
+        ],
+        "keys": {}
+    },
+    "embed": {
+        "color": 12846604,
+		"url":"https://wildfrostwiki.com/Snow_Stick",
+        "description": "**Snow Stick** is an item **Snowdweller** leaders begin a run with",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Stats",
+                "value": "<&Attack&> 1"
+            },
+            {
+                "inline": false,
+                "name": "Effects",
+                "value": "Apply 2 <&Snow&>"
+            }
+        ],
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "image": {
+            "url": "https://wildfrostwiki.com/images/7/76/Snow_Stick_%28SnowStick%29.png"
+        },
+        "title": "Snow Stick"
+    }
+}

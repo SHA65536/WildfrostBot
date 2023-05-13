@@ -1,0 +1,30 @@
+{
+    "metadata": {
+        "title": "spice stones",
+        "aliases": [],
+        "tags": [
+            "items",
+            "spice"
+        ],
+        "keys": {}
+    },
+    "embed": {
+        "color": 12846604,
+		"url":"https://wildfrostwiki.com/Spice_Stones",
+        "description": "**Spice Stones** is an item players may accumulate over a run.",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Effects",
+                "value": "Double the target's <&Spice&>"
+            }
+        ],
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "image": {
+            "url": "https://wildfrostwiki.com/images/7/7a/Spice_Stones_%28SpiceStones%29.png"
+        },
+        "title": "Spice Stones"
+    }
+}

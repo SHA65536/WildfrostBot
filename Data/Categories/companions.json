@@ -1,0 +1,30 @@
+{
+    "metadata": {
+        "title": "companions",
+        "aliases": [],
+        "tags": [
+            "pets",
+            "hot spring"
+        ],
+        "keys": {}
+    },
+    "embed": {
+        "color": 12846604,
+        "url": "https://wildfrostwiki.com/Companions",
+        "description": "Companion cards are those which assist the player in battle, protecting the leader and attacking Enemies. These cards are defined by their health hearts and card counter, which is how many turns it takes before they trigger.\nCompanions are played directly on the board in whichever row and position the player would like, and can be moved freely to another position during play. They can also be returned to the player's deck, which will shield them from attack and heal 5 health.\nMost companions are freed from Frozen Traveller events during a run. Upon shattering Ice, a player will be presented with 3 companions and the choice to pick 1 to take with them on the rest of the run. This will not impact the cards that may be found later on.",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Companion List",
+                "value": ""
+            }
+        ],
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "thumbnail": {
+            "url": "https://wildfrostwiki.com/images/3/3b/Icon_Companions.png"
+        },
+        "title": "Companions"
+    }
+}

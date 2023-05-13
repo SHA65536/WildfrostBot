@@ -1,0 +1,34 @@
+{
+    "metadata": {
+        "title": "tootordion",
+        "aliases": [],
+        "tags": [
+            "clunkers"
+        ],
+        "keys": {}
+    },
+    "embed": {
+        "color": 12846604,
+		"url":"https://wildfrostwiki.com/Tootordion",
+        "description": "**Tootordion** is a **Clunker** that can be obtained in a run.",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Stats",
+                "value": "<&Scrap&> 3 | <&Counter&> 4"
+            },
+            {
+                "inline": false,
+                "name": "Effects",
+                "value": "Trigger a random ally. Lose 1 <&Scrap&>"
+            }
+        ],
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "image": {
+            "url": "https://wildfrostwiki.com/images/7/75/Tootordion_%28Joob%29.png"
+        },
+        "title": "Tootordion"
+    }
+}

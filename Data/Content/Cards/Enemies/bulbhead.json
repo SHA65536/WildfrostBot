@@ -1,0 +1,34 @@
+{
+    "metadata": {
+        "title": "bulbhead",
+        "aliases": [],
+        "tags": [
+            "enemies"
+        ],
+        "keys": {}
+    },
+    "embed": {
+        "color": 12846604,
+        "url": "https://wildfrostwiki.com/Bulbhead",
+        "description": "**Bulbhead** is an enemy which the player can encounter during a run.",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Stats",
+                "value": "<&Health&> 8 | <&Attack&> 0 | <&Counter&> 5"
+            },
+            {
+                "inline": false,
+                "name": "Effects",
+                "value": "Apply 2 <&Shroom&>. Barrage"
+            }
+        ],
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "image": {
+            "url": "https://wildfrostwiki.com/images/8/80/Bulbhead_Card.png"
+        },
+        "title": "Bulbhead"
+    }
+}

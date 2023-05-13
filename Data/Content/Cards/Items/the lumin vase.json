@@ -1,0 +1,35 @@
+{
+    "metadata": {
+        "title": "the lumin vase",
+        "aliases": [],
+        "tags": [
+            "items",
+            "lumin"
+        ],
+        "keys": {}
+    },
+    "embed": {
+        "color": 12846604,
+		"url":"https://wildfrostwiki.com/The_Lumin_Vase",
+        "description": "**The Lumin Vase** is an item players may accumulate over a run.",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Effects",
+                "value": "Apply 1 <&Lumin&>"
+            },
+            {
+                "inline": false,
+                "name": "||The Lumin Vase||",
+                "value": "||Obtained by getting both **Broken Vase** and **Lumin Goop** when using 3 difficulty bells. When in deck, unlocks the true boss fight **Heart of the Storm** after defeating the **Eye of the Storm** battle||"
+            }
+        ],
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "image": {
+            "url": "https://wildfrostwiki.com/images/f/fb/The_Lumin_Vase_%28LuminVase%29.png"
+        },
+        "title": "The Lumin Vase"
+    }
+}

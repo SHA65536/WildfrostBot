@@ -1,0 +1,37 @@
+{
+    "metadata": {
+        "title": "eye of the storm",
+        "aliases": [],
+        "tags": [
+            "frost guardian",
+            "frotoscope"
+        ],
+        "keys": {
+            "spoiler": "true"
+        }
+    },
+    "embed": {
+        "color": 12846604,
+        "url": "https://wildfrostwiki.com/Eye_of_the_Storm",
+        "description": "The Eye of the Storm is the final boss fight, unless the player has met the conditions to reach the real final fight. While the encountered boss is initially the Frost Guardian, the first phase will change based on the player.",
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "fields": [
+            {
+                "inline": false,
+                "name": "Phase 1",
+                "value": "When the player first encounters the Eye of the Storm, they will fight the Frost Guardian. When the player beats them, the Emperor Shade will corrupt the player's leader and deck. This will make them the new first phase of the boss fight, and the cards that will fight alongside them will resemble the deck the player had. This makes the fight difficult to account for as it will change after every \"victory?\" run.\n\nThe boss and the cards played with the boss in the first phase will change based on the leader and deck that last beat the fight. Instead of items, however, other enemy cards will substitute in will similar abilities.\nCharms that have been equipped to a leader or any Companion will remain applied in their corrupt form. Items with Charms applied, however, will not carry over to the substitution card."
+            },
+            {
+                "inline": false,
+                "name": "Phase 2",
+                "value": "The second phase of the boss is always against the **Frost Guardian**"
+            }
+        ],
+        "thumbnail": {
+            "url": "https://wildfrostwiki.com/images/f/f3/Crown.png"
+        },
+        "title": "Eye Of The Storm"
+    }
+}

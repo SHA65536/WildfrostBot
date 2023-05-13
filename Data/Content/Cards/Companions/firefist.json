@@ -1,0 +1,35 @@
+{
+    "metadata": {
+        "title": "firefist",
+        "aliases": [],
+        "tags": [
+            "companions",
+            "spice"
+        ],
+        "keys": {}
+    },
+    "embed": {
+        "color": 12846604,
+		"url":"https://wildfrostwiki.com/Firefist",
+        "description": "**Firefist** is a **Companion** that the player can bring along on a run.",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Stats",
+                "value": "<&Health&> 10 | <&Attack&> 2 | <&Counter&> 6"
+            },
+            {
+                "inline": false,
+                "name": "Effects",
+                "value": "When <&Health&> lost, gain equal <&Spice&>"
+            }
+        ],
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "image": {
+            "url": "https://wildfrostwiki.com/images/b/bc/Firefist_%28Firefist%29.png"
+        },
+        "title": "Firefist"
+    }
+}

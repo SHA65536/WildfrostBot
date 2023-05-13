@@ -1,0 +1,34 @@
+{
+    "metadata": {
+        "title": "slapcrackers",
+        "aliases": [],
+        "tags": [
+            "items"
+        ],
+        "keys": {}
+    },
+    "embed": {
+        "color": 12846604,
+		"url":"https://wildfrostwiki.com/Slapcrackers",
+        "description": "**Slapcrackers** is an item players may accumulate over a run.",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Stats",
+                "value": "<&Attack&> 1 | <&Frenzy&> x4"
+            },
+            {
+                "inline": false,
+                "name": "Effects",
+                "value": "Aimless"
+            }
+        ],
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "image": {
+            "url": "https://wildfrostwiki.com/images/c/c7/Slapcrackers_%28Slapcrackers%29.png"
+        },
+        "title": "Slapcrackers"
+    }
+}

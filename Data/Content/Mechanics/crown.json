@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "title": "crown",
+        "aliases": [],
+        "tags": [],
+        "keys": {}
+    },
+    "embed": {
+        "color": 12846604,
+        "url": "https://wildfrostwiki.com/Crowns",
+        "description": "**Crowns** are items that can be given to any card to have it deploy with the leader at the start of a battle. They may be applied or removed at any time before a battle starts from the inventory. If added or removed after a battle starts, the change will for the following battles.\nCrowns are purchased from The **Woolly Snail**. They cost 80 <&Bling&>, though only one is sold at each shop. Another crown may be purchased for another 80 <&Bling&> if the player encounters the shop event again later in the run.",
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "thumbnail": {
+            "url": "https://wildfrostwiki.com/images/f/f3/Crown.png"
+        },
+        "title": "Crowns"
+    }
+}

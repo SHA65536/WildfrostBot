@@ -1,0 +1,36 @@
+{
+    "metadata": {
+        "title": "i.c.g.m.",
+        "aliases": [
+            "icgm"
+        ],
+        "tags": [
+            "clunkers"
+        ],
+        "keys": {}
+    },
+    "embed": {
+        "color": 12846604,
+		"url":"https://wildfrostwiki.com/ICGM",
+        "description": "**I.C.G.M.** is a **Clunker** that can be obtained in a run.",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Stats",
+                "value": "<&Scrap&> 4 | <&Attack&> 10 | <&Counter&> 13"
+            },
+            {
+                "inline": false,
+                "name": "Effects",
+                "value": "Trigger multiple times equal to <&Scrap&>. Destroy self"
+            }
+        ],
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "image": {
+            "url": "https://wildfrostwiki.com/images/9/95/I.C.G.M_%28OhNo%29.png"
+        },
+        "title": "I.C.G.M."
+    }
+}

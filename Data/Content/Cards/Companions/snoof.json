@@ -1,0 +1,36 @@
+{
+    "metadata": {
+        "title": "snoof",
+        "aliases": [],
+        "tags": [
+            "companions",
+            "pets",
+            "snow"
+        ],
+        "keys": {}
+    },
+    "embed": {
+        "color": 12846604,
+		"url":"https://wildfrostwiki.com/Snoof",
+        "description": "**Snoof** is a pet Companion that the player begins with having unlocked. Until another pet is unlocked, the player will start every run with **Snoof**.",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Stats",
+                "value": "<&Health&> 3 | <&Attack&> 3 | <&Counter&> 3"
+            },
+            {
+                "inline": false,
+                "name": "Effects",
+                "value": "Apply 1 <&Snow&>"
+            }
+        ],
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "image": {
+            "url": "https://wildfrostwiki.com/images/3/33/Snoof_%28Wolfie%29.png"
+        },
+        "title": "Snoof"
+    }
+}

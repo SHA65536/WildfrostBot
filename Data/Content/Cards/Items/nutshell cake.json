@@ -1,0 +1,30 @@
+{
+    "metadata": {
+        "title": "nutshell cake",
+        "aliases": [],
+        "tags": [
+            "items",
+            "shell"
+        ],
+        "keys": {}
+    },
+    "embed": {
+        "color": 12846604,
+		"url":"https://wildfrostwiki.com/Nutshell_Cake",
+        "description": "**Nutshell Cake** is an item players may accumulate over a run.",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Effects",
+                "value": "Apply 9 <&Shell&>. Reduce <&Health&> by 2. Consume."
+            }
+        ],
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "image": {
+            "url": "https://wildfrostwiki.com/images/3/30/Nutshell_Cake_%28NutshellCake%29.png"
+        },
+        "title": "Nutshell Cake"
+    }
+}

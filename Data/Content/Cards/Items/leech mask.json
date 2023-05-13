@@ -1,0 +1,30 @@
+{
+    "metadata": {
+        "title": "leech mask",
+        "aliases": [],
+        "tags": [
+            "items",
+            "leech"
+        ],
+        "keys": {}
+    },
+    "embed": {
+        "color": 12846604,
+		"url":"https://wildfrostwiki.com/Leech_Mask",
+        "description": "**Leech Mask** is an item players may accumulate over a run.",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Effects",
+                "value": "Summon **Leech** on the enemy side. Consume"
+            }
+        ],
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "image": {
+            "url": "https://wildfrostwiki.com/images/4/48/Leech_Mask_%28Leecher%29.png"
+        },
+        "title": "Leech Mask"
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "metadata": {
+        "title": "frost lancer",
+        "aliases": [],
+        "tags": [
+            "enemies",
+            "bosses"
+        ],
+        "keys": {}
+    },
+    "embed": {
+        "color": 12846604,
+        "url": "https://wildfrostwiki.com/Frost_Lancer",
+        "description": "**Frost Lancer** is a Boss type enemy that the player can encounter.",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Stats",
+                "value": "<&Health&> 60 | <&Attack&> 7 | <&Counter&> 6 | <&ResistSnow&>"
+            },
+            {
+                "inline": false,
+                "name": "Effects",
+                "value": "Aimless"
+            }
+        ],
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "image": {
+            "url": "https://wildfrostwiki.com/images/a/a3/Frost_Lancer_%28TrueFinalBoss3%29.png"
+        },
+        "title": "Frost Lancer"
+    }
+}

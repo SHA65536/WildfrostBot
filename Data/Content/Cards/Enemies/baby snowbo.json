@@ -1,0 +1,29 @@
+{
+    "metadata": {
+        "title": "baby snowbo",
+        "aliases": [],
+        "tags": [
+            "enemies"
+        ],
+        "keys": {}
+    },
+    "embed": {
+        "color": 12846604,
+        "url": "https://wildfrostwiki.com/Baby_Snowbo",
+        "description": "**Baby Snowbo** is an enemy which the player can encounter during a run. ",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Stats",
+                "value": "<&Health&> 1 | <&Attack&> 1 | <&Counter&> 2"
+            }
+        ],
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "image": {
+            "url": "https://wildfrostwiki.com/images/0/02/Baby_Snowbo_Card.png"
+        },
+        "title": "Baby Snowbo"
+    }
+}

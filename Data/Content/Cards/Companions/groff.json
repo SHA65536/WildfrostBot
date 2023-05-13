@@ -1,0 +1,35 @@
+{
+    "metadata": {
+        "title": "groff",
+        "aliases": [],
+        "tags": [
+            "companions",
+            "frenzy"
+        ],
+        "keys": {}
+    },
+    "embed": {
+        "color": 12846604,
+		"url":"https://wildfrostwiki.com/Groff",
+        "description": "**Groff** is a **Companion** that the player can bring along on a run. As they have no counter, they will only activate when the conditions in the description are met: an ally must be sacrificed for Groff to attack.",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Stats",
+                "value": "<&Health&> 5 | <&Attack&> 5 | <&Frenzy&> x2"
+            },
+            {
+                "inline": false,
+                "name": "Effects",
+                "value": "Trigger when an ally is **Sacrificed**"
+            }
+        ],
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "image": {
+            "url": "https://wildfrostwiki.com/images/3/3e/Groff_%28Boggler%29.png"
+        },
+        "title": "Groff"
+    }
+}

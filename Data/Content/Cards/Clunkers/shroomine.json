@@ -1,0 +1,35 @@
+{
+    "metadata": {
+        "title": "shroomine",
+        "aliases": [],
+        "tags": [
+            "clunkers",
+            "shroom"
+        ],
+        "keys": {}
+    },
+    "embed": {
+        "color": 12846604,
+		"url":"https://wildfrostwiki.com/Shroomine",
+        "description": "**Shroomine** is a **Clunker** that can be obtained in a run.",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Stats",
+                "value": "<&Scrap&> 1"
+            },
+            {
+                "inline": false,
+                "name": "Effects",
+                "value": "When hit, apply 4 <&Shrrom&> to the attacker"
+            }
+        ],
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "image": {
+            "url": "https://wildfrostwiki.com/images/9/91/Shroomine_%28Shroomine%29.png"
+        },
+        "title": "Shroomine"
+    }
+}

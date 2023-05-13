@@ -1,0 +1,35 @@
+{
+    "metadata": {
+        "title": "fungun",
+        "aliases": [],
+        "tags": [
+            "companions",
+            "shroom"
+        ],
+        "keys": {}
+    },
+    "embed": {
+        "color": 12846604,
+		"url":"https://wildfrostwiki.com/Fungun",
+        "description": "**Fungun** is a **Companion** that the player can bring along on a run.",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Stats",
+                "value": "<&Health&> 10 | <&Attack&> 0 | <&Counter&> 5"
+            },
+            {
+                "inline": false,
+                "name": "Effects",
+                "value": "Apply 2 <&Shroom&>. Increase by 1 when hit "
+            }
+        ],
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "image": {
+            "url": "https://wildfrostwiki.com/images/a/ac/Fungun_%28Fungoose%29.png"
+        },
+        "title": "Fungun"
+    }
+}

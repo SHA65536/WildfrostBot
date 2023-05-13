@@ -1,0 +1,36 @@
+{
+    "metadata": {
+        "title": "inventors hut",
+        "aliases": [],
+        "tags": [
+            "snowdwell",
+            "items",
+            "clunkers"
+        ],
+        "keys": {}
+    },
+    "embed": {
+        "color": 12846604,
+        "ur": "https://wildfrostwiki.com/Inventors_Hut",
+        "description": "The Inventor's Hut is a building in Snowdwell. It's the third structure in town, and is found above the Pet House on the right-hand side of town. Players can see unlocked Item or Clunker cards, examine them, and the next challenge available.\nThe place is run by Plyus. They will craft new items as the player completes challenges.",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Construction",
+                "value": "Challenge requirement: Hit the Redraw Bell 10 times"
+            },
+            {
+                "inline": false,
+                "name": "Unlocks",
+                "value": "**Slapcrackers** - Achieve a 3x kill combo\n**Kobonker** - Add 3 Clunkers to your deck\n**Grabber** - Kill 20 enemies with Items\n**Scrap Pile** - Block 10 hits with Clunkers\n**Mega Mimik** - Apply 60 <&Shell&>\n**Krono** - Buy 10 <&Crown&>"
+            }
+        ],
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "thumbnail": {
+            "url": "https://wildfrostwiki.com/images/4/41/InventorsHut.png"
+        },
+        "title": "Inventor's Hut"
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "metadata": {
+        "title": "scrap pile",
+        "aliases": [],
+        "tags": [
+            "items",
+            "scrap"
+        ],
+        "keys": {}
+    },
+    "embed": {
+        "color": 12846604,
+		"url":"https://wildfrostwiki.com/Scrap_Pile",
+        "description": "**Scrap Pile** is an item players may accumulate over a run.",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Effects",
+                "value": "Add 1 <&Scrap&>"
+            }
+        ],
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "image": {
+            "url": "https://wildfrostwiki.com/images/5/54/Scrap_Pile_%28ScrapPile%29.png"
+        },
+        "title": "Scrap Pile"
+    }
+}

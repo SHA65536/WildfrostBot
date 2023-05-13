@@ -1,0 +1,34 @@
+{
+    "metadata": {
+        "title": "mobile campfire",
+        "aliases": [],
+        "tags": [
+            "clunkers"
+        ],
+        "keys": {}
+    },
+    "embed": {
+        "color": 12846604,
+		"url":"https://wildfrostwiki.com/Mobile_Campfire",
+        "description": "**Mobile Campfire** is a **Clunker** that can be obtained in a run.",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Stats",
+                "value": "<&Scrap&> 1"
+            },
+            {
+                "inline": false,
+                "name": "Effects",
+                "value": "While active, add +3 <&Attack&> to allies in the row"
+            }
+        ],
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "image": {
+            "url": "https://wildfrostwiki.com/images/d/db/Mobile_Campfire_%28MobileCampfire%29.png"
+        },
+        "title": "Mobile Campfire"
+    }
+}

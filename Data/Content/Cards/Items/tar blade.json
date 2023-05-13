@@ -1,0 +1,34 @@
+{
+    "metadata": {
+        "title": "tar blade",
+        "aliases": [],
+        "tags": [
+            "items"
+        ],
+        "keys": {}
+    },
+    "embed": {
+        "color": 12846604,
+		"url":"https://wildfrostwiki.com/Tar_Blade",
+        "description": "**Tar Blade** is an item players may accumulate over a run.",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Stats",
+                "value": "<&Attack&> 0"
+            },
+            {
+                "inline": false,
+                "name": "Effects",
+                "value": "Deal additional damage equal to **Tar Blades** in hand"
+            }
+        ],
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "image": {
+            "url": "https://wildfrostwiki.com/images/e/e0/Tar_Blade_%28Dart%29.png"
+        },
+        "title": "Tar Blade"
+    }
+}

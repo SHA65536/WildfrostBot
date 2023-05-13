@@ -1,0 +1,39 @@
+{
+    "metadata": {
+        "title": "jumbo",
+        "aliases": [],
+        "tags": [
+            "companions"
+        ],
+        "keys": {}
+    },
+    "embed": {
+        "color": 12846604,
+		"url":"https://wildfrostwiki.com/Jumbo",
+        "description": "**Jumbo** is a **Companion** that the player can bring along on a run.",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Stats",
+                "value": "<&Health&> 13 | <&Attack&> 1 | <&Counter&> 3"
+            },
+            {
+                "inline": false,
+                "name": "Effects",
+                "value": "Also hits ally behind. **Barrage**"
+            },
+            {
+                "inline": false,
+                "name": "Unlock",
+                "value": "Jumbo can be unlocked at the Hot Spring in Snowdwell by Dealing 10 damage to your own team"
+            }
+        ],
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "image": {
+            "url": "https://wildfrostwiki.com/images/1/1d/Jumbo_%28Klutz%29.png"
+        },
+        "title": "Jumbo"
+    }
+}

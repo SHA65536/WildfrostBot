@@ -1,0 +1,30 @@
+{
+    "metadata": {
+        "title": "lumin lantern",
+        "aliases": [],
+        "tags": [
+            "items",
+            "lumin"
+        ],
+        "keys": {}
+    },
+    "embed": {
+        "color": 12846604,
+		"url":"https://wildfrostwiki.com/Lumin_Lantern",
+        "description": "**Lumin Lantern** is an item players may accumulate over a run.",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Effects",
+                "value": "Boost a random ally's effects by 1. Boost a random enemy's effects by 2."
+            }
+        ],
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "image": {
+            "url": "https://wildfrostwiki.com/images/c/cd/Lumin_Lantern_%28LuminShard%29.png"
+        },
+        "title": "Lumin Lantern"
+    }
+}

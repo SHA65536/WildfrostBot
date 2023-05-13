@@ -1,0 +1,35 @@
+{
+    "metadata": {
+        "title": "tigris",
+        "aliases": [],
+        "tags": [
+            "shades",
+            "teeth"
+        ],
+        "keys": {}
+    },
+    "embed": {
+        "color": 12846604,
+		"url":"https://wildfrostwiki.com/Tigris",
+        "description": "**Tigris** is a **Shade** that the player can summon by using the **Tigris Mask**",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Stats",
+                "value": "<&Health&> 4 | <&Teeth&> 2"
+            },
+            {
+                "inline": false,
+                "name": "Effects",
+                "value": "Gain 1 <&Teeth&> when an ally is hit. **Summoned**"
+            }
+        ],
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "image": {
+            "url": "https://wildfrostwiki.com/images/5/5b/Tigris_%28Tigris%29.png"
+        },
+        "title": "Tigris"
+    }
+}

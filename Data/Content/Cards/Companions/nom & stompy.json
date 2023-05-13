@@ -1,0 +1,34 @@
+{
+    "metadata": {
+        "title": "nom & stompy",
+        "aliases": [],
+        "tags": [
+            "companions"
+        ],
+        "keys": {}
+    },
+    "embed": {
+        "color": 12846604,
+		"url":"https://wildfrostwiki.com/Nom_%26_Stompy",
+        "description": "**Nom & Stompy** is a **Companion** that the player can bring along on a run.",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Stats",
+                "value": "<&Health&> 10 | <&Attack&> 10 | <&Counter&> 10"
+            },
+            {
+                "inline": false,
+                "name": "Effects",
+                "value": "When a card is destroyed, count down <&Counter&> by 1"
+            }
+        ],
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "image": {
+            "url": "https://wildfrostwiki.com/images/b/b5/Nom_%26_Stompy_%28GuardianGnome%29.png"
+        },
+        "title": "Nom & Stompy"
+    }
+}

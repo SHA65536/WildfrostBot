@@ -1,0 +1,35 @@
+{
+    "metadata": {
+        "title": "biji",
+        "aliases": [],
+        "tags": [
+            "companions",
+            "bom"
+        ],
+        "keys": {}
+    },
+    "embed": {
+        "color": 12846604,
+		"url":"https://wildfrostwiki.com/Biji",
+        "description": "**Biji** is a **Companion** that the player can bring along on a run.",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Stats",
+                "value": "<&Health&> 6 | <&Attack&> 0 | <&Counter&> 4"
+            },
+            {
+                "inline": false,
+                "name": "Effects",
+                "value": "Apply 2 <&Bom&>. Increase by 1 when hit "
+            }
+        ],
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "image": {
+            "url": "https://wildfrostwiki.com/images/f/f3/Biji_%28Witch%29.png"
+        },
+        "title": "Biji"
+    }
+}

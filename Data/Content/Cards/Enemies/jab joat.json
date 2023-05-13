@@ -1,0 +1,34 @@
+{
+    "metadata": {
+        "title": "jab joat",
+        "aliases": [],
+        "tags": [
+            "enemies"
+        ],
+        "keys": {}
+    },
+    "embed": {
+        "color": 12846604,
+        "url": "https://wildfrostwiki.com/Jab_Joat",
+        "description": "**Jab Joat** is an enemy which the player can encounter during a run. ",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Stats",
+                "value": "<&Health&> 10 | <&Attack&> 1 | <&Counter&> 3 | <&Frenzy&> x2"
+            },
+            {
+                "inline": false,
+                "name": "Effects",
+                "value": ""
+            }
+        ],
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "image": {
+            "url": "https://wildfrostwiki.com/images/d/da/Jab_Joat_Card.png"
+        },
+        "title": "Jab Joat"
+    }
+}

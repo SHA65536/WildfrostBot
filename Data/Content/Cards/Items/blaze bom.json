@@ -1,0 +1,35 @@
+{
+    "metadata": {
+        "title": "blaze bom",
+        "aliases": [],
+        "tags": [
+            "items",
+            "bom"
+        ],
+        "keys": {}
+    },
+    "embed": {
+        "color": 12846604,
+		"url":"https://wildfrostwiki.com/Blaze_Bom",
+        "description": "**Blaze Bom** is an item players may accumulate over a run.",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Stats",
+                "value": "<&Attack&> 0"
+            },
+            {
+                "inline": false,
+                "name": "Effects",
+                "value": "Add x1 <&Frenzy&>. Apply 4 <&Bom&>"
+            }
+        ],
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "image": {
+            "url": "https://wildfrostwiki.com/images/7/76/Blaze_Bom_%28Bumblebee%29.png"
+        },
+        "title": "Blaze Bom"
+    }
+}

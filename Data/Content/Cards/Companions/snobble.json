@@ -1,0 +1,40 @@
+{
+    "metadata": {
+        "title": "snobble",
+        "aliases": [],
+        "tags": [
+            "companions",
+            "snow"
+        ],
+        "keys": {}
+    },
+    "embed": {
+        "color": 12846604,
+		"url":"https://wildfrostwiki.com/Snobble",
+        "description": "**Snobble** is a **Companion** that the player can bring along on a run.",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Stats",
+                "value": "<&Health&> 3 | <&Attack&> 2 | <&Counter&> 4"
+            },
+            {
+                "inline": false,
+                "name": "Effects",
+                "value": "Apply 1 <&Snow&> equal to damage dealt"
+            },
+            {
+                "inline": false,
+                "name": "Unlock",
+                "value": "Snobble can be unlocked at the Hot Spring in Snowdwell by Equipping 10 Charms"
+            }
+        ],
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "image": {
+            "url": "https://wildfrostwiki.com/images/4/43/Snobble_%28Snobble%29.png"
+        },
+        "title": "Snobble"
+    }
+}

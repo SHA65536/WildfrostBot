@@ -1,0 +1,34 @@
+{
+    "metadata": {
+        "title": "pom",
+        "aliases": [],
+        "tags": [
+            "shades"
+        ],
+        "keys": {}
+    },
+    "embed": {
+        "color": 12846604,
+		"url":"https://wildfrostwiki.com/Pom",
+        "description": "**Pom** is a **Shade** that the player can summon by using the **Pom Mask**. A special trait of the Pom Mask is that it will summon Pom as an enemy and on the enemy side of the board in a location of choice. This means Pom's effect of \"adding barrage\" applies to the player, as the player is the enemy to Pom",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Stats",
+                "value": "<&Health&> 5 | <&Attack&> 1 | <&Counter&> 3"
+            },
+            {
+                "inline": false,
+                "name": "Effects",
+                "value": "While active add **Barrage** to all enemies. **Summoned**"
+            }
+        ],
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "image": {
+            "url": "https://wildfrostwiki.com/images/9/9a/Pom_%28Pigeon%29.png"
+        },
+        "title": "Pom"
+    }
+}

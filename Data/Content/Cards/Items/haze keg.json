@@ -1,0 +1,35 @@
+{
+    "metadata": {
+        "title": "haze keg",
+        "aliases": [],
+        "tags": [
+            "items",
+            "haze"
+        ],
+        "keys": {}
+    },
+    "embed": {
+        "color": 12846604,
+		"url":"https://wildfrostwiki.com/Haze_Keg",
+        "description": "**Haze Keg** is an item players may accumulate over a run.",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Stats",
+                "value": "<&Attack&> 0"
+            },
+            {
+                "inline": false,
+                "name": "Effects",
+                "value": "Apply 1 <&Haze&>. **Recycle** 2."
+            }
+        ],
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "image": {
+            "url": "https://wildfrostwiki.com/images/1/12/Haze_Keg_%28HazeBlaze%29.png"
+        },
+        "title": "Haze Keg"
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "metadata": {
+        "title": "mini muncher",
+        "aliases": [],
+        "tags": [
+            "items",
+            "noomlin"
+        ],
+        "keys": {}
+    },
+    "embed": {
+        "color": 12846604,
+		"url":"https://wildfrostwiki.com/Mini_Muncher",
+        "description": "**Mini Muncher** is an item players may accumulate over a run.",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Effects",
+                "value": "Destroy a card in your hand. Noomlin"
+            }
+        ],
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "image": {
+            "url": "https://wildfrostwiki.com/images/f/fe/Mini_Muncher_%28Wrenchy%29.png"
+        },
+        "title": "Mini Muncher"
+    }
+}

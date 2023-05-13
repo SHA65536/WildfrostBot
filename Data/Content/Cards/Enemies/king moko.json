@@ -1,0 +1,35 @@
+{
+    "metadata": {
+        "title": "king moko",
+        "aliases": [],
+        "tags": [
+            "enemies",
+            "minibosses"
+        ],
+        "keys": {}
+    },
+    "embed": {
+        "color": 12846604,
+        "url": "https://wildfrostwiki.com/King_Moko",
+        "description": "**King Moko** is a Miniboss type enemy that the player can encounter.",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Stats",
+                "value": "<&Health&> 80 | <&Attack&> 10 | <&Counter&> 7 | <&Frenzy&> x5 | <&ResistSnow&>"
+            },
+            {
+                "inline": false,
+                "name": "Effects",
+                "value": "When hit, apply 3 <&Spice&> to everyone in the battle"
+            }
+        ],
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "image": {
+            "url": "https://wildfrostwiki.com/images/8/84/King_Moko_%28MonkeyKing%29.png"
+        },
+        "title": "King Moko"
+    }
+}

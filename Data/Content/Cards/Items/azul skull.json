@@ -1,0 +1,35 @@
+{
+    "metadata": {
+        "title": "azul skull",
+        "aliases": [],
+        "tags": [
+            "items",
+            "overburn"
+        ],
+        "keys": {}
+    },
+    "embed": {
+        "color": 12846604,
+		"url":"https://wildfrostwiki.com/Azul_Skull",
+        "description": "**Azul Skull** is an item players may accumulate over a run.",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Stats",
+                "value": "<&Attack&> 0"
+            },
+            {
+                "inline": false,
+                "name": "Effects",
+                "value": "Kill an ally. Apply 4 <&Overburn&> to front enemy"
+            }
+        ],
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "image": {
+            "url": "https://wildfrostwiki.com/images/9/94/Azul_Skull_%28ZapOrb%29.png"
+        },
+        "title": "Azul Skull"
+    }
+}

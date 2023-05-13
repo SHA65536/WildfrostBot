@@ -1,0 +1,34 @@
+{
+    "metadata": {
+        "title": "fallow",
+        "aliases": [],
+        "tags": [
+            "shades"
+        ],
+        "keys": {}
+    },
+    "embed": {
+        "color": 12846604,
+		"url":"https://wildfrostwiki.com/Fallow",
+        "description": "**Fallow** is a **Shade** that the player can summon by using the **Fallow Mask**",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Stats",
+                "value": "<&Health&> 8 | <&Attack&> 2 | <&Counter&> 4"
+            },
+            {
+                "inline": false,
+                "name": "Effects",
+                "value": "**Barrage** **Summoned**"
+            }
+        ],
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "image": {
+            "url": "https://wildfrostwiki.com/images/8/8f/Fallow_%28Fallow%29.png"
+        },
+        "title": "Fallow"
+    }
+}

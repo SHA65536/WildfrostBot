@@ -1,0 +1,34 @@
+{
+    "metadata": {
+        "title": "pet house",
+        "aliases": [],
+        "tags": [
+            "pets",
+            "snowdwell"
+        ],
+        "keys": {}
+    },
+    "embed": {
+        "url": "https://wildfrostwiki.com/Pet_House",
+        "description": "The Pet House is a building in Snowdwell. It is the first to be constructed in a new game and is located the the bottom of the settlement, next to the Tribe hall. The player is able to examine unlocked pet cards and find the challenge to unlock the next one. The place is run by Zoe, an experienced pet trainer, who is accompanied by Lil' Gazi. Together they will train new pets to accompany the player on their runs. ",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Unlock",
+                "value": "Challenge Requirement: Apply 10 <&Snow&>"
+            },
+            {
+                "inline": false,
+                "name": "Unlocks",
+                "value": "**Snoof** - Unlocked by default\n**Booshu** - Recall 3 Companions\n**Loki** - Kill 3 <&Demonize&>'d enemies\n**Sneezle** - Buy 5 discounted Items\n**Spike** - Kill 10 enemies with <&Teeth&>\n**Lil' Gazi** - Achieve a 6x kill combo"
+            }
+        ],
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "thumbnail": {
+            "url": "https://wildfrostwiki.com/images/b/bf/PetHouse.png"
+        },
+        "title": "Pet House"
+    }
+}

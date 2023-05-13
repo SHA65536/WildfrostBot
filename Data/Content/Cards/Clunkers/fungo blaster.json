@@ -1,0 +1,35 @@
+{
+    "metadata": {
+        "title": "fungo blaster",
+        "aliases": [],
+        "tags": [
+            "clunkers",
+            "shroom"
+        ],
+        "keys": {}
+    },
+    "embed": {
+        "color": 12846604,
+		"url":"https://wildfrostwiki.com/Fungo_Blaster",
+        "description": "**Fungo Blaster** is a **Clunker** that can be obtained in a run.",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Stats",
+                "value": "<&Scrap&> 1"
+            },
+            {
+                "inline": false,
+                "name": "Effects",
+                "value": "When a <&Shroom&>'d enemy dies, apply their <&Shroom&> to a random enemy"
+            }
+        ],
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "image": {
+            "url": "https://wildfrostwiki.com/images/b/bc/Fungo_Blaster_%28ShroomLauncher%29.png"
+        },
+        "title": "Fungo Blaster"
+    }
+}

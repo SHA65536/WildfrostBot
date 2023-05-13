@@ -1,0 +1,39 @@
+{
+    "metadata": {
+        "title": "tiny tyko",
+        "aliases": [],
+        "tags": [
+            "companions"
+        ],
+        "keys": {}
+    },
+    "embed": {
+        "color": 12846604,
+		"url":"https://wildfrostwiki.com/Tiny_Tyko",
+        "description": "**Tiny Tyko** is a **Companion** that the player can bring along on a run.",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Stats",
+                "value": "<&Health&> 2 | <&Attack&> 1 | <&Counter&> 4 | <&Frenzy&> x2"
+            },
+            {
+                "inline": false,
+                "name": "Effects",
+                "value": "When hit, gain x1 <&Frenzy&>"
+            },
+            {
+                "inline": false,
+                "name": "Unlock",
+                "value": "Tiny Tyko can be unlocked at the Hot Spring in Snowdwell by achieving a 4x kill combo"
+            }
+        ],
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "image": {
+            "url": "https://wildfrostwiki.com/images/6/6f/Tiny_Tyko_%28TinyTyko%29.png"
+        },
+        "title": "Tiny Tyko"
+    }
+}

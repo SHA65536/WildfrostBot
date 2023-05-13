@@ -1,0 +1,35 @@
+{
+    "metadata": {
+        "title": "chompom",
+        "aliases": [],
+        "tags": [
+            "companions",
+            "shell"
+        ],
+        "keys": {}
+    },
+    "embed": {
+        "color": 12846604,
+		"url":"https://wildfrostwiki.com/Chompom",
+        "description": "**Chompom** is a **Companion** that the player can bring along on a run.",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Stats",
+                "value": "<&Health&> 3 | <&Shell&> 3 | <&Attack&> 1 | <&Counter&> 3"
+            },
+            {
+                "inline": false,
+                "name": "Effects",
+                "value": "Deal additional damage equal to <&Shell&>"
+            }
+        ],
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "image": {
+            "url": "https://wildfrostwiki.com/images/5/53/Chompom_%28Chompom%29.png"
+        },
+        "title": "Chompom"
+    }
+}

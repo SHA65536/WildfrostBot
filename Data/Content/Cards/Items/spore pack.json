@@ -1,0 +1,35 @@
+{
+    "metadata": {
+        "title": "spore pack",
+        "aliases": [],
+        "tags": [
+            "items",
+            "shroom"
+        ],
+        "keys": {}
+    },
+    "embed": {
+        "color": 12846604,
+		"url":"https://wildfrostwiki.com/Spore_Pack",
+        "description": "**Spore Pack** is an item players may accumulate over a run.",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Stats",
+                "value": "<&Attack&> 0"
+            },
+            {
+                "inline": false,
+                "name": "Effects",
+                "value": "Apply 2 <&Shroom&>. Barrage"
+            }
+        ],
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "image": {
+            "url": "https://wildfrostwiki.com/images/a/a3/Spore_Pack_%28SporePack%29.png"
+        },
+        "title": "Spore Pack"
+    }
+}

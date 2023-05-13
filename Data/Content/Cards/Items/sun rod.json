@@ -1,0 +1,29 @@
+{
+    "metadata": {
+        "title": "sun rod",
+        "aliases": [],
+        "tags": [
+            "items"
+        ],
+        "keys": {}
+    },
+    "embed": {
+        "color": 12846604,
+		"url":"https://wildfrostwiki.com/Sun_Rod",
+        "description": "**Sun Rod** is an item players may accumulate over a run.",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Effects",
+                "value": "Count down <&Counter&> by 2"
+            }
+        ],
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "image": {
+            "url": "https://wildfrostwiki.com/images/3/3b/Sun_Rod_%28SunRod%29.png"
+        },
+        "title": "Sun Rod"
+    }
+}

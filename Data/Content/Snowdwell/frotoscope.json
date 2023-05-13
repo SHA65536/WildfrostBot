@@ -1,0 +1,29 @@
+{
+    "metadata": {
+        "title": "frotoscope",
+        "aliases": [],
+        "tags": [
+            "snowdwell"
+        ],
+        "keys": {}
+    },
+    "embed": {
+        "color": 12846604,
+        "url": "https://wildfrostwiki.com/Frostoscope",
+        "description": "The Frostoscope is an observatory that is built in the highest parts of Snowdwell. It can be found at the peak of town, to the right of the Challenge Shrine.\nThrough the Frostoscope, the player can find and examine what the final encounter consists of. This includes the initial boss card and supporting cards. It is helpful in planning the next run and knowing what build one needs to build to become victorious.",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Construction",
+                "value": "Challenge requirement: Beat the Eye of the Storm"
+            }
+        ],
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "thumbnail": {
+            "url": "https://wildfrostwiki.com/images/d/d5/Frotoscope.png"
+        },
+        "title": "Frotoscope"
+    }
+}

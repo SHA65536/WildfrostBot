@@ -1,0 +1,160 @@
+{
+    "metadata": {
+        "title": "keywords",
+        "aliases": [
+            "aimless",
+            "barrage",
+            "consume",
+            "critical",
+            "draw",
+            "explode",
+            "faith",
+            "fury",
+            "greed",
+            "hogheaded",
+            "longshot",
+            "noomlin",
+            "recycle",
+            "sacrificed",
+            "smackback",
+            "soulbound",
+            "spark",
+            "summoned",
+            "trash",
+            "unmovable",
+            "wild",
+            "yank"
+        ],
+        "tags": [],
+        "keys": {}
+    },
+    "embed": {
+        "color": 12846604,
+        "url": "https://wildfrostwiki.com/Stats#Keywords",
+        "description": "**Keywords** are special words that can change how a card acts or is triggered. They are highlighted in a card's description, and are described when examining the card.",
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "fields": [
+            {
+                "inline": false,
+                "name": "Aimless",
+                "value": "Hit a random target in the opposing row. When applied by another card in play, it will override Barrage."
+            },
+            {
+                "inline": false,
+                "name": "Barrage",
+                "value": "Hits all targets in the opposing row."
+            },
+            {
+                "inline": false,
+                "name": "Consume",
+                "value": "The card is destroyed after use."
+            },
+            {
+                "inline": false,
+                "name": "Critical",
+                "value": "Doubles the effect when the card is the rightmost card in the player's hand."
+            },
+            {
+                "inline": false,
+                "name": "Draw X",
+                "value": "The player draws the number of cards equal to X. Shuffles the discard deck if no cards are available."
+            },
+            {
+                "inline": false,
+                "name": "Explode X",
+                "value": "Damages all enemies in the opposing row on death equal to X."
+            },
+            {
+                "inline": false,
+                "name": "Faith X",
+                "value": "Increases summon's <&Attack&> equal to X"
+            },
+            {
+                "inline": false,
+                "name": "Fury X",
+                "value": "When a card is alone in a row, gain <&Attack&> equal to X."
+            },
+            {
+                "inline": false,
+                "name": "Greed",
+                "value": "Deal 1 additional damage for each 50 <&Bling&> you have."
+            },
+            {
+                "inline": false,
+                "name": "Hogheaded",
+                "value": "The card cannot be recalled to the discard deck and healed."
+            },
+            {
+                "inline": false,
+                "name": "Longshot",
+                "value": "Hit the furthest enemy in the row."
+            },
+            {
+                "inline": false,
+                "name": "Noomlin",
+                "value": "Does not cost a turn to use. Comes with a Noomlin hanging off the card."
+            },
+            {
+                "inline": false,
+                "name": "Recycle X",
+                "value": "The player must have X number of Junk cards in their hand to play the card. The Junk is then destroyed."
+            },
+            {
+                "inline": false,
+                "name": "Sacrificed",
+                "value": "Killed by its own team. Can be seen as a trigger in a card description."
+            },
+            {
+                "inline": false,
+                "name": "Smackback",
+                "value": "On hit, the card immediately reacts with a hit to the attacking card. Disabled when <&Snow&>'d."
+            },
+            {
+                "inline": false,
+                "name": "Soulbound",
+                "value": "Applied in pairs. When one card with Soulbound is destroyed, deal 100 damage to other Soulbound cards."
+            },
+            {
+                "inline": false,
+                "name": "Spark",
+                "value": "Trigger immediately when deployed. Cannot be recalled."
+            },
+            {
+                "inline": false,
+                "name": "Summoned",
+                "value": "This card was summoned by another card. When this card activates, it will lose 1 <&Health&>."
+            },
+            {
+                "inline": false,
+                "name": "Trash X",
+                "value": "Adds X number of Junk cards to the player's hand when activated."
+            },
+            {
+                "inline": false,
+                "name": "Unmovable",
+                "value": "The card cannot be moved around."
+            },
+            {
+                "inline": false,
+                "name": "Wild",
+                "value": "Gains x1 <&Frenzy&> when another card with Wild is destroyed."
+            },
+            {
+                "inline": false,
+                "name": "Yank",
+                "value": "Pulls the targeted card to the front of the row."
+            },
+            {
+                "inline": false,
+                "name": "Injured",
+                "value": "The Companion was killed in the previous battle and it starts with <&Health&> and <&Attack&> halved, rounding up. The card will heal completely after surviving a battle (whether the card is played or not), otherwise an injured card that is again killed simply retains its injured status. "
+            }
+        ],
+        "thumbnail": {
+            "url": "https://wildfrostwiki.com/images/0/08/Undefeated.jpg"
+        },
+        "title": "Keywords"
+    }
+}

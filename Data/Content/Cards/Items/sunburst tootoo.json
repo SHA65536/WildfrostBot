@@ -1,0 +1,34 @@
+{
+    "metadata": {
+        "title": "sunburst tootoo",
+        "aliases": [],
+        "tags": [
+            "items"
+        ],
+        "keys": {}
+    },
+    "embed": {
+        "color": 12846604,
+		"url":"https://wildfrostwiki.com/Sunburst_Tootoo",
+        "description": "**Sunburst Tootoo** is an item players may accumulate over a run.",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Stats",
+                "value": "<&Attack&> 1"
+            },
+            {
+                "inline": false,
+                "name": "Effects",
+                "value": "Count down <&Counter&> by 2"
+            }
+        ],
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "image": {
+            "url": "https://wildfrostwiki.com/images/3/38/Sunburst_Tootoo_%28SunburstDart%29.png"
+        },
+        "title": "Sunburst Tootoo"
+    }
+}

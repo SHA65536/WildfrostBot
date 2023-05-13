@@ -1,0 +1,35 @@
+{
+    "metadata": {
+        "title": "yuki",
+        "aliases": [],
+        "tags": [
+            "companions",
+            "snow"
+        ],
+        "keys": {}
+    },
+    "embed": {
+        "color": 12846604,
+		"url":"https://wildfrostwiki.com/Yuki",
+        "description": "**Yuki** is a **Companion** that the player can bring along on a run.",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Stats",
+                "value": "<&Health&> 1 | <&Attack&> 1 | <&Counter&> 4"
+            },
+            {
+                "inline": false,
+                "name": "Effects",
+                "value": "Whenever anything is <&Snow&>'d gain equal <&Attack&>"
+            }
+        ],
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "image": {
+            "url": "https://wildfrostwiki.com/images/3/3e/Yuki_%28Yuki%29.png"
+        },
+        "title": "Yuki"
+    }
+}

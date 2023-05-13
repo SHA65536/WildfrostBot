@@ -1,0 +1,34 @@
+{
+    "metadata": {
+        "title": "rockhog",
+        "aliases": [],
+        "tags": [
+            "enemies"
+        ],
+        "keys": {}
+    },
+    "embed": {
+        "color": 12846604,
+        "url": "https://wildfrostwiki.com/Rockhog",
+        "description": "**Rockhog** is an enemy which the player can encounter during a run. ",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Stats",
+                "value": "<&Health&> 7 | <&Attack&> 4 | <&Counter&> 6"
+            },
+            {
+                "inline": false,
+                "name": "Effects",
+                "value": "While active, add x1 <&Frenzy&> to all allies"
+            }
+        ],
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "image": {
+            "url": "https://wildfrostwiki.com/images/6/63/Rockhog_Card.png"
+        },
+        "title": "Rockhog"
+    }
+}

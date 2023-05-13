@@ -1,0 +1,34 @@
+{
+    "metadata": {
+        "title": "shrootles",
+        "aliases": [],
+        "tags": [
+            "enemies"
+        ],
+        "keys": {}
+    },
+    "embed": {
+        "color": 12846604,
+        "url": "https://wildfrostwiki.com/Shrootles",
+        "description": "**Shrootles** is an enemy which the player can encounter during a run. ",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Stats",
+                "value": "<&Health&> 8 | <&Attack&> 0 | <&Counter&> 3 | <&Frenzy&> x3"
+            },
+            {
+                "inline": false,
+                "name": "Effects",
+                "value": "Apply 1 <&Shroom&>. Aimless"
+            }
+        ],
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "image": {
+            "url": "https://wildfrostwiki.com/images/7/73/Shrootles_Card.png"
+        },
+        "title": "Shrootles"
+    }
+}

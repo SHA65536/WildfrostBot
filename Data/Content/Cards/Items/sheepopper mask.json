@@ -1,0 +1,30 @@
+{
+    "metadata": {
+        "title": "sheepopper mask",
+        "aliases": [],
+        "tags": [
+            "items",
+            "sheepopper"
+        ],
+        "keys": {}
+    },
+    "embed": {
+        "color": 12846604,
+		"url":"https://wildfrostwiki.com/Sheepopper_Mask",
+        "description": "**Sheepopper Mask** is an item players may accumulate over a run.",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Effects",
+                "value": "Summon **Sheepopper** on the enemy side. Consume"
+            }
+        ],
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "image": {
+            "url": "https://wildfrostwiki.com/images/c/ce/Sheepopper_Mask_%28PopPopper%29.png"
+        },
+        "title": "Sheepopper Mask"
+    }
+}

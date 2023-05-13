@@ -1,0 +1,34 @@
+{
+    "metadata": {
+        "title": "grog",
+        "aliases": [],
+        "tags": [
+            "enemies"
+        ],
+        "keys": {}
+    },
+    "embed": {
+        "color": 12846604,
+        "url": "https://wildfrostwiki.com/Grog",
+        "description": "**Grog** is an enemy which the player can encounter during a run. ",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Stats",
+                "value": "<&Health&> 12 | <&Attack&> 6 | <&Counter&> 8"
+            },
+            {
+                "inline": false,
+                "name": "Effects",
+                "value": "When hit, count down <&Counter&> by 1"
+            }
+        ],
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "image": {
+            "url": "https://wildfrostwiki.com/images/7/7f/Grog_Card.png"
+        },
+        "title": "Grog"
+    }
+}

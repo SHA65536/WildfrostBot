@@ -1,0 +1,35 @@
+{
+    "metadata": {
+        "title": "azul candle",
+        "aliases": [],
+        "tags": [
+            "items",
+            "overburn"
+        ],
+        "keys": {}
+    },
+    "embed": {
+        "color": 12846604,
+		"url":"https://wildfrostwiki.com/Azul_Candle",
+        "description": "**Azul Candle** is an item players may accumulate over a run.",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Stats",
+                "value": "<&Attack&> 1"
+            },
+            {
+                "inline": false,
+                "name": "Effects",
+                "value": "Double the target's <&Overburn&>"
+            }
+        ],
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "image": {
+            "url": "https://wildfrostwiki.com/images/5/58/Azul_Candle_%28FlashWhip%29.png"
+        },
+        "title": "Azul Candle"
+    }
+}

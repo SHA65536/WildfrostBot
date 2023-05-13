@@ -1,0 +1,30 @@
+{
+    "metadata": {
+        "title": "suncream",
+        "aliases": [],
+        "tags": [
+            "items",
+            "recycle"
+        ],
+        "keys": {}
+    },
+    "embed": {
+        "color": 12846604,
+		"url":"https://wildfrostwiki.com/Suncream",
+        "description": "**Suncream** is an item players may accumulate over a run.",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Effects",
+                "value": "Reduce <&Counter&> by 1. **Recycle** 1. Consume."
+            }
+        ],
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "image": {
+            "url": "https://wildfrostwiki.com/images/6/6c/Suncream_%28SunberryJuice%29.png"
+        },
+        "title": "Suncream"
+    }
+}

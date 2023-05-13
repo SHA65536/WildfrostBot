@@ -1,0 +1,35 @@
+{
+    "metadata": {
+        "title": "tusk",
+        "aliases": [],
+        "tags": [
+            "companions",
+            "teeth"
+        ],
+        "keys": {}
+    },
+    "embed": {
+        "color": 12846604,
+		"url":"https://wildfrostwiki.com/Tusk",
+        "description": "**Tusk** is a **Companion** that the player can bring along on a run.",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Stats",
+                "value": "<&Health&> 5 | <&Attack&> 2 | <&Counter&> 5"
+            },
+            {
+                "inline": false,
+                "name": "Effects",
+                "value": "While active, add 3 <&Teeth&> to all allies"
+            }
+        ],
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "image": {
+            "url": "https://wildfrostwiki.com/images/5/5a/Tusk_%28Tusk%29.png"
+        },
+        "title": "Tusk"
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "metadata": {
+        "title": "yeti skull",
+        "aliases": [],
+        "tags": [
+            "items",
+            "snow"
+        ],
+        "keys": {}
+    },
+    "embed": {
+        "color": 12846604,
+		"url":"https://wildfrostwiki.com/Yeti_Skull",
+        "description": "**Yeti Skull** is an item players may accumulate over a run.",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Stats",
+                "value": "<&Attack&> 0"
+            },
+            {
+                "inline": false,
+                "name": "Effects",
+                "value": "Kill an ally. Apply 3 <&Snow&> to enemies in the row."
+            }
+        ],
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "image": {
+            "url": "https://wildfrostwiki.com/images/3/35/Yeti_Skull_%28SnowMaul%29.png"
+        },
+        "title": "Yeti Skull"
+    }
+}

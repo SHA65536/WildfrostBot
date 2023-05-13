@@ -1,0 +1,35 @@
+{
+    "metadata": {
+        "title": "hongo's hammer",
+        "aliases": [],
+        "tags": [
+            "items",
+            "shroom"
+        ],
+        "keys": {}
+    },
+    "embed": {
+        "color": 12846604,
+		"url":"https://wildfrostwiki.com/Hongo%27s_Hammer",
+        "description": "**Hongo's Hammer** is an item players may accumulate over a run.",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Stats",
+                "value": "<&Attack&> 1"
+            },
+            {
+                "inline": false,
+                "name": "Effects",
+                "value": "Apply 3 <&Shroom&>"
+            }
+        ],
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "image": {
+            "url": "https://wildfrostwiki.com/images/8/80/Hongo%27s_Hammer_%28HongosHammer%29.png"
+        },
+        "title": "Hongo's Hammer"
+    }
+}

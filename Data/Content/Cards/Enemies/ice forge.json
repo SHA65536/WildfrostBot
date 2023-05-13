@@ -1,0 +1,34 @@
+{
+    "metadata": {
+        "title": "ice forge",
+        "aliases": [],
+        "tags": [
+            "enemies"
+        ],
+        "keys": {}
+    },
+    "embed": {
+        "color": 12846604,
+        "url": "https://wildfrostwiki.com/Ice_Forge",
+        "description": "**Ice Forge** is an enemy which the player can encounter during a run. ",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Stats",
+                "value": "<&Scrap&> 2"
+            },
+            {
+                "inline": false,
+                "name": "Effects",
+                "value": "While active, add +3 <&Attack&> to all allies and -3 <&Attack&> to all enemies"
+            }
+        ],
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "image": {
+            "url": "https://wildfrostwiki.com/images/8/84/Ice_Forge_%28IceForge%29.png"
+        },
+        "title": "Ice Forge"
+    }
+}

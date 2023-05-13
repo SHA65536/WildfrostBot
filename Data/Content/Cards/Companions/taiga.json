@@ -1,0 +1,35 @@
+{
+    "metadata": {
+        "title": "taiga",
+        "aliases": [],
+        "tags": [
+            "companions",
+            "teeth"
+        ],
+        "keys": {}
+    },
+    "embed": {
+        "color": 12846604,
+		"url":"https://wildfrostwiki.com/Taiga",
+        "description": "**Taiga** is a **Companion** that the player can bring along on a run.",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Stats",
+                "value": "<&Health&> 8 | <&Counter&> 4 | <&Teeth&> 2"
+            },
+            {
+                "inline": false,
+                "name": "Effects",
+                "value": "Gain 2 <&Teeth&>"
+            }
+        ],
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "image": {
+            "url": "https://wildfrostwiki.com/images/4/4c/Taiga_%28Kokonut%29.png"
+        },
+        "title": "Taiga"
+    }
+}

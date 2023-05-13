@@ -1,0 +1,29 @@
+{
+    "metadata": {
+        "title": "krab",
+        "aliases": [],
+        "tags": [
+            "enemies"
+        ],
+        "keys": {}
+    },
+    "embed": {
+        "color": 12846604,
+        "url": "https://wildfrostwiki.com/Krab",
+        "description": "**Krab** is an enemy which the player can encounter during a run. ",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Stats",
+                "value": "<&Health&> 5 | <&Attack&> 8 | <&Counter&> 5 | <&Block&> 3"
+            }
+        ],
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "image": {
+            "url": "https://wildfrostwiki.com/images/d/d1/Krab_Card.png"
+        },
+        "title": "Krab"
+    }
+}

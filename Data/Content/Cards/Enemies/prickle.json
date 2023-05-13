@@ -1,0 +1,34 @@
+{
+    "metadata": {
+        "title": "prickle",
+        "aliases": [],
+        "tags": [
+            "enemies"
+        ],
+        "keys": {}
+    },
+    "embed": {
+        "color": 12846604,
+        "url": "https://wildfrostwiki.com/Prickle",
+        "description": "**Prickle** is an enemy which the player can encounter during a run. ",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Stats",
+                "value": "<&Health&> 5 | <&Counter&> 3 | <&Teeth&> 2"
+            },
+            {
+                "inline": false,
+                "name": "Effects",
+                "value": "Gain 2 <&Teeth&>"
+            }
+        ],
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "image": {
+            "url": "https://wildfrostwiki.com/images/7/70/Prickle_Card.png"
+        },
+        "title": "Prickle"
+    }
+}

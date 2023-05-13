@@ -1,0 +1,29 @@
+{
+    "metadata": {
+        "title": "flamewater",
+        "aliases": [],
+        "tags": [
+            "items"
+        ],
+        "keys": {}
+    },
+    "embed": {
+        "color": 12846604,
+		"url":"https://wildfrostwiki.com/Flamewater",
+        "description": "**Flamewater** is an item **Snowdweller** leaders start with in the deck.",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Effects",
+                "value": "Increase <&Attack&> by 1"
+            }
+        ],
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "image": {
+            "url": "https://wildfrostwiki.com/images/1/15/Flamewater_%28FlameWater%29.png"
+        },
+        "title": "Flamewater"
+    }
+}

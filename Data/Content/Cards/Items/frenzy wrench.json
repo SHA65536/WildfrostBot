@@ -1,0 +1,29 @@
+{
+    "metadata": {
+        "title": "frenzy wrench",
+        "aliases": [],
+        "tags": [
+            "items"
+        ],
+        "keys": {}
+    },
+    "embed": {
+        "color": 12846604,
+		"url":"https://wildfrostwiki.com/Frenzy_Wrench",
+        "description": "**Frenzy Wrench** is an item players may accumulate over a run.",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Effects",
+                "value": "Add x1 <&Frenzy&> to an Item in your hand. Recycle 2"
+            }
+        ],
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "image": {
+            "url": "https://wildfrostwiki.com/images/5/55/Frenzy_Wrench_%28FrenzyShard%29.png"
+        },
+        "title": "Frenzy Wrench"
+    }
+}

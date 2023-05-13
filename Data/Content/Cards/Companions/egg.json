@@ -1,0 +1,35 @@
+{
+    "metadata": {
+        "title": "egg",
+        "aliases": [],
+        "tags": [
+            "companions",
+            "dregg"
+        ],
+        "keys": {}
+    },
+    "embed": {
+        "color": 12846604,
+		"url":"https://wildfrostwiki.com/Egg",
+        "description": "**Egg** is a **Companion** that the player can bring along on a run. Despite having an attack value of 0, they have no counter. This means, even if they were to get buffed with increased damage, there is no way to activate Egg. ",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Stats",
+                "value": "<&Health&> 8 | <&Attack&> 0"
+            },
+            {
+                "inline": false,
+                "name": "Effects",
+                "value": "When destroyed, summon **Dregg**"
+            }
+        ],
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "image": {
+            "url": "https://wildfrostwiki.com/images/3/38/Egg_%28Egg%29.png"
+        },
+        "title": "Egg"
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "metadata": {
+        "title": "bling bank",
+        "aliases": [],
+        "tags": [
+            "clunkers"
+        ],
+        "keys": {}
+    },
+    "embed": {
+        "color": 12846604,
+		"url":"https://wildfrostwiki.com/Bling_Bank",
+        "description": "**Bling Bank** is a **Clunker** that can be obtained in a run.",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Stats",
+                "value": "<&Scrap&> 1"
+            },
+            {
+                "inline": false,
+                "name": "Effects",
+                "value": "When an enemy is killed, gain 4 <&Bling&>"
+            }
+        ],
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "image": {
+            "url": "https://wildfrostwiki.com/images/2/20/Bling_Bank_%28Blingo%29.png"
+        },
+        "title": "Bling Bank"
+    }
+}

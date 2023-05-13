@@ -1,0 +1,30 @@
+{
+    "metadata": {
+        "title": "peppering",
+        "aliases": [],
+        "tags": [
+            "items",
+            "spice"
+        ],
+        "keys": {}
+    },
+    "embed": {
+        "color": 12846604,
+		"url":"https://wildfrostwiki.com/Peppering",
+        "description": "**Peppering** is an item players may accumulate over a run.",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Effects",
+                "value": "Apply 2 <&Spice&>. Barrage."
+            }
+        ],
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "image": {
+            "url": "https://wildfrostwiki.com/images/0/0c/Peppering_%28Peppering%29.png"
+        },
+        "title": "Peppering"
+    }
+}

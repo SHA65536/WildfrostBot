@@ -1,0 +1,39 @@
+{
+    "metadata": {
+        "title": "stats",
+        "aliases": [
+            "health",
+            "scrap",
+            "attack",
+            "counter",
+            "frenzy",
+            "block",
+            "lumin",
+            "shell",
+            "resist snow",
+            "spice",
+            "teeth",
+            "bom",
+            "demonize",
+            "frost",
+            "haze",
+            "ink",
+            "overburn",
+            "shroom"
+        ],
+        "tags": [],
+        "keys": {}
+    },
+    "embed": {
+        "color": 12846604,
+        "url": "https://wildfrostwiki.com/Stats",
+        "description": "Stats are the primary attributes cards have - indicated through a variety of icons on the cards\n\n__**Primary Stats**__\n<&Health&> **Health** - The amount of damage a card can take. Companions are temporarily injured when health reaches 0. A run ends if leader's health reaches 0.\n<&Scrap&> **Scrap** - An alternative to health. Scrap counts down by 1 when taking damage. The amount of damage dealt is irrelevant, so long as it was 1 or more. Specific to Clunkers.\n<&Attack&> **Attack** - How much health a card's action will take away from its target.\n<&Counter&> **Counter** - Reduces by 1 each turn. When it reaches zero the card will trigger.\n<&Frenzy&> **Frenzy** - Triggers multiple times.\n\n__**Buffs**__\n<&Block&> **Block** - Blocks an entire attack, Incoming damage is reduced to 0, and counts down by 1. Does not block applying Shroom, but will block the damage.\n<&Lumin&> **Lumin** - Double's target's effects, Clears when Lumin is applied to another card.\n<&Shell&> **Shell** - Blocks Damage, Deducted before and separately from health. If the card takes more damage than it has Shell, the damage will carry over to health.\n<&ResistSnow&> **Resist Snow** - Limits snow that can be applied, The card can have a maximum of 1 Snow applied per turn. Often seen on bosses.\n<&Spice&> **Spice** - Temporarily increases attack damage, The card's next attack will deal additional damage equal to the card's Spice count. This includes Frenzy attacks. Resets to 0 after attacking.\n<&Teeth&> **Teeth** - Deals damage back to attackers, When a card with Teeth is hit, deal damage equal to Teeth.\n\n__**Debuffs**__\n<&Bom&> **Bom** - Take additional damage from all sources equal to the Bom count. Does not count down.\n<&Demonize&> **Demonize** - The next time this card takes damage, that amount is doubled and the count reduces by 1. \n<&Frost&> **Frost** - Reduce the next attack's damage, Total Frost is subtracted from the card's damage on its next attack. This includes Frenzy attacks. Resets to 0 after attacking.\n<&Haze&> **Haze** - Attacks a random card on its own team. Counts down by 1 after each attack.\n<&Ink&> **Ink** - Silences modifiers, Temporarily disables any special description of a card. Counts down by 1 at the end of each turn.\n<&Overburn&> **Overburn** - When the Overburn count is equal to or above the card's current health, the card explodes and deals damage to allied cards in the same row. The damage dealt is equal to the Overburn count.\n<&Shroom&> **Shroom** - Each turn, the card takes damage equal to total Shroom count on that card. Counts down by 1 at the end of each turn.",
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "thumbnail": {
+            "url": "https://wildfrostwiki.com/images/5/59/Gnome_Friend.jpg"
+        },
+        "title": "Stats"
+    }
+}

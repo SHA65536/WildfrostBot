@@ -1,0 +1,41 @@
+{
+    "metadata": {
+        "title": "loki",
+        "aliases": [],
+        "tags": [
+            "companions",
+            "pets",
+            "demonize"
+        ],
+        "keys": {}
+    },
+    "embed": {
+        "color": 12846604,
+		"url":"https://wildfrostwiki.com/Loki",
+        "description": "Loki is a **Pet Companion** that can be unlocked.",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Stats",
+                "value": "<&Health&> 5 | <&Attack&> 2 | <&Counter&> 3"
+            },
+            {
+                "inline": false,
+                "name": "Effects",
+                "value": "Apply 1 <&Demonize&>. Aimless"
+            },
+            {
+                "inline": false,
+                "name": "Unlock",
+                "value": "Loki can be unlocked at the Pet's House in Snowdwell by killing 3 <&Demonize&>'d enemies"
+            }
+        ],
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "image": {
+            "url": "https://wildfrostwiki.com/images/f/f0/Loki_%28DemonPet%29.png"
+        },
+        "title": "Loki"
+    }
+}

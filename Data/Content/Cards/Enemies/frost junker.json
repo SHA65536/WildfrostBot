@@ -1,0 +1,35 @@
+{
+    "metadata": {
+        "title": "frost junker",
+        "aliases": [],
+        "tags": [
+            "enemies",
+            "bosses"
+        ],
+        "keys": {}
+    },
+    "embed": {
+        "color": 12846604,
+        "url": "https://wildfrostwiki.com/Frost_Junker",
+        "description": "**Frost Junker** is a Boss type enemy that the player can encounter.",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Stats",
+                "value": "<&Health&> 30 | <&Attack&> 1 | <&Counter&> 2"
+            },
+            {
+                "inline": false,
+                "name": "Effects",
+                "value": "When a card is destroyed, gain +1 <&Attack&>"
+            }
+        ],
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "image": {
+            "url": "https://wildfrostwiki.com/images/d/d1/Frost_Junker_%28TrueFinalBoss5%29.png"
+        },
+        "title": "Frost Junker"
+    }
+}

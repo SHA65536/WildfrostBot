@@ -1,0 +1,29 @@
+{
+    "metadata": {
+        "title": "blank mask",
+        "aliases": [],
+        "tags": [
+            "items"
+        ],
+        "keys": {}
+    },
+    "embed": {
+        "color": 12846604,
+		"url":"https://wildfrostwiki.com/Blank_Mask",
+        "description": "**Blank Mask** is an item players may accumulate over a run.",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Effects",
+                "value": "Summon a copy of an ally. Consume"
+            }
+        ],
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "image": {
+            "url": "https://wildfrostwiki.com/images/5/52/Blank_Mask_%28Dittostone%29.png"
+        },
+        "title": "Blank Mask"
+    }
+}

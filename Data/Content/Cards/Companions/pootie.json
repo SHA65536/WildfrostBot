@@ -1,0 +1,35 @@
+{
+    "metadata": {
+        "title": "pootie",
+        "aliases": [],
+        "tags": [
+            "companions",
+            "frenzy"
+        ],
+        "keys": {}
+    },
+    "embed": {
+        "color": 12846604,
+		"url":"https://wildfrostwiki.com/Pootie",
+        "description": "**Pootie** is a **Companion** that the player can bring along on a run.",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Stats",
+                "value": "<&Health&> 1 | <&Attack&> 1 | <&Counter&> 3"
+            },
+            {
+                "inline": false,
+                "name": "Effects",
+                "value": "When destroyed, add x1 <&Frenzy&> to a random ally "
+            }
+        ],
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "image": {
+            "url": "https://wildfrostwiki.com/images/5/5d/Pootie_%28Pootie%29.png"
+        },
+        "title": "Pootie"
+    }
+}

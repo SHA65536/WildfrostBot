@@ -1,0 +1,34 @@
+{
+    "metadata": {
+        "title": "bombarder enemy",
+        "aliases": [],
+        "tags": [
+            "enemies"
+        ],
+        "keys": {}
+    },
+    "embed": {
+        "color": 12846604,
+        "url": "https://wildfrostwiki.com/Bombarder_(Enemy)",
+        "description": "**Bombarder** is an enemy which the player can encounter during a run.",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Stats",
+                "value": "<&Scrap&> 3 | <&Attack&> 0 | <&Counter&> 4"
+            },
+            {
+                "inline": false,
+                "name": "Effects",
+                "value": "Apply 2 <&Bom&>. Hits all enemies"
+            }
+        ],
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "image": {
+            "url": "https://wildfrostwiki.com/images/4/44/Bombarder_%28Vimik%29.png"
+        },
+        "title": "Bombarder (Enemy)"
+    }
+}

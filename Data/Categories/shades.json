@@ -1,0 +1,27 @@
+{
+    "metadata": {
+        "title": "shades",
+        "aliases": [],
+        "tags": [],
+        "keys": {}
+    },
+    "embed": {
+        "color": 12846604,
+        "url": "https://wildfrostwiki.com/Shades",
+        "description": "Shades, sometimes called Summons, act similarly to companion cards with some differences.\nOne key difference is that Shades are summoned from another card in a player's deck; the conditions of how they are summoned may vary, but the Shades themselves are not in a deck. Multiple of the same Shade can be on the board at one time, though some summoning cards are consumed when used.\nThe second key difference is that Shades also lose 1 health when they activating. When a Shade reaches zero health, they will vanish from the board. This makes their presence more temporary, however, they can die freely without being injured in the next battle.\nA note to make about Shades is that they will not carry any buffs or Charms that were applied to the card that summoned them. A Shade is a separate card from the card used to summon them.",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Shade List",
+                "value": ""
+            }
+        ],
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "thumbnail": {
+            "url": "https://wildfrostwiki.com//images/3/36/Icon_Shades.png"
+        },
+        "title": "Shades"
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "metadata": {
+        "title": "totem of the goat",
+        "aliases": [],
+        "tags": [
+            "clunkers"
+        ],
+        "keys": {}
+    },
+    "embed": {
+        "color": 12846604,
+		"url":"https://wildfrostwiki.com/Totem_of_the_Goat",
+        "description": "**Totem of the Goat** is a **Clunker** that can be obtained in a run.",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Stats",
+                "value": "<&Scrap&> 1"
+            },
+            {
+                "inline": false,
+                "name": "Effects",
+                "value": "Before an enemy attacks, apply 1 <&Demonize&> to them"
+            }
+        ],
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "image": {
+            "url": "https://wildfrostwiki.com/images/f/f1/Totem_of_the_Goat_%28TotemOfTheGoat%29.png"
+        },
+        "title": "Totem of the Goat"
+    }
+}

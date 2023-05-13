@@ -1,0 +1,30 @@
+{
+    "metadata": {
+        "title": "gigi's cookie box",
+        "aliases": [],
+        "tags": [
+            "items",
+            "scrap"
+        ],
+        "keys": {}
+    },
+    "embed": {
+        "color": 12846604,
+		"url":"https://wildfrostwiki.com/Gigi%27s_Cookie_Box",
+        "description": "**Gigi's Cookie Box** is an item players may accumulate over a run.",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Effects",
+                "value": "Add 2 <&Scrap&>. Increase <&Attack&> by 2. **Trash** 2. Consume."
+            }
+        ],
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "image": {
+            "url": "https://wildfrostwiki.com/images/2/27/Gigi%27s_Cookie_Box_%28Junberry%29.png"
+        },
+        "title": "Gigi's Cookie Box"
+    }
+}

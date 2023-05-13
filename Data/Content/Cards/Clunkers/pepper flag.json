@@ -1,0 +1,35 @@
+{
+    "metadata": {
+        "title": "pepper flag",
+        "aliases": [],
+        "tags": [
+            "clunkers",
+            "spice"
+        ],
+        "keys": {}
+    },
+    "embed": {
+        "color": 12846604,
+		"url":"https://wildfrostwiki.com/Pepper_Flag",
+        "description": "**Pepper Flag** is a **Clunker** that can be obtained in a run.",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Stats",
+                "value": "<&Scrap&> 1"
+            },
+            {
+                "inline": false,
+                "name": "Effects",
+                "value": "While active, all allies retain <&Spice&>"
+            }
+        ],
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "image": {
+            "url": "https://wildfrostwiki.com/images/0/07/Pepper_Flag_%28PepperFlag%29.png"
+        },
+        "title": "Pepper Flag"
+    }
+}

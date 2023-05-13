@@ -1,0 +1,34 @@
+{
+    "metadata": {
+        "title": "shade clay",
+        "aliases": [],
+        "tags": [
+            "items"
+        ],
+        "keys": {}
+    },
+    "embed": {
+        "color": 12846604,
+		"url":"https://wildfrostwiki.com/Shade_Clay",
+        "description": "**Shade Clay** is an item players may accumulate over a run.",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Stats",
+                "value": "<&Attack&> 2"
+            },
+            {
+                "inline": false,
+                "name": "Effects",
+                "value": "Make a copy of an Item in your hand. Consume"
+            }
+        ],
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "image": {
+            "url": "https://wildfrostwiki.com/images/1/11/Shade_Clay_%28Putty%29.png"
+        },
+        "title": "Shade Clay"
+    }
+}

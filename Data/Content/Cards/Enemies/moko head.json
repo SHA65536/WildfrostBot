@@ -1,0 +1,34 @@
+{
+    "metadata": {
+        "title": "moko head",
+        "aliases": [],
+        "tags": [
+            "enemies"
+        ],
+        "keys": {}
+    },
+    "embed": {
+        "color": 12846604,
+        "url": "https://wildfrostwiki.com/Moko_Head",
+        "description": "**Moko Head** is an enemy which the player can encounter during a run.",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Stats",
+                "value": "<&Scrap&> 1 | <&Attack&>  | <&Counter&> "
+            },
+            {
+                "inline": false,
+                "name": "Effects",
+                "value": "When destroyed, apply 5 <&Spice&> to all allies"
+            }
+        ],
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "image": {
+            "url": "https://wildfrostwiki.com/images/a/af/Moko_Head_%28MonkeyWorshipTotem%29.png"
+        },
+        "title": "Moko Head"
+    }
+}

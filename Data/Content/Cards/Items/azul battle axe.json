@@ -1,0 +1,35 @@
+{
+    "metadata": {
+        "title": "azul battle axe",
+        "aliases": [],
+        "tags": [
+            "items",
+            "overburn"
+        ],
+        "keys": {}
+    },
+    "embed": {
+        "color": 12846604,
+		"url":"https://wildfrostwiki.com/Azul_Battle_Axe",
+        "description": "**Azul Battle Axe** is an item players may accumulate over a run.",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Stats",
+                "value": "<&Attack&> 3"
+            },
+            {
+                "inline": false,
+                "name": "Effects",
+                "value": "Apply <&Overburn&> equal to damage dealt"
+            }
+        ],
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "image": {
+            "url": "https://wildfrostwiki.com/images/e/e5/Azul_Battle_Axe_%28BoltHarpoon%29.png"
+        },
+        "title": "Azul Battle Axe"
+    }
+}

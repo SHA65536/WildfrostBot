@@ -1,0 +1,30 @@
+{
+    "metadata": {
+        "title": "enemies",
+        "aliases": [
+            "bosses",
+            "minibosses"
+        ],
+        "tags": [],
+        "keys": {}
+    },
+    "embed": {
+        "color": 12846604,
+        "url": "https://wildfrostwiki.com/Enemies",
+        "description": "Enemy cards are those which the appear in battle and attack the player. In battles Enemies always attack first. ",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Enemy List",
+                "value": ""
+            }
+        ],
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "thumbnail": {
+            "url": "https://wildfrostwiki.com/images/e/eb/Icon_Enemies.png"
+        },
+        "title": "Clunkers"
+    }
+}

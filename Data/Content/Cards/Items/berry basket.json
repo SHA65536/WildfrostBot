@@ -1,0 +1,29 @@
+{
+    "metadata": {
+        "title": "berry basket",
+        "aliases": [],
+        "tags": [
+            "items"
+        ],
+        "keys": {}
+    },
+    "embed": {
+        "color": 12846604,
+		"url":"https://wildfrostwiki.com/Berry_Basket",
+        "description": "**Berry Basket** is an item players may accumulate over a run.",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Effects",
+                "value": "Restore 2 <&Health&>. Barrage."
+            }
+        ],
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "image": {
+            "url": "https://wildfrostwiki.com/images/c/c4/Berry_Basket_%28BerryBasket%29.png"
+        },
+        "title": "Berry Basket"
+    }
+}

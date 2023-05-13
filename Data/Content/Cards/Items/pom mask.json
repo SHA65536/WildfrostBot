@@ -1,0 +1,30 @@
+{
+    "metadata": {
+        "title": "pom mask",
+        "aliases": [],
+        "tags": [
+            "items",
+            "pom"
+        ],
+        "keys": {}
+    },
+    "embed": {
+        "color": 12846604,
+		"url":"https://wildfrostwiki.com/Pom_Mask",
+        "description": "**Pom Mask** is an item players may accumulate over a run.",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Effects",
+                "value": "Summon **Pom** on the enemy side. Consume."
+            }
+        ],
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "image": {
+            "url": "https://wildfrostwiki.com/images/1/1e/Pom_Mask_%28PigeonCage%29.png"
+        },
+        "title": "Pom Mask"
+    }
+}

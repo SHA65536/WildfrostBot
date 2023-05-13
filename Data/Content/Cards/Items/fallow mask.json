@@ -1,0 +1,30 @@
+{
+    "metadata": {
+        "title": "fallow mask",
+        "aliases": [],
+        "tags": [
+            "items",
+            "fallow"
+        ],
+        "keys": {}
+    },
+    "embed": {
+        "color": 12846604,
+		"url":"https://wildfrostwiki.com/Fallow_Mask",
+        "description": "**Fallow Mask** is an item players may accumulate over a run.",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Effects",
+                "value": "Summon **Fallow**"
+            }
+        ],
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "image": {
+            "url": "https://wildfrostwiki.com/images/e/ef/Fallow_Mask_%28FallowMask%29.png"
+        },
+        "title": "Fallow Mask"
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "metadata": {
+        "title": "b.i.n.k",
+        "aliases": [],
+        "tags": [
+            "items",
+            "ink"
+        ],
+        "keys": {}
+    },
+    "embed": {
+        "color": 12846604,
+		"url":"https://wildfrostwiki.com/B.I.N.K",
+        "description": "**B.I.N.K** is an item players may accumulate over a run.",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Stats",
+                "value": "<&Attack&> 0"
+            },
+            {
+                "inline": false,
+                "name": "Effects",
+                "value": "Apply 3 <&Ink&>. Hits all enemies"
+            }
+        ],
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "image": {
+            "url": "https://wildfrostwiki.com/images/8/86/B.I.N.K_%28Nullifier%29.png"
+        },
+        "title": "B.I.N.K"
+    }
+}

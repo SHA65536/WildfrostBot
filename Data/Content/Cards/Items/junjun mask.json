@@ -1,0 +1,30 @@
+{
+    "metadata": {
+        "title": "junjun mask",
+        "aliases": [],
+        "tags": [
+            "items",
+            "junjun"
+        ],
+        "keys": {}
+    },
+    "embed": {
+        "color": 12846604,
+		"url":"https://wildfrostwiki.com/JunJun_Mask",
+        "description": "**JunJun Mask** is an item **Shademancer** leaders start with in the deck.",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Effects",
+                "value": "Summon **JunJun**"
+            }
+        ],
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "image": {
+            "url": "https://wildfrostwiki.com/images/2/22/Junjun_Mask_%28JunjunMask%29.png"
+        },
+        "title": "JunJun Mask"
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "metadata": {
+        "title": "noomlin biscuit",
+        "aliases": [],
+        "tags": [
+            "items",
+            "noomlin"
+        ],
+        "keys": {}
+    },
+    "embed": {
+        "color": 12846604,
+		"url":"https://wildfrostwiki.com/Noomlin_Biscuit",
+        "description": "**Noomlin Biscuit** is an item players may accumulate over a run.",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Effects",
+                "value": "Add **Noomlin** to a card in your hand. Consume."
+            }
+        ],
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "image": {
+            "url": "https://wildfrostwiki.com/images/9/9f/Noomlin_Biscuit_%28NoomlinBiscuit%29.png"
+        },
+        "title": "Noomlin Biscuit"
+    }
+}

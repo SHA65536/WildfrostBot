@@ -1,0 +1,35 @@
+{
+    "metadata": {
+        "title": "frost guardian",
+        "aliases": [],
+        "tags": [
+            "enemies",
+            "bosses"
+        ],
+        "keys": {}
+    },
+    "embed": {
+        "color": 12846604,
+        "url": "https://wildfrostwiki.com/Frost_Guardian",
+        "description": "**Frost Guardian** is a Boss type enemy that the player can encounter.",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Stats",
+                "value": "<&Health&> 60 | <&Attack&> 0 | <&Counter&> 4 | <&ResistSnow&>"
+            },
+            {
+                "inline": false,
+                "name": "Effects",
+                "value": "When <&Health&> lost, add equal <&Attack&> to self and allies"
+            }
+        ],
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "image": {
+            "url": "https://wildfrostwiki.com/images/f/fe/Frost_Guardian_%28FinalBoss2%29.png"
+        },
+        "title": "Frost Guardian"
+    }
+}

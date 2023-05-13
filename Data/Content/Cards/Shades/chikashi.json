@@ -1,0 +1,36 @@
+{
+    "metadata": {
+        "title": "chikashi",
+        "aliases": [],
+        "tags": [
+            "shades",
+            "overburn",
+            "chikichi"
+        ],
+        "keys": {}
+    },
+    "embed": {
+        "color": 12846604,
+		"url":"https://wildfrostwiki.com/Chikagaru",
+        "description": "**Chikashi** is a **Shade** that the player can summon by sacrificing **Chikasan**. **Chikashi** can again be sacrificed to summon **Chikagaru**, who will continue the chain of **Chikichi**",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Stats",
+                "value": "<&Health&> 8 | <&Attack&> 8 | <&Counter&> 3"
+            },
+            {
+                "inline": false,
+                "name": "Effects",
+                "value": "When **Sacrificed**, summon **Chikagaru**. **Summoned**"
+            }
+        ],
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "image": {
+            "url": "https://wildfrostwiki.com/images/a/ae/Chikashi_%28TailsTwo%29.png"
+        },
+        "title": "Chikagaru"
+    }
+}

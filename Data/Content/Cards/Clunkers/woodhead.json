@@ -1,0 +1,34 @@
+{
+    "metadata": {
+        "title": "woodhead",
+        "aliases": [],
+        "tags": [
+            "clunkers"
+        ],
+        "keys": {}
+    },
+    "embed": {
+        "color": 12846604,
+		"url":"https://wildfrostwiki.com/Woodhead",
+        "description": "**Woodhead** is a **Clunker** that can be obtained in a run. Players with a **Snowdweller** leader will start with one.",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Stats",
+                "value": "<&Scrap&> 1"
+            },
+            {
+                "inline": false,
+                "name": "Effects",
+                "value": "*Does nothing, but will take a hit for you :)*"
+            }
+        ],
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "image": {
+            "url": "https://wildfrostwiki.com/images/b/bc/Woodhead_%28Woodhead%29.png"
+        },
+        "title": "Woodhead"
+    }
+}

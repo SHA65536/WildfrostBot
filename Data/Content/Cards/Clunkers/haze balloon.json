@@ -1,0 +1,35 @@
+{
+    "metadata": {
+        "title": "haze balloon",
+        "aliases": [],
+        "tags": [
+            "clunkers",
+            "haze"
+        ],
+        "keys": {}
+    },
+    "embed": {
+        "color": 12846604,
+		"url":"https://wildfrostwiki.com/Haze_Balloon",
+        "description": "**Haze Balloon** is a **Clunker** that can be obtained in a run.",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Stats",
+                "value": "<&Scrap&> 1"
+            },
+            {
+                "inline": false,
+                "name": "Effects",
+                "value": "When destroyed, apply 1 <&Haze&> to the attacker"
+            }
+        ],
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "image": {
+            "url": "https://wildfrostwiki.com/images/6/6c/Haze_Balloon_%28Vimifier%29.png"
+        },
+        "title": "Haze Balloon"
+    }
+}
