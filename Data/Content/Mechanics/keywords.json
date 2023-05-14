@@ -134,7 +134,7 @@
             {
                 "inline": false,
                 "name": "Unmovable",
-                "value": "The card cannot be moved around."
+                "value": "The card cannot be moved around or recalled."
             },
             {
                 "inline": false,
