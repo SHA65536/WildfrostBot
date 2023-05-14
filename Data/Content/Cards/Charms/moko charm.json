@@ -1,0 +1,35 @@
+{
+    "metadata": {
+        "title": "moko charm",
+        "aliases": [],
+        "tags": [
+            "charms",
+            "king moko"
+        ],
+        "keys": {}
+    },
+    "embed": {
+        "color": 12846604,
+        "url": "https://wildfrostwiki.com/Moko_Charm",
+        "description": "**Moko Charm** is a Charm that the player can collect on a run.",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Effects",
+                "value": "Add x1 <&Frenzy&>, -2 <&Attack&>"
+            },
+            {
+                "inline": false,
+                "name": "Unlock",
+                "value": "Survive an attack from **King Moko** and win the battle."
+            }
+        ],
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "thumbnail": {
+            "url": "https://wildfrostwiki.com/images/1/16/Moko_Charm.png"
+        },
+        "title": "Moko Charm"
+    }
+}

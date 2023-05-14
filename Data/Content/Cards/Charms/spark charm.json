@@ -1,0 +1,35 @@
+{
+    "metadata": {
+        "title": "spark charm",
+        "aliases": [],
+        "tags": [
+            "charms",
+            "spark"
+        ],
+        "keys": {}
+    },
+    "embed": {
+        "color": 12846604,
+        "url": "https://wildfrostwiki.com/Spark_Charm",
+        "description": "**Spark Charm** is a Charm that the player can collect on a run.",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Effects",
+                "value": "Gain **Spark** (Triggers when deployed, cannot be recalled)"
+            },
+            {
+                "inline": false,
+                "name": "Unlock",
+                "value": "||Defeat the **Heart of the Storm**||"
+            }
+        ],
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "thumbnail": {
+            "url": "https://wildfrostwiki.com/images/6/64/Spark_Charm.png"
+        },
+        "title": "Spark Charm"
+    }
+}

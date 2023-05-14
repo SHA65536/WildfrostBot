@@ -1,0 +1,35 @@
+{
+    "metadata": {
+        "title": "tiger charm",
+        "aliases": [],
+        "tags": [
+            "charms",
+            "teeth"
+        ],
+        "keys": {}
+    },
+    "embed": {
+        "color": 12846604,
+        "url": "https://wildfrostwiki.com/Tiger_Charm",
+        "description": "**Tiger Charm** is a Charm that the player can collect on a run.",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Effects",
+                "value": "Gain 1 <&Teeth&> when hit"
+            },
+            {
+                "inline": false,
+                "name": "Unlock",
+                "value": "Unlocked by default."
+            }
+        ],
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "thumbnail": {
+            "url": "https://wildfrostwiki.com/images/c/ca/Tiger_Charm.png"
+        },
+        "title": "Tiger Charm"
+    }
+}

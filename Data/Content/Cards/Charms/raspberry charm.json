@@ -1,0 +1,35 @@
+{
+    "metadata": {
+        "title": "raspberry charm",
+        "aliases": [],
+        "tags": [
+            "charms",
+            "daily voyage"
+        ],
+        "keys": {}
+    },
+    "embed": {
+        "color": 12846604,
+        "url": "https://wildfrostwiki.com/Raspberry_Charm",
+        "description": "**Raspberry Charm** is a Charm that the player can collect on a run.",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Effects",
+                "value": "+1 <&Attack&>, +3 <&Health&>"
+            },
+            {
+                "inline": false,
+                "name": "Unlock",
+                "value": "Win a Daily Voyage."
+            }
+        ],
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "thumbnail": {
+            "url": "https://wildfrostwiki.com/images/8/86/Raspberry_Charm.png"
+        },
+        "title": "Raspberry Charm"
+    }
+}

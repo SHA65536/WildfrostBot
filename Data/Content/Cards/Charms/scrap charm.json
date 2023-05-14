@@ -1,0 +1,35 @@
+{
+    "metadata": {
+        "title": "scrap charm",
+        "aliases": [],
+        "tags": [
+            "charms",
+            "scrap"
+        ],
+        "keys": {}
+    },
+    "embed": {
+        "color": 12846604,
+        "url": "https://wildfrostwiki.com/Scrap_Charm",
+        "description": "**Scrap Charm** is a Charm that the player can collect on a run.",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Effects",
+                "value": "Add 1 <&Scrap&>"
+            },
+            {
+                "inline": false,
+                "name": "Unlock",
+                "value": "Unlocked by default."
+            }
+        ],
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "thumbnail": {
+            "url": "https://wildfrostwiki.com/images/0/08/Scrap_Charm.png"
+        },
+        "title": "Scrap Charm"
+    }
+}

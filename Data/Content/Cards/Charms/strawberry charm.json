@@ -1,0 +1,35 @@
+{
+    "metadata": {
+        "title": "strawberry charm",
+        "aliases": [],
+        "tags": [
+            "charms",
+            "muncher"
+        ],
+        "keys": {}
+    },
+    "embed": {
+        "color": 12846604,
+        "url": "https://wildfrostwiki.com/Strawberry_Charm",
+        "description": "**Strawberry Charm** is a Charm that the player can collect on a run.",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Effects",
+                "value": "When consumed add +2 <&Health&> to all allies"
+            },
+            {
+                "inline": false,
+                "name": "Unlock",
+                "value": "Feed the **Muncher** a **Consume** item."
+            }
+        ],
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "thumbnail": {
+            "url": "https://wildfrostwiki.com/images/4/46/Strawberry_Charm.png"
+        },
+        "title": "Strawberry Charm"
+    }
+}

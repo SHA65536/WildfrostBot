@@ -1,0 +1,35 @@
+{
+    "metadata": {
+        "title": "lamb charm",
+        "aliases": [],
+        "tags": [
+            "charms",
+            "faith"
+        ],
+        "keys": {}
+    },
+    "embed": {
+        "color": 12846604,
+        "url": "https://wildfrostwiki.com/Lamb_Charm",
+        "description": "**Lamb Charm** is a Charm that the player can collect on a run.",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Effects",
+                "value": "Gain **Faith** 2 (Increases summon's <&Attack&> by 2)"
+            },
+            {
+                "inline": false,
+                "name": "Unlock",
+                "value": "Sacrifice 10 allies in a single battle."
+            }
+        ],
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "thumbnail": {
+            "url": "https://wildfrostwiki.com/images/6/60/Lamb_Charm.png"
+        },
+        "title": "Lamb Charm"
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "metadata": {
+        "title": "block charm",
+        "aliases": [],
+        "tags": [
+            "charms",
+            "block"
+        ],
+        "keys": {}
+    },
+    "embed": {
+        "color": 12846604,
+        "url": "https://wildfrostwiki.com/Block_Charm",
+        "description": "**Block Charm** is a Charm that the player can collect on a run.",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Effects",
+                "value": "Start with 1 <&Block&>"
+            },
+            {
+                "inline": false,
+                "name": "Unlock",
+                "value": "Stack 5 <&Block&> on a single target."
+            }
+        ],
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "thumbnail": {
+            "url": "https://wildfrostwiki.com/images/3/32/Block_Charm.png"
+        },
+        "title": "Block Charm"
+    }
+}

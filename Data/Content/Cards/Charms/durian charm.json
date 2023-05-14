@@ -1,0 +1,34 @@
+{
+    "metadata": {
+        "title": "durian charm",
+        "aliases": [],
+        "tags": [
+            "charms"
+        ],
+        "keys": {}
+    },
+    "embed": {
+        "color": 12846604,
+        "url": "https://wildfrostwiki.com/Durian_Charm",
+        "description": "**Durian Charm** is a Charm that the player can collect on a run.",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Effects",
+                "value": "+5 <&Attack&>, Remove all effects"
+            },
+            {
+                "inline": false,
+                "name": "Unlock",
+                "value": "Deal 100 damage in a single hit."
+            }
+        ],
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "thumbnail": {
+            "url": "https://wildfrostwiki.com/images/a/aa/Durian_Charm.png"
+        },
+        "title": "Durian Charm"
+    }
+}

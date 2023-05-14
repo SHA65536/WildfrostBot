@@ -1,0 +1,35 @@
+{
+    "metadata": {
+        "title": "goat charm",
+        "aliases": [],
+        "tags": [
+            "charms",
+            "demonize"
+        ],
+        "keys": {}
+    },
+    "embed": {
+        "color": 12846604,
+        "url": "https://wildfrostwiki.com/Goat_Charm",
+        "description": "**Goat Charm** is a Charm that the player can collect on a run.",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Effects",
+                "value": "Apply 1 <&Demonize&>"
+            },
+            {
+                "inline": false,
+                "name": "Unlock",
+                "value": "Unlocked by default."
+            }
+        ],
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "thumbnail": {
+            "url": "https://wildfrostwiki.com/images/9/98/Goat_Charm.png"
+        },
+        "title": "Goat Charm"
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "metadata": {
+        "title": "pomegranate charm",
+        "aliases": [],
+        "tags": [
+            "charms"
+        ],
+        "keys": {}
+    },
+    "embed": {
+        "color": 12846604,
+        "url": "https://wildfrostwiki.com/Pomegranate_Charm",
+        "description": "**Pomegranate Charm** is a Charm that the player can collect on a run.",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Effects",
+                "value": "Gain **Barrage**, reduce <&Attack&> by 2"
+            },
+            {
+                "inline": false,
+                "name": "Unlock",
+                "value": "Unlocked by default."
+            }
+        ],
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "thumbnail": {
+            "url": "https://wildfrostwiki.com/images/f/f8/Pomegranate_Charm.png"
+        },
+        "title": "Pomegranate Charm"
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "metadata": {
+        "title": "greed charm",
+        "aliases": [],
+        "tags": [
+            "charms",
+            "greed"
+        ],
+        "keys": {}
+    },
+    "embed": {
+        "color": 12846604,
+        "url": "https://wildfrostwiki.com/Greed_Charm",
+        "description": "**Greed Charm** is a Charm that the player can collect on a run.",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Effects",
+                "value": "Gain **Greed**"
+            },
+            {
+                "inline": false,
+                "name": "Unlock",
+                "value": "Buy 3 Charms from a single Shop."
+            }
+        ],
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "thumbnail": {
+            "url": "https://wildfrostwiki.com/images/3/3a/Greed_Charm.png"
+        },
+        "title": "Greed Charm"
+    }
+}

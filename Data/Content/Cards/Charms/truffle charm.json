@@ -1,0 +1,35 @@
+{
+    "metadata": {
+        "title": "truffle charm",
+        "aliases": [],
+        "tags": [
+            "charms",
+            "shroom"
+        ],
+        "keys": {}
+    },
+    "embed": {
+        "color": 12846604,
+        "url": "https://wildfrostwiki.com/Truffle_Charm",
+        "description": "**Truffle Charm** is a Charm that the player can collect on a run.",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Effects",
+                "value": "Apply 3 <&Shroom&>, -2 <&Health&>"
+            },
+            {
+                "inline": false,
+                "name": "Unlock",
+                "value": "Stack 20 <&Shroom&> on a single target."
+            }
+        ],
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "thumbnail": {
+            "url": "https://wildfrostwiki.com/images/b/bb/Truffle_Charm.png"
+        },
+        "title": "Truffle Charm"
+    }
+}

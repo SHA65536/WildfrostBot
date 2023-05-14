@@ -1,0 +1,34 @@
+{
+    "metadata": {
+        "title": "moose charm",
+        "aliases": [],
+        "tags": [
+            "charms"
+        ],
+        "keys": {}
+    },
+    "embed": {
+        "color": 12846604,
+        "url": "https://wildfrostwiki.com/Moose_Charm",
+        "description": "**Moose Charm** is a Charm that the player can collect on a run.",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Effects",
+                "value": "Increase <&Counter&> by 1, +3 <&Attack&>"
+            },
+            {
+                "inline": false,
+                "name": "Unlock",
+                "value": "Deal 50 damage in a single hit."
+            }
+        ],
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "thumbnail": {
+            "url": "https://wildfrostwiki.com/images/6/6c/Moose_Charm.png"
+        },
+        "title": "Moose Charm"
+    }
+}

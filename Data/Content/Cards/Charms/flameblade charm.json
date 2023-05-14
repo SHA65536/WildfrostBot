@@ -1,0 +1,35 @@
+{
+    "metadata": {
+        "title": "flameblade charm",
+        "aliases": [],
+        "tags": [
+            "charms",
+            "overburn"
+        ],
+        "keys": {}
+    },
+    "embed": {
+        "color": 12846604,
+        "url": "https://wildfrostwiki.com/Flameblade_Charm",
+        "description": "**Flameblade Charm** is a Charm that the player can collect on a run.",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Effects",
+                "value": "Replace current <&Attack&> with apply <&Overburn&>"
+            },
+            {
+                "inline": false,
+                "name": "Unlock",
+                "value": "Unlocked by default."
+            }
+        ],
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "thumbnail": {
+            "url": "https://wildfrostwiki.com/images/3/31/Flameblade_Charm.png"
+        },
+        "title": "Flameblade Charm"
+    }
+}

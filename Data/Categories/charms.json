@@ -1,0 +1,29 @@
+{
+    "metadata": {
+        "title": "charms",
+        "aliases": [],
+        "tags": [
+            "challenge shrine"
+        ],
+        "keys": {}
+    },
+    "embed": {
+        "color": 12846604,
+        "url": "https://wildfrostwiki.com/Charms",
+        "description": "Charms are items that can change the behavior of a single card for the remainder of that run. They can be applied from one's Inventory between battles; if a charm is added to a card after entering a battle, it will only count for following battles.\nWhen a Charm is attached to a card it modifies the card immediately and cannot be removed or undone. Any one card can have a maximum of 3 charms applied to it in a run and while they carry over to decks afflicted by the Emperor Shade, they are otherwise not persistent between runs.\nThe behaviors of charms are applied to the card as it is at that point in time and will not re-apply when future modifications are applied. This makes the order in which a player attaches charms very important. If a player applies a charm that turns the damage of a card into Overburn followed by a second charm that increases the card's damage, the increased damage will not be converted into Overburn as it came after the Overburn behavior was applied. Instead, the card would apply Overburn as well as deal damage equal to the increased amount. Applying the damage charm before the conversion charm would lead to more damage being turned into Overburn. ",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Charm List",
+                "value": ""
+            }
+        ],
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "thumbnail": {
+            "url": "https://wildfrostwiki.com/images/0/0f/Noomlin_Charm.png"
+        },
+        "title": "Charms"
+    }
+}

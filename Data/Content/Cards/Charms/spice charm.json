@@ -1,0 +1,35 @@
+{
+    "metadata": {
+        "title": "spice charm",
+        "aliases": [],
+        "tags": [
+            "charms",
+            "spice"
+        ],
+        "keys": {}
+    },
+    "embed": {
+        "color": 12846604,
+        "url": "https://wildfrostwiki.com/Spice_Charm",
+        "description": "**Spice Charm** is a Charm that the player can collect on a run.",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Effects",
+                "value": "Gain 2 <&Spice&> when hit"
+            },
+            {
+                "inline": false,
+                "name": "Unlock",
+                "value": "Unlocked by default."
+            }
+        ],
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "thumbnail": {
+            "url": "https://wildfrostwiki.com/images/1/1f/Spice_Charm.png"
+        },
+        "title": "Spice Charm"
+    }
+}

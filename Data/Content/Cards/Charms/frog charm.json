@@ -1,0 +1,35 @@
+{
+    "metadata": {
+        "title": "frog charm",
+        "aliases": [],
+        "tags": [
+            "charms",
+            "fury"
+        ],
+        "keys": {}
+    },
+    "embed": {
+        "color": 12846604,
+        "url": "https://wildfrostwiki.com/Frog_Charm",
+        "description": "**Frog Charm** is a Charm that the player can collect on a run.",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Effects",
+                "value": "Gain **Fury** 3"
+            },
+            {
+                "inline": false,
+                "name": "Unlock",
+                "value": "Win a battle with just your leader remaining."
+            }
+        ],
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "thumbnail": {
+            "url": "https://wildfrostwiki.com/images/5/56/Frog_Charm.png"
+        },
+        "title": "Frog Charm"
+    }
+}

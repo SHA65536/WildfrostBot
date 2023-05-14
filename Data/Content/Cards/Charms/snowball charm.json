@@ -1,0 +1,34 @@
+{
+    "metadata": {
+        "title": "snowball charm",
+        "aliases": [],
+        "tags": [
+            "charms"
+        ],
+        "keys": {}
+    },
+    "embed": {
+        "color": 12846604,
+        "url": "https://wildfrostwiki.com/Snowball_Charm",
+        "description": "**Snowball Charm** is a Charm that the player can collect on a run.",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Effects",
+                "value": "Apply 1 <&Snow&>"
+            },
+            {
+                "inline": false,
+                "name": "Unlock",
+                "value": "Unlocked by default."
+            }
+        ],
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "thumbnail": {
+            "url": "https://wildfrostwiki.com/images/a/a5/Snowball_Charm.png"
+        },
+        "title": "Snowball Charm"
+    }
+}

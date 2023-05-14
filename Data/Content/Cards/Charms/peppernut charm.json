@@ -1,0 +1,36 @@
+{
+    "metadata": {
+        "title": "peppernut charm",
+        "aliases": [],
+        "tags": [
+            "charms",
+            "shell",
+            "spice"
+        ],
+        "keys": {}
+    },
+    "embed": {
+        "color": 12846604,
+        "url": "https://wildfrostwiki.com/Peppernut_Charm",
+        "description": "**Peppernut Charm** is a Charm that the player can collect on a run.",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Effects",
+                "value": "When <&Shell&>'d, gain <&Spice&> instead"
+            },
+            {
+                "inline": false,
+                "name": "Unlock",
+                "value": "Stack 50 <&Shell&> on a single target."
+            }
+        ],
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "thumbnail": {
+            "url": "https://wildfrostwiki.com/images/0/0f/Peppernut_Charm.png"
+        },
+        "title": "Peppernut Charm"
+    }
+}

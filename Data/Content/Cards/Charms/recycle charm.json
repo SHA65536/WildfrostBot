@@ -1,0 +1,35 @@
+{
+    "metadata": {
+        "title": "recycle charm",
+        "aliases": [],
+        "tags": [
+            "charms",
+            "recycle"
+        ],
+        "keys": {}
+    },
+    "embed": {
+        "color": 12846604,
+        "url": "https://wildfrostwiki.com/Recycle_Charm",
+        "description": "**Recycle Charm** is a Charm that the player can collect on a run.",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Effects",
+                "value": "Gain **Recycle** 1, +2 <&Attack&>"
+            },
+            {
+                "inline": false,
+                "name": "Unlock",
+                "value": "Unlocked by default."
+            }
+        ],
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "thumbnail": {
+            "url": "https://wildfrostwiki.com/images/e/e7/Recycle_Charm.png"
+        },
+        "title": "Recycle Charm"
+    }
+}

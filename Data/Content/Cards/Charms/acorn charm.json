@@ -1,0 +1,35 @@
+{
+    "metadata": {
+        "title": "acorn charm",
+        "aliases": [],
+        "tags": [
+            "charms",
+            "shell"
+        ],
+        "keys": {}
+    },
+    "embed": {
+        "color": 12846604,
+        "url": "https://wildfrostwiki.com/Acorn_Charm",
+        "description": "**Acorn Charm** is a Charm that the player can collect on a run.",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Effects",
+                "value": "Gain 8 <&Shell&>"
+            },
+            {
+                "inline": false,
+                "name": "Unlock",
+                "value": "Unlocked by default."
+            }
+        ],
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "thumbnail": {
+            "url": "https://wildfrostwiki.com/images/8/8c/Acorn_Charm.png"
+        },
+        "title": "Acorn Charm"
+    }
+}

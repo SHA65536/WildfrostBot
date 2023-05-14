@@ -1,0 +1,35 @@
+{
+    "metadata": {
+        "title": "boonfire charm",
+        "aliases": [],
+        "tags": [
+            "charms",
+            "overburn"
+        ],
+        "keys": {}
+    },
+    "embed": {
+        "color": 12846604,
+        "url": "https://wildfrostwiki.com/Boonfire_Charm",
+        "description": "**Boonfire Charm** is a Charm that the player can collect on a run.",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Effects",
+                "value": "When consumed apply 2 <&Overburn&> to all enemies"
+            },
+            {
+                "inline": false,
+                "name": "Unlock",
+                "value": "Unlocked by default."
+            }
+        ],
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "thumbnail": {
+            "url": "https://wildfrostwiki.com/images/e/ea/Boonfire_Charm.png"
+        },
+        "title": "Boonfire Charm"
+    }
+}

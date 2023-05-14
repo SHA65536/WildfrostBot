@@ -1,0 +1,35 @@
+{
+    "metadata": {
+        "title": "bom charm",
+        "aliases": [],
+        "tags": [
+            "charms",
+            "bom"
+        ],
+        "keys": {}
+    },
+    "embed": {
+        "color": 12846604,
+        "url": "https://wildfrostwiki.com/Bom_Charm",
+        "description": "**Bom Charm** is a Charm that the player can collect on a run.",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Effects",
+                "value": "Apply 1 <&Bom&>"
+            },
+            {
+                "inline": false,
+                "name": "Unlock",
+                "value": "Unlocked by default."
+            }
+        ],
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "thumbnail": {
+            "url": "https://wildfrostwiki.com/images/c/c1/Bom_Charm.png"
+        },
+        "title": "Bom Charm"
+    }
+}

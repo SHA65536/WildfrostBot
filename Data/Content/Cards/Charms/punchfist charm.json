@@ -1,0 +1,35 @@
+{
+    "metadata": {
+        "title": "punchfist charm",
+        "aliases": [],
+        "tags": [
+            "charms",
+            "smackback"
+        ],
+        "keys": {}
+    },
+    "embed": {
+        "color": 12846604,
+        "url": "https://wildfrostwiki.com/Punchfist_Charm",
+        "description": "**Punchfist Charm** is a Charm that the player can collect on a run.",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Effects",
+                "value": "Gain Smackback"
+            },
+            {
+                "inline": false,
+                "name": "Unlock",
+                "value": "Unlocked by default."
+            }
+        ],
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "thumbnail": {
+            "url": "https://wildfrostwiki.com/images/7/7d/Punchfist_Charm.png"
+        },
+        "title": "Punchfist Charm"
+    }
+}

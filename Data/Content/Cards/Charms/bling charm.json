@@ -1,0 +1,35 @@
+{
+    "metadata": {
+        "title": "bling charm",
+        "aliases": [],
+        "tags": [
+            "charms",
+            "bling"
+        ],
+        "keys": {}
+    },
+    "embed": {
+        "color": 12846604,
+        "url": "https://wildfrostwiki.com/Bling_Charm",
+        "description": "**Bling Charm** is a Charm that the player can collect on a run.",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Effects",
+                "value": "Gain 5 <&Bling&> from each kill"
+            },
+            {
+                "inline": false,
+                "name": "Unlock",
+                "value": "Unlocked by default."
+            }
+        ],
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "thumbnail": {
+            "url": "https://wildfrostwiki.com/images/9/90/Bling_Charm.png"
+        },
+        "title": "Bling Charm"
+    }
+}

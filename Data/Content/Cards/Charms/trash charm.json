@@ -1,0 +1,34 @@
+{
+    "metadata": {
+        "title": "trash charm",
+        "aliases": [],
+        "tags": [
+            "charms"
+        ],
+        "keys": {}
+    },
+    "embed": {
+        "color": 12846604,
+        "url": "https://wildfrostwiki.com/Trash_Charm",
+        "description": "**Trash Charm** is a Charm that the player can collect on a run.",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Effects",
+                "value": "Gain **Trash** 1"
+            },
+            {
+                "inline": false,
+                "name": "Unlock",
+                "value": "Unlocked by default."
+            }
+        ],
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "thumbnail": {
+            "url": "https://wildfrostwiki.com/images/e/e0/Trash_Charm.png"
+        },
+        "title": "Trash Charm"
+    }
+}

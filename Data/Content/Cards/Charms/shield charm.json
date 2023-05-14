@@ -1,0 +1,35 @@
+{
+    "metadata": {
+        "title": "shield charm",
+        "aliases": [],
+        "tags": [
+            "charms",
+            "shell"
+        ],
+        "keys": {}
+    },
+    "embed": {
+        "color": 12846604,
+        "url": "https://wildfrostwiki.com/Shield_Charm",
+        "description": "**Shield Charm** is a Charm that the player can collect on a run.",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Effects",
+                "value": "Gain 3 <&Shell&> on kill"
+            },
+            {
+                "inline": false,
+                "name": "Unlock",
+                "value": "Unlocked by default."
+            }
+        ],
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "thumbnail": {
+            "url": "https://wildfrostwiki.com/images/4/45/Shield_Charm.png"
+        },
+        "title": "Shield Charm"
+    }
+}

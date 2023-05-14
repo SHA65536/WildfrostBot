@@ -1,0 +1,34 @@
+{
+    "metadata": {
+        "title": "bombskull charm",
+        "aliases": [],
+        "tags": [
+            "charms"
+        ],
+        "keys": {}
+    },
+    "embed": {
+        "color": 12846604,
+        "url": "https://wildfrostwiki.com/Bombskull_Charm",
+        "description": "**Bombskull Charm** is a Charm that the player can collect on a run.",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Effects",
+                "value": "When destroyed, deal 8 damage to enemies in the row."
+            },
+            {
+                "inline": false,
+                "name": "Unlock",
+                "value": "Unlocked by default."
+            }
+        ],
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "thumbnail": {
+            "url": "https://wildfrostwiki.com/images/3/3b/Bombskull_Charm.png"
+        },
+        "title": "Bombskull Charm"
+    }
+}

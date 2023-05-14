@@ -1,0 +1,34 @@
+{
+    "metadata": {
+        "title": "pengu charm",
+        "aliases": [],
+        "tags": [
+            "charms"
+        ],
+        "keys": {}
+    },
+    "embed": {
+        "color": 12846604,
+        "url": "https://wildfrostwiki.com/Pengu_Charm",
+        "description": "**Pengu Charm** is a Charm that the player can collect on a run.",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Effects",
+                "value": "When <&Snow&>'d, gain equal <&Attack&>"
+            },
+            {
+                "inline": false,
+                "name": "Unlock",
+                "value": "Stack 15 <&Snow&> on a single target."
+            }
+        ],
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "thumbnail": {
+            "url": "https://wildfrostwiki.com/images/8/8c/Pengu_Charm.png"
+        },
+        "title": "Pengu Charm"
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "metadata": {
+        "title": "squid charm",
+        "aliases": [],
+        "tags": [
+            "charms",
+            "ink"
+        ],
+        "keys": {}
+    },
+    "embed": {
+        "color": 12846604,
+        "url": "https://wildfrostwiki.com/Squid_Charm",
+        "description": "**Squid Charm** is a Charm that the player can collect on a run.",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Effects",
+                "value": "Apply 3 <&Ink&>"
+            },
+            {
+                "inline": false,
+                "name": "Unlock",
+                "value": "Unlocked by default."
+            }
+        ],
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "thumbnail": {
+            "url": "https://wildfrostwiki.com/images/0/00/Squid_Charm.png"
+        },
+        "title": "Squid Charm"
+    }
+}
