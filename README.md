@@ -13,6 +13,6 @@ The main command of the bot is /search. It will search the query in the database
 All the data is in the [Data](./Data) directory.
 
 ## W.I.P.
-[ ] Admin Commands to set config for channel for example ephemeral responses or message commands
-[ ] Better error handling
-[ ] Fuzzy Search for empty Autocomplete
+- [ ] Admin Commands to set config for channel for example ephemeral responses or message commands
+- [ ] Better error handling
+- [ ] Fuzzy Search for empty Autocomplete
