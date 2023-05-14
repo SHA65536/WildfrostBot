@@ -1,6 +1,6 @@
 {
     "metadata": {
-        "title": "frotoscope",
+        "title": "frostoscope",
         "aliases": [],
         "tags": [
             "snowdwell"
@@ -22,8 +22,8 @@
             "text": "<&Footer&>"
         },
         "thumbnail": {
-            "url": "https://wildfrostwiki.com/images/d/d5/Frotoscope.png"
+            "url": "https://wildfrostwiki.com/images/b/b3/Frostoscope.png"
         },
-        "title": "Frotoscope"
+        "title": "Frostoscope"
     }
 }
