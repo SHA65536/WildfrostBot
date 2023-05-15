@@ -65,7 +65,7 @@ func (h *DiscordHandler) RegisterCommands() error {
 	for _, cmd := range h.Cmds {
 		commands = append(commands, cmd.Cmd)
 	}
-	h.CreatedCmds, err = h.Session.ApplicationCommandBulkOverwrite(h.Session.State.User.ID, "938759955417276416", commands)
+	h.CreatedCmds, err = h.Session.ApplicationCommandBulkOverwrite(h.Session.State.User.ID, "", commands)
 	return err
 }
 

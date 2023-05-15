@@ -1,7 +1,9 @@
 {
     "metadata": {
         "title": "tribe hall",
-        "aliases": [],
+        "aliases": [
+            "tribes"
+        ],
         "tags": [
             "snowdwell"
         ],
@@ -20,17 +22,17 @@
             {
                 "inline": false,
                 "name": "Snowdwellers",
-                "value": "A collection of clans who banded together in the town of Snowdwell to lead the battle against the Wildfrost.\nMastering the elements is key to their strategy in battle, using snow and shrooms to hinder enemies, shells to protect themselves, and flaming hot spice to gain more power."
+                "value": "**Starting Deck** of 5 **Scrappy Swords**, 2 **Snow Sticks**, 1 **Sun Rod**, 1 **Flamewater**, 1 **Woodhead**, as well as the hero and their pet.\nA collection of clans who banded together in the town of Snowdwell to lead the battle against the Wildfrost.\nMastering the elements is key to their strategy in battle, using snow and shrooms to hinder enemies, shells to protect themselves, and flaming hot spice to gain more power."
             },
             {
                 "inline": false,
                 "name": "Shademancers",
-                "value": "These skilled warriors unleash the power of darkness by summoning spirits known as Shades to aid them in battle.\nShades can absorb enemy attacks, be powered up to create devastating opponents, or strategically sacrificed to gain various boons."
+                "value": "**Starting Deck**: 5 **Tar Blades**, 1 **Blizzard Bottle**, 1 **Sunburst Tootoo**, 1 **Berry Bell**, 1 **JunJun Mask**, as well as the hero and their pet.\nThese skilled warriors unleash the power of darkness by summoning spirits known as Shades to aid them in battle.\nShades can absorb enemy attacks, be powered up to create devastating opponents, or strategically sacrificed to gain various boons."
             },
             {
                 "inline": false,
                 "name": "Clunkmasters",
-                "value": "The lost tribe of the Gnomes! These master tinkerers use junk and scrap to fuel powerful Clunkers and weapons.\nStriking a balance between creating and recycling junk to power machinery and weaponry is fundamental to the Clunkmaster strategy."
+                "value": "**Starting Deck**: 4 **Gearhammers**, 1 **Snowzooka**, 1 **Sunsong Box**, 1 **Flask of Ink**, 1 **Junkhead**, 1 **Junk**, as well as the hero and their pet.\nThe lost tribe of the Gnomes! These master tinkerers use junk and scrap to fuel powerful Clunkers and weapons.\nStriking a balance between creating and recycling junk to power machinery and weaponry is fundamental to the Clunkmaster strategy."
             }
         ],
         "footer": {
