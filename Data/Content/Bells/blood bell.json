@@ -1,0 +1,30 @@
+{
+    "metadata": {
+        "title": "blood bell",
+        "aliases": [],
+        "tags": [
+            "bells",
+            "daily voyage"
+        ],
+        "keys": {}
+    },
+    "embed": {
+        "color": 12846604,
+        "url": "https://wildfrostwiki.com/Bells#Modifier_Bells",
+        "description": "**Blood Bell** is a modifier bell that can appear in the **Daily Voyage**",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Effects",
+                "value": "Your Leader loses 1 <&Health&> after each battle"
+            }
+        ],
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "thumbnail": {
+            "url": "https://wildfrostwiki.com/images/b/b5/Blood_Bell.png"
+        },
+        "title": "Blood Bell"
+    }
+}

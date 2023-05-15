@@ -1,0 +1,30 @@
+{
+    "metadata": {
+        "title": "gold blade bell",
+        "aliases": [],
+        "tags": [
+            "bells",
+            "daily voyage"
+        ],
+        "keys": {}
+    },
+    "embed": {
+        "color": 12846604,
+        "url": "https://wildfrostwiki.com/Bells#Modifier_Bells",
+        "description": "**Gold Blade Bell** is a modifier bell that can appear in the **Daily Voyage**",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Effects",
+                "value": "Combos give double <&Bling&> but enemies no longer drop <&Bling&> when killed "
+            }
+        ],
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "thumbnail": {
+            "url": "https://wildfrostwiki.com/images/c/c6/Gold_Blade_Bell.png"
+        },
+        "title": "Gold Blade Bell"
+    }
+}

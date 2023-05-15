@@ -1,0 +1,30 @@
+{
+    "metadata": {
+        "title": "sun bell of the bell",
+        "aliases": [],
+        "tags": [
+            "bells",
+            "bosses"
+        ],
+        "keys": {}
+    },
+    "embed": {
+        "color": 12846604,
+        "url": "https://wildfrostwiki.com/Bells#Sun_Bells",
+        "description": "**Sun Bell of the Bell** is a Sun Bell that the player can get from a boss.",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Effects",
+                "value": "Redraw Bell Counter -1. The Redraw Bell Counter resets to 3 instead of 4 when you ring it."
+            }
+        ],
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "thumbnail": {
+            "url": "https://wildfrostwiki.com/images/d/d9/Sun_Bell_of_the_Bell.png"
+        },
+        "title": "Sun Bell of the Bell"
+    }
+}

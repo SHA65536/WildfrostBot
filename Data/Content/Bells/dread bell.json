@@ -1,0 +1,30 @@
+{
+    "metadata": {
+        "title": "dread bell",
+        "aliases": [],
+        "tags": [
+            "bells",
+            "charms"
+        ],
+        "keys": {}
+    },
+    "embed": {
+        "color": 12846604,
+        "url": "https://wildfrostwiki.com/Bells#Challenge_Bells",
+        "description": "**Dread Bell** is the first Challenge Bell that the player choose after defeating the boss",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Effects",
+                "value": "Some enemies will be upgraded with **Charms** and will drop more <&Bling&>"
+            }
+        ],
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "thumbnail": {
+            "url": "https://wildfrostwiki.com/images/b/ba/Dread_Bell.png"
+        },
+        "title": "Dread Bell"
+    }
+}

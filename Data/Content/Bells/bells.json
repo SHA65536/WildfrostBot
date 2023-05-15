@@ -1,0 +1,44 @@
+{
+    "metadata": {
+        "title": "bells",
+        "aliases": [],
+        "tags": [
+            "daily voyage"
+        ],
+        "keys": {}
+    },
+    "embed": {
+        "color": 12846604,
+        "url": "https://wildfrostwiki.com/Bells",
+        "description": "Bells are effects that add extra rules to the game. Active bells appear in the top left corner, and hovering over them explains their effects. Bells can have positive and negative effects, sometimes both.\n\nSun Bells become active when you beat a Boss (not a Miniboss). After defeating a boss, you're presented with all Sun Bells not currently active, and get to choose one to activate for the rest of the run.\n\nChallenge Bells, once unlocked, can be selected while choosing your leader, and will affect your entire run. They have negative effects with tradeoffs. ||Having all three Challenge Bells active is required for Lumin Goop and Broken Vase to appear.||\n\n2-3 Modifier Bells are randomly selected every Daily Voyage. Most of them have negative or neutral effects, increasing the difficulty of Daily Voyages compared to normal runs.",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Sun Bells",
+                "value": "**Sun Bell of Hands** | Card Draw +1 | When you draw a hand, draw an additional card.\n**Sun Bell of Fellowship** | Companion Limit +1 | Lets you take 4 companions into battle instead of 3.\n**Sun Bell of the Bell** | Redraw Bell Counter -1 | The Redraw Bell Counter resets to 3 instead of 4 when you ring it."
+            },
+            {
+                "inline": false,
+                "name": "Challenge Bells",
+                "value": "**Dread Bell** | Some enemies will be upgraded with Charms and will drop more <&Bling&> | Unlocked by defeating Frost Guardian.\n**Horde Bell** | Reduced enemy wave counter, but you start with a **Crown** | Enemies will appear every 4 rounds instead of 5. Your pet will have a crown at the start of the run.\n**Titan Bell** | Harder Boss battles, but item rewards will contain more options "
+            },
+            {
+                "inline": false,
+                "name": "Modifier Bells",
+                "value": "**Battle Bell** | Enemies have +1 <&Attack&> and +1 <&Health&>.\n**Bell of Death** | Some items in shops are more expensive.\n**Blingsack Bell** | Goblings drop double <&Bling&> but their <&Counter&> is reduced by 1.\n**Blingsnail Bell** | Companions die forever when they die in battle.\n**Blood Bell** | Your Leader loses 1 <&Health&> after each battle.\n**Bombskull Bell** | All friendly and enemy Clunkers have **Bombskull Charms**\n**Broken Bell** | Redraw Bell counter increased by 2."
+            },
+            {
+                "inline": false,
+                "name": "More Modifier Bells",
+                "value": "**Fog Bell** | Your starting items are all **Aimless**.\n**Frenzy Bell** | Bosses & Minibosses gain x1 <&Frenzy&>.\n**Frozen Heart Bell** | Minibosses have less <&Health&>, but start with some <&Block&>.\n**Goat Bell** | Your leader starts with 1 <&Demonize&>.\n**Gold Blade Bell** | Combos give double <&Bling&> but enemies no longer drop <&Bling&> when killed.\n**Heart Bell** | All companions and enemies have +2 <&Health&>.\n**Lumin Bell** | All effects on all cards are boosted by 1.\n**Party Bell** | No more Companion limit!"
+            }
+        ],
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "thumbnail": {
+            "url": "https://wildfrostwiki.com/images/a/aa/Lumin_Bell.png"
+        },
+        "title": "Bells"
+    }
+}

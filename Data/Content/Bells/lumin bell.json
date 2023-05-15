@@ -1,0 +1,30 @@
+{
+    "metadata": {
+        "title": "lumin bell",
+        "aliases": [],
+        "tags": [
+            "bells",
+            "daily voyage"
+        ],
+        "keys": {}
+    },
+    "embed": {
+        "color": 12846604,
+        "url": "https://wildfrostwiki.com/Bells#Modifier_Bells",
+        "description": "**Lumin Bell** is a modifier bell that can appear in the **Daily Voyage**",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Effects",
+                "value": "All effects on all cards are boosted by 1"
+            }
+        ],
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "thumbnail": {
+            "url": "https://wildfrostwiki.com/images/a/aa/Lumin_Bell.png"
+        },
+        "title": "Lumin Bell"
+    }
+}

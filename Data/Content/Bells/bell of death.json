@@ -1,0 +1,30 @@
+{
+    "metadata": {
+        "title": "bell of death",
+        "aliases": [],
+        "tags": [
+            "bells",
+            "daily voyage"
+        ],
+        "keys": {}
+    },
+    "embed": {
+        "color": 12846604,
+        "url": "https://wildfrostwiki.com/Bells#Modifier_Bells",
+        "description": "**Bell of Death** is a modifier bell that can appear in the **Daily Voyage**",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Effects",
+                "value": "Some items in shops are more expensive"
+            }
+        ],
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "thumbnail": {
+            "url": "https://wildfrostwiki.com/images/3/3d/Bell_of_Death.png"
+        },
+        "title": "Bell of Death"
+    }
+}

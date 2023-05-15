@@ -1,0 +1,31 @@
+{
+    "metadata": {
+        "title": "blingsack bell",
+        "aliases": [],
+        "tags": [
+            "bells",
+            "daily voyage",
+            "gobling"
+        ],
+        "keys": {}
+    },
+    "embed": {
+        "color": 12846604,
+        "url": "https://wildfrostwiki.com/Bells#Modifier_Bells",
+        "description": "**Blingsack Bell** is a modifier bell that can appear in the **Daily Voyage**",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Effects",
+                "value": "**Goblings** drop double <&Bling&> but their <&Counter&> is reduced by 1"
+            }
+        ],
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "thumbnail": {
+            "url": "https://wildfrostwiki.com/images/8/85/Blingsack_Bell.png"
+        },
+        "title": "Blingsack Bell"
+    }
+}

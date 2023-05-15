@@ -1,0 +1,31 @@
+{
+    "metadata": {
+        "title": "sun bell of fellowship",
+        "aliases": [],
+        "tags": [
+            "bells",
+            "bosses",
+            "companions"
+        ],
+        "keys": {}
+    },
+    "embed": {
+        "color": 12846604,
+        "url": "https://wildfrostwiki.com/Bells#Sun_Bells",
+        "description": "**Sun Bell of Fellowship** is a Sun Bell that the player can get from a boss.",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Effects",
+                "value": "Companion Limit +1. Lets you take 4 **Companions** into battle instead of 3."
+            }
+        ],
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "thumbnail": {
+            "url": "https://wildfrostwiki.com/images/2/2d/Sun_Bell_of_Fellowship.png"
+        },
+        "title": "Sun Bell of Fellowship"
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "metadata": {
+        "title": "titan bell",
+        "aliases": [],
+        "tags": [
+            "bells"
+        ],
+        "keys": {}
+    },
+    "embed": {
+        "color": 12846604,
+        "url": "https://wildfrostwiki.com/Bells#Challenge_Bells",
+        "description": "**Titan Bell** is the last Challenge Bell that the player choose after defeating the boss with the **Dread Bell**",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Effects",
+                "value": "Harder Boss battles, but item rewards will contain more options."
+            }
+        ],
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "thumbnail": {
+            "url": "https://wildfrostwiki.com/images/3/3c/Titan_Bell.png"
+        },
+        "title": "Titan Bell"
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "metadata": {
+        "title": "goat bell",
+        "aliases": [],
+        "tags": [
+            "bells",
+            "daily voyage"
+        ],
+        "keys": {}
+    },
+    "embed": {
+        "color": 12846604,
+        "url": "https://wildfrostwiki.com/Bells#Modifier_Bells",
+        "description": "**Goat Bell** is a modifier bell that can appear in the **Daily Voyage**",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Effects",
+                "value": "Your leader starts with 1 <&Demonize&>"
+            }
+        ],
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "thumbnail": {
+            "url": "https://wildfrostwiki.com/images/1/1d/Goat_Bell.png"
+        },
+        "title": "Goat Bell"
+    }
+}

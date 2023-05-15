@@ -1,0 +1,30 @@
+{
+    "metadata": {
+        "title": "horde bell",
+        "aliases": [],
+        "tags": [
+            "bells",
+            "crown"
+        ],
+        "keys": {}
+    },
+    "embed": {
+        "color": 12846604,
+        "url": "https://wildfrostwiki.com/Bells#Challenge_Bells",
+        "description": "**Horde Bell** is the second Challenge Bell that the player choose after defeating the boss with the **Dread Bell**",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Effects",
+                "value": "Reduced enemy wave counter, but you start with a **Crown**. Enemies will appear every 4 rounds instead of 5. Your pet will have a **Crown** at the start of the run."
+            }
+        ],
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "thumbnail": {
+            "url": "https://wildfrostwiki.com/images/9/95/Horde_Bell.png"
+        },
+        "title": "Horde Bell"
+    }
+}

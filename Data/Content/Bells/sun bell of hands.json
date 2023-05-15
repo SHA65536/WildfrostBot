@@ -1,0 +1,30 @@
+{
+    "metadata": {
+        "title": "sun bell of hands",
+        "aliases": [],
+        "tags": [
+            "bells",
+            "bosses"
+        ],
+        "keys": {}
+    },
+    "embed": {
+        "color": 12846604,
+        "url": "https://wildfrostwiki.com/Bells#Sun_Bells",
+        "description": "**Sun Bell of Hands** is a Sun Bell that the player can get from a boss.",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Effects",
+                "value": "Card Draw +1. When you draw a hand, draw an additional card. "
+            }
+        ],
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "thumbnail": {
+            "url": "https://wildfrostwiki.com/images/1/1b/Sun_Bell_of_Hands.png"
+        },
+        "title": "Sun Bell of Hands"
+    }
+}
