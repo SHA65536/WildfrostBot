@@ -25,7 +25,7 @@
             {
                 "inline": false,
                 "name": "Modifier Bells",
-                "value": "**Battle Bell** | Enemies have +1 <&Attack&> and +1 <&Health&>.\n**Bell of Death** | Some items in shops are more expensive.\n**Blingsack Bell** | Goblings drop double <&Bling&> but their <&Counter&> is reduced by 1.\n**Blingsnail Bell** | Companions die forever when they die in battle.\n**Blood Bell** | Your Leader loses 1 <&Health&> after each battle.\n**Bombskull Bell** | All friendly and enemy Clunkers have **Bombskull Charms**\n**Broken Bell** | Redraw Bell counter increased by 2."
+                "value": "**Battle Bell** | Enemies have +1 <&Attack&> and +1 <&Health&>.\n**Bell of Death** | Companions die forever when they die in battle.\n**Blingsack Bell** | Goblings drop double <&Bling&> but their <&Counter&> is reduced by 1.\n**Blingsnail Bell** | Some items in shops are more expensive.\n**Blood Bell** | Your Leader loses 1 <&Health&> after each battle.\n**Bombskull Bell** | All friendly and enemy Clunkers have **Bombskull Charms**\n**Broken Bell** | Redraw Bell counter increased by 2."
             },
             {
                 "inline": false,
