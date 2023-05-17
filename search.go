@@ -79,11 +79,22 @@ func SearchCmd(h *DiscordHandler, s *discordgo.Session, i *discordgo.Interaction
 // SearchAutocomplete handles autocomplete interactions for the search command
 func SearchAutocomplete(h *DiscordHandler, s *discordgo.Session, i *discordgo.InteractionCreate) {
 	var options []*discordgo.ApplicationCommandOptionChoice
+	var added = map[string]bool{}
 	// Case insensitive
 	query := strings.ToLower(i.ApplicationCommandData().Options[0].StringValue())
 	// Find up to 25 results with same prefix
 	for i := 0; i < len(h.Library.Commands) && len(options) < 25; i++ {
 		if strings.HasPrefix(h.Library.Commands[i], query) {
+			options = append(options, &discordgo.ApplicationCommandOptionChoice{
+				Name:  strings.Title(h.Library.Commands[i]),
+				Value: h.Library.Commands[i],
+			})
+			added[h.Library.Commands[i]] = true
+		}
+	}
+	// Finding additional autocomplete with contains
+	for i := 0; i < len(h.Library.Commands) && len(options) < 25; i++ {
+		if !added[h.Library.Commands[i]] && strings.Contains(h.Library.Commands[i], query) {
 			options = append(options, &discordgo.ApplicationCommandOptionChoice{
 				Name:  strings.Title(h.Library.Commands[i]),
 				Value: h.Library.Commands[i],
