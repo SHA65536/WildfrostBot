@@ -16,7 +16,7 @@
             {
                 "inline": false,
                 "name": "Effects",
-                "value": "Your Leader loses 1 <&Health&> after each battle"
+                "value": "Your Leader loses 1 <&Health&> after each battle. (The hp of your leader won't drop below 1)"
             }
         ],
         "footer": {
