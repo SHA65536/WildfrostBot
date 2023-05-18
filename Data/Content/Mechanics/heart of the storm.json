@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "title": "heart of the storm",
+        "aliases": [],
+        "tags": [
+            "eye of the storm",
+            "the lumin vase",
+            "bells"
+        ],
+        "keys": {
+            "spoiler": "true"
+        }
+    },
+    "embed": {
+        "color": 12846604,
+        "url": "https://wildfrostwiki.com/Heart_of_the_Storm",
+        "description": "The Heart of the Storm is the final boss fight, given that the player has all 3 **Challenge Bells* and collected both **Lumin Goop** and **Broken Vase**, combining them to form **The Lumin Vase**.",
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "fields": [
+            {
+                "inline": false,
+                "name": "Mechanics",
+                "value": "The Heart of the Storm fight starts with 6 enemies and has no additional waves. The order of these enemies is always the same, up to swapping the rows. This order is **Frost Jailer**, **Frost Lancer**, **Frost Junker**, and **Frost Crusher**, **Frost Bomber**, **Frost Muncher**. The mechanic unique to this fight is the Unmovable debuff, which is added to player cards on the board while **Frost Jailer** is alive. "
+            },
+            {
+                "inline": false,
+                "name": "Top Row",
+                "value": "**Frost Jailer** - <&Health&> 90, <&Attack&> 5, <&Counter&> 5, While active, add **Unmovable** to all enemies.\n**Frost Lancer** - <&Health&> 60, <&Attack&> 7, <&Counter&> 6, <&ResistSnow&>, **Aimless**.\n**Frost Junker** - <&Health&> 30, <&Attack&> 1, <&Counter&> 2, When a card is destroyed, gain +1 <&Attack&>."
+            },
+            {
+                "inline": false,
+                "name": "Bottom Row",
+                "value": "**Frost Crusher** - <&Health&> 90, <&Attack&> 2, <&Counter&> 2, Gain +2 <&Attack&>.\n**Frost Bomber** - <&Health&> 60, <&Attack&> 5, <&Counter&> 4, <&ResistSnow&>, **Barrage**.\n**Frost Muncher** - <&Health&> 30, <&Attack&> 4, <&Counter&> 6, Destroy the rightmost card in your hand."
+            }
+        ],
+        "thumbnail": {
+            "url": "https://wildfrostwiki.com/images/1/1d/MapHeartOfTheStorm.png"
+        },
+        "title": "Heart Of The Storm"
+    }
+}

@@ -4,7 +4,8 @@
         "aliases": [],
         "tags": [
             "frost guardian",
-            "frotoscope"
+            "frotoscope",
+            "heart of the storm"
         ],
         "keys": {
             "spoiler": "true"
@@ -27,10 +28,15 @@
                 "inline": false,
                 "name": "Phase 2",
                 "value": "The second phase of the boss is always against the **Frost Guardian**"
+            },
+            {
+                "inline": false,
+                "name": "Heart of the Storm",
+                "value": "After the **Frost Guardian** has been defeated, if the player has all 3 **Challenge Bells** and **The Lumin Vase**, an additional encounter will appear, with the **Heart of the Storm** fight."
             }
         ],
         "thumbnail": {
-            "url": "https://wildfrostwiki.com/images/f/f3/Crown.png"
+            "url": "https://wildfrostwiki.com/images/2/2c/MapEyeOfTheStorm.png"
         },
         "title": "Eye Of The Storm"
     }
