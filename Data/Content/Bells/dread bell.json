@@ -16,7 +16,7 @@
             {
                 "inline": false,
                 "name": "Effects",
-                "value": "Some enemies will be upgraded with **Charms** and will drop more <&Bling&>"
+                "value": "Each fight, 2 random enemies will gain a random charm. Enemies with charms drop additional <&Bling&>"
             }
         ],
         "footer": {
