@@ -10,8 +10,8 @@
     },
     "embed": {
         "color": 12846604,
-		"url":"https://wildfrostwiki.com/Egg",
-        "description": "**Egg** is a **Companion** that the player can bring along on a run. Despite having an attack value of 0, they have no counter. This means, even if they were to get buffed with increased damage, there is no way to activate Egg. ",
+        "url": "https://wildfrostwiki.com/Egg",
+        "description": "**Egg** is a **Companion** that the player can bring along on a run. This card is exclusive to the **Shademancers Tribe**. Despite having an attack value of 0, they have no counter. This means, even if they were to get buffed with increased damage, there is no way to activate Egg. ",
         "fields": [
             {
                 "inline": false,

@@ -10,8 +10,8 @@
     },
     "embed": {
         "color": 12846604,
-		"url":"https://wildfrostwiki.com/Shell_Shield",
-        "description": "**Shell Shield** is an item players may accumulate over a run.",
+        "url": "https://wildfrostwiki.com/Shell_Shield",
+        "description": "**Shell Shield** is an item players may accumulate over a run. This card is exclusive to the **Snowdwellers Tribe**",
         "fields": [
             {
                 "inline": false,

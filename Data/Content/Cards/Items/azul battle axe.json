@@ -10,8 +10,8 @@
     },
     "embed": {
         "color": 12846604,
-		"url":"https://wildfrostwiki.com/Azul_Battle_Axe",
-        "description": "**Azul Battle Axe** is an item players may accumulate over a run.",
+        "url": "https://wildfrostwiki.com/Azul_Battle_Axe",
+        "description": "**Azul Battle Axe** is an item players may accumulate over a run. This card is exclusive to the **Shademancers Tribe**",
         "fields": [
             {
                 "inline": false,

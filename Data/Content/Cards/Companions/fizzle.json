@@ -11,8 +11,8 @@
     },
     "embed": {
         "color": 12846604,
-		"url":"https://wildfrostwiki.com/Fizzle",
-        "description": "**Fizzle** is a **Companion** that the player can bring along on a run.",
+        "url": "https://wildfrostwiki.com/Fizzle",
+        "description": "**Fizzle** is a **Companion** that the player can bring along on a run. This card is exclusive to the **Clunkmasters Tribe**",
         "fields": [
             {
                 "inline": false,

@@ -10,8 +10,8 @@
     },
     "embed": {
         "color": 12846604,
-		"url":"https://wildfrostwiki.com/Groff",
-        "description": "**Groff** is a **Companion** that the player can bring along on a run. As they have no counter, they will only activate when the conditions in the description are met: an ally must be sacrificed for Groff to attack.",
+        "url": "https://wildfrostwiki.com/Groff",
+        "description": "**Groff** is a **Companion** that the player can bring along on a run. This card is exclusive to the **Shademancers Tribe**. As they have no counter, they will only activate when the conditions in the description are met: an ally must be sacrificed for Groff to attack.",
         "fields": [
             {
                 "inline": false,

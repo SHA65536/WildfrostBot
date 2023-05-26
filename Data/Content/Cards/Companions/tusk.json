@@ -10,8 +10,8 @@
     },
     "embed": {
         "color": 12846604,
-		"url":"https://wildfrostwiki.com/Tusk",
-        "description": "**Tusk** is a **Companion** that the player can bring along on a run.",
+        "url": "https://wildfrostwiki.com/Tusk",
+        "description": "**Tusk** is a **Companion** that the player can bring along on a run. This card is exclusive to the **Shademancers Tribe**",
         "fields": [
             {
                 "inline": false,

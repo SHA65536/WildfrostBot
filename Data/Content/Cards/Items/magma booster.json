@@ -9,8 +9,8 @@
     },
     "embed": {
         "color": 12846604,
-		"url":"https://wildfrostwiki.com/Magma_Booster",
-        "description": "**Magma Booster** is an item players may accumulate over a run.",
+        "url": "https://wildfrostwiki.com/Magma_Booster",
+        "description": "**Magma Booster** is an item players may accumulate over a run. This card is exclusive to the **Clunkmasters Tribe**",
         "fields": [
             {
                 "inline": false,
