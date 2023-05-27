@@ -29,6 +29,10 @@ var SearchHandler Cmd = Cmd{
 func SearchCmd(h *DiscordHandler, s *discordgo.Session, i *discordgo.InteractionCreate) {
 	var query string
 
+	s.InteractionRespond(i.Interaction, &discordgo.InteractionResponse{
+		Type: discordgo.InteractionResponseDeferredChannelMessageWithSource,
+	})
+
 	switch i.Type {
 	case discordgo.InteractionApplicationCommand:
 		// If command
@@ -54,25 +58,29 @@ func SearchCmd(h *DiscordHandler, s *discordgo.Session, i *discordgo.Interaction
 		}
 		// Only send componenets if there are any
 		if len(rows) > 0 {
-			s.InteractionRespond(i.Interaction, &discordgo.InteractionResponse{
-				Type: discordgo.InteractionResponseChannelMessageWithSource,
-				Data: &discordgo.InteractionResponseData{
-					Embeds: []*discordgo.MessageEmbed{
-						embed.MakeEmbed(),
-					},
-					Components: []discordgo.MessageComponent{
-						discordgo.ActionsRow{
-							Components: rows,
-						},
+			s.FollowupMessageCreate(i.Interaction, true, &discordgo.WebhookParams{
+				Embeds: []*discordgo.MessageEmbed{
+					embed.MakeEmbed(),
+				},
+				Components: []discordgo.MessageComponent{
+					discordgo.ActionsRow{
+						Components: rows,
 					},
 				},
 			})
 		} else {
-			SendEmbed(s, i, embed.MakeEmbed())
+			s.FollowupMessageCreate(i.Interaction, true, &discordgo.WebhookParams{
+				Embeds: []*discordgo.MessageEmbed{
+					embed.MakeEmbed(),
+				},
+			})
 		}
-
 	} else {
-		SendEmbed(s, i, FailEmbed)
+		s.FollowupMessageCreate(i.Interaction, true, &discordgo.WebhookParams{
+			Embeds: []*discordgo.MessageEmbed{
+				FailEmbed,
+			},
+		})
 	}
 }
 
