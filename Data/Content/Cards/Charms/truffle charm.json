@@ -11,7 +11,7 @@
     "embed": {
         "color": 12846604,
         "url": "https://wildfrostwiki.com/Truffle_Charm",
-        "description": "**Truffle Charm** is a Charm that the player can collect on a run.",
+        "description": "**Truffle Charm** is a Charm that the player can collect on a run. This charm is exclusive for the **Snowdwellers Tribe**",
         "fields": [
             {
                 "inline": false,
