@@ -17,6 +17,11 @@
                 "inline": false,
                 "name": "Effects",
                 "value": "Apply 9 <&Shell&>. Reduce <&Health&> by 2. Consume."
+            },
+            {
+                "inline": false,
+                "name": "Notes",
+                "value": "You should always be careful of your companion's health before using this item, as the health reduction will reduce from your current health, thus killing them if their health was less than 2."
             }
         ],
         "footer": {
