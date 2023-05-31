@@ -1,0 +1,72 @@
+{
+    "metadata": {
+        "title": "map",
+        "aliases": [],
+        "tags": [],
+        "keys": {}
+    },
+    "embed": {
+        "color": 12846604,
+        "url": "https://wildfrostwiki.com/Map",
+        "description": "## Map\nThe Map is where each run takes place. The player travels via a path of events across different stages. Each stage has two paths that connect a handful of events, ending with a Boss or Miniboss. The player chooses one path to follow, and visits each event on that path. \n## Zones\nAs players play through a run, they will pass through three zones on the map. Each zone varies the number of events encountered as well as different map decor and battle background. There are no zone-specific events, but some events are more likely to show up earlier/later in a run. \n**Snowdwell and Tundra**\nThe players begin the journey by leaving Snowdwell and into the snowy lands beyond. Players will encounter 3-4 events between battles in this zone. These areas are depicted as snow-covered forests and plains with scattered rocks and distant mountain ranges. \n**Ice Caves**\nAfter beating the first boss, players move into the Ice Caves. In the Ice Caves, players will find 3-4 map events between battles. Here, one can find caves populated with massive ice stalagmites and stalactites with various creatures and debris frozen over. \n**Frostlands**\nThe areas beyond the second boss are known as the Frostlands. Players can expect to visit 1-2 events between battles, and it is here the player can find and fight the Eye of the Storm. This region has huge purple Frost formations and leftover equipment.\n## Events",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Frozen Travellers",
+                "value": "Lets you choose 1 of 3 randomly selected Companions to add to your deck."
+            },
+            {
+                "inline": false,
+                "name": "Treasure Chest",
+                "value": "Lets you choose 1 of 3 randomly selected Items or Clunkers"
+            },
+            {
+                "inline": false,
+                "name": "Large Treasure Chest",
+                "value": "Lets you choose 1 of 4 randomly selected Items or Clunkers. ||Only appears if the player has the Titan Bell active.||"
+            },
+            {
+                "inline": false,
+                "name": "Blingsnail Cave",
+                "value": "Gives 40-80 gold"
+            },
+            {
+                "inline": false,
+                "name": "Charm Dispenser",
+                "value": "Gives the player a random charm "
+            },
+            {
+                "inline": false,
+                "name": "Gnome Traveller",
+                "value": "Displays 3 random items or clunkers. The player can pick up any number of them, adding 1 junk to the player's deck in addition to the chosen card. (unlocked at Icebreaker Cabin)"
+            },
+            {
+                "inline": false,
+                "name": "Muncher",
+                "value": "Allows the player to remove up to 2 cards in their deck, improving consistency "
+            },
+            {
+                "inline": false,
+                "name": "Shade Sculptor",
+                "value": "Allows the player to duplicate any item or clunker in their deck. The copied card retains all charms, but not crowns (unlocked at Icebreaker Cabin)"
+            },
+            {
+                "inline": false,
+                "name": "The Woolly Snail",
+                "value": "Allows the player to buy: one of 4 items with 1 of them being at a 50% sale, up to 3 random charms (costing 50, 70 and 90 bling respectively) or a crown for 80 bling"
+            },
+            {
+                "inline": false,
+                "name": "Charm Merchant",
+                "value": "Displays 3 charms for sale and a random card with a random charm attached to it. (unlocked at Icebreaker Cabin)"
+            }
+        ],
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "thumbnail": {
+            "url": "https://wildfrostwiki.com/images/f/fa/MapBoss.png"
+        },
+        "title": "Map"
+    }
+}
