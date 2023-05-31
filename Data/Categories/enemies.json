@@ -11,7 +11,7 @@
     "embed": {
         "color": 12846604,
         "url": "https://wildfrostwiki.com/Enemies",
-        "description": "Enemy cards appear in battle and attack the player. In battles Enemies always attack first. ",
+        "description": "Enemy cards appear in battle and attack the player. In battles Enemies always attack first.",
         "fields": [
             {
                 "inline": false,
