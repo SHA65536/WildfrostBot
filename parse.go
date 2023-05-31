@@ -15,6 +15,7 @@ import (
 
 const descLimit int = 4096
 const fieldLimit int = 1024
+const maxWords int = 100
 
 var contentPath string = filepath.Join("Data", "Content")
 var categoryPath string = filepath.Join("Data", "Categories")
@@ -48,9 +49,13 @@ func (l *Library) MakeArticles() error {
 		// Replace the dictionary
 		replaceEmbed(art.Embed)
 
+		// Make Short Version
+		art.Short, art.Metadata.HasShort = MakeShort(art.Embed)
+
 		// Censor spoilers
 		if art.Metadata.Keys["spoiler"] == "true" {
 			censorEmbed(art.Embed)
+			censorEmbed(art.Short)
 		}
 
 		// Check length limits
@@ -87,11 +92,6 @@ func (l *Library) MakeCategories() error {
 		// Replace the dictionary
 		replaceEmbed(art.Embed)
 
-		// Censor spoilers
-		if art.Metadata.Keys["spoiler"] == "true" {
-			censorEmbed(art.Embed)
-		}
-
 		// Add articles to category
 		var vals []string
 		for _, other := range l.Articles {
@@ -104,6 +104,15 @@ func (l *Library) MakeCategories() error {
 		}
 		addListToCategory(art.Embed, vals)
 
+		// Make Short Version
+		art.Short, art.Metadata.HasShort = MakeShort(art.Embed)
+
+		// Censor spoilers
+		if art.Metadata.Keys["spoiler"] == "true" {
+			censorEmbed(art.Embed)
+			censorEmbed(art.Short)
+		}
+
 		// Check length limits
 		if checkToolong(art.Embed) {
 			return fmt.Errorf("embed too long: %s", art.Metadata.Title)
@@ -112,6 +121,45 @@ func (l *Library) MakeCategories() error {
 		l.Articles[art.Metadata.Title] = &art
 		return nil
 	})
+}
+
+// MakeShort returns a short version of an embed, and a boolean
+// representing whether the short version is different from the long one
+func MakeShort(long *discordgo.MessageEmbed) (*discordgo.MessageEmbed, bool) {
+	// Copying common fields
+	var res = &discordgo.MessageEmbed{
+		URL: long.URL, Title: long.Title, Color: long.Color,
+		Footer: long.Footer, Image: long.Image, Thumbnail: long.Thumbnail,
+		Author: long.Author,
+	}
+
+	var words int
+	// Checking description
+	longWords := strings.Split(long.Description, " ")
+	words = len(longWords)
+	if words >= maxWords {
+		res.Description = strings.Join(longWords[:maxWords], " ") + "..."
+		return res, true
+	} else {
+		res.Description = long.Description
+	}
+
+	// Checking embed fields
+	for _, field := range long.Fields {
+		shortField := &discordgo.MessageEmbedField{Name: field.Name, Inline: field.Inline}
+		fieldWords := strings.Split(field.Value, " ")
+
+		if words+len(fieldWords) >= maxWords {
+			shortField.Value = strings.Join(fieldWords[:maxWords-words], " ") + "..."
+			res.Fields = append(res.Fields, shortField)
+			return res, true
+		}
+		shortField.Value = field.Value
+		res.Fields = append(res.Fields, shortField)
+		words += len(fieldWords)
+	}
+
+	return res, false
 }
 
 // CreateAliases generates aliases into the article list

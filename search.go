@@ -28,10 +28,7 @@ var SearchHandler Cmd = Cmd{
 // SearchCmd handles the search slash command and button press
 func SearchCmd(h *DiscordHandler, s *discordgo.Session, i *discordgo.InteractionCreate) {
 	var query string
-
-	s.InteractionRespond(i.Interaction, &discordgo.InteractionResponse{
-		Type: discordgo.InteractionResponseDeferredChannelMessageWithSource,
-	})
+	var isLong bool
 
 	switch i.Type {
 	case discordgo.InteractionApplicationCommand:
@@ -40,12 +37,26 @@ func SearchCmd(h *DiscordHandler, s *discordgo.Session, i *discordgo.Interaction
 		log.Printf("[DISCORD] Command search invoked with \"%s\"", query)
 	case discordgo.InteractionMessageComponent:
 		// If button
-		query = strings.Split(i.MessageComponentData().CustomID, "_")[1]
+		split := strings.Split(i.MessageComponentData().CustomID, "_")
+		isLong = split[0] == "long"
+		query = split[1]
 		log.Printf("[DISCORD] Button search invoked with \"%s\"", query)
+	}
+
+	if isLong {
+		s.InteractionRespond(i.Interaction, &discordgo.InteractionResponse{
+			Type: discordgo.InteractionResponseDeferredChannelMessageWithSource,
+			Data: &discordgo.InteractionResponseData{Flags: discordgo.MessageFlagsEphemeral},
+		})
+	} else {
+		s.InteractionRespond(i.Interaction, &discordgo.InteractionResponse{
+			Type: discordgo.InteractionResponseDeferredChannelMessageWithSource,
+		})
 	}
 
 	// If embed found
 	if embed, ok := h.Library.Articles[query]; ok {
+		var message = &discordgo.WebhookParams{}
 		// Generate buttons from tags
 		var rows []discordgo.MessageComponent
 		for _, v := range embed.MakeMeta().Tags {
@@ -56,25 +67,37 @@ func SearchCmd(h *DiscordHandler, s *discordgo.Session, i *discordgo.Interaction
 				CustomID: "search_" + v,
 			})
 		}
-		// Only send componenets if there are any
-		if len(rows) > 0 {
-			s.FollowupMessageCreate(i.Interaction, true, &discordgo.WebhookParams{
-				Embeds: []*discordgo.MessageEmbed{
-					embed.MakeEmbed(),
-				},
-				Components: []discordgo.MessageComponent{
-					discordgo.ActionsRow{
-						Components: rows,
-					},
-				},
-			})
-		} else {
-			s.FollowupMessageCreate(i.Interaction, true, &discordgo.WebhookParams{
-				Embeds: []*discordgo.MessageEmbed{
-					embed.MakeEmbed(),
-				},
+
+		// If article has short version
+		if !isLong && embed.MakeMeta().HasShort {
+			rows = append(rows, discordgo.Button{
+				Emoji:    discordgo.ComponentEmoji{Name: "📜"},
+				Label:    "Show More",
+				Style:    discordgo.PrimaryButton,
+				CustomID: "long_" + query,
 			})
 		}
+
+		// Add buttons if any
+		if len(rows) > 0 {
+			message.Components = []discordgo.MessageComponent{
+				discordgo.ActionsRow{
+					Components: rows,
+				},
+			}
+		}
+
+		// Embed Form
+		if isLong {
+			message.Embeds = []*discordgo.MessageEmbed{embed.MakeEmbed()}
+			message.Flags = discordgo.MessageFlagsEphemeral
+		} else {
+			message.Embeds = []*discordgo.MessageEmbed{embed.MakeShort()}
+		}
+
+		// Send Message
+		s.FollowupMessageCreate(i.Interaction, true, message)
+
 	} else {
 		s.FollowupMessageCreate(i.Interaction, true, &discordgo.WebhookParams{
 			Embeds: []*discordgo.MessageEmbed{
