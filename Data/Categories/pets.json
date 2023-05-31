@@ -14,7 +14,7 @@
         "fields": [
             {
                 "inline": false,
-                "name": "Pet List",
+                "name": "Articles with the 'Pets' tag",
                 "value": ""
             }
         ],

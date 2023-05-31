@@ -14,7 +14,7 @@
         "fields": [
             {
                 "inline": false,
-                "name": "Charm List",
+                "name": "Articles with the 'Charms' tag",
                 "value": ""
             }
         ],

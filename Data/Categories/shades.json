@@ -12,7 +12,7 @@
         "fields": [
             {
                 "inline": false,
-                "name": "Shade List",
+                "name": "Articles with the 'Shades' tag",
                 "value": ""
             }
         ],

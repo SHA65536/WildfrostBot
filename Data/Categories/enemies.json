@@ -15,7 +15,7 @@
         "fields": [
             {
                 "inline": false,
-                "name": "Enemy List",
+                "name": "Articles with the 'Enemies' tag",
                 "value": ""
             }
         ],

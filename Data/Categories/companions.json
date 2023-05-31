@@ -15,7 +15,7 @@
         "fields": [
             {
                 "inline": false,
-                "name": "Companion List",
+                "name": "Articles with the 'Companions' tag",
                 "value": ""
             }
         ],

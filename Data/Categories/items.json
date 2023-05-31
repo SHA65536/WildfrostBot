@@ -12,7 +12,7 @@
         "fields": [
             {
                 "inline": false,
-                "name": "Item List",
+                "name": "Articles with the 'Items' tag",
                 "value": ""
             }
         ],
