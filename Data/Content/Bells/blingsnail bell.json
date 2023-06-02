@@ -16,7 +16,7 @@
             {
                 "inline": false,
                 "name": "Effects",
-                "value": "Some items in shops are more expensive"
+                "value": "Some items in shops are more expensive\nAffects 2-3 items. Affected items, charms and crowns cost up to 50% more than usual. Discounts have 50% chance of being removed."
             }
         ],
         "footer": {
