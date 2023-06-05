@@ -14,7 +14,7 @@
     "embed": {
         "color": 12846604,
         "url": "https://wildfrostwiki.com/Eye_of_the_Storm",
-        "description": "The Eye of the Storm is the final boss fight, unless the player has met the conditions to reach the real final fight. While the encountered boss is initially the Frost Guardian, the first phase will change based on the player.",
+        "description": "The Eye of the Storm is the final boss fight, unless the player has met the conditions to reach the real final fight. While the encountered boss is initially the Frost Guardian, the first phase will change based on the deck that previously won against it. ",
         "footer": {
             "text": "<&Footer&>"
         },
