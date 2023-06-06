@@ -11,7 +11,7 @@
     "embed": {
         "color": 12846604,
         "url": "https://wildfrostwiki.com/Krono",
-        "description": "**Krono** is a **Clunker** that can be obtained in a run. This card is exclusive to the **Snowdwellers Tribe**",
+        "description": "**Krono** is a **Clunker** that can be obtained in a run.",
         "fields": [
             {
                 "inline": false,
@@ -21,7 +21,7 @@
             {
                 "inline": false,
                 "name": "Effects",
-                "value": "While active, add x1 <&Frenzy&> to <&Crown&>'d allies"
+                "value": "While active, add x1 <&Frenzy&> to <&Crown&>'d allies in the row"
             },
             {
                 "inline": false,

@@ -1,6 +1,6 @@
 {
     "metadata": {
-        "title": "spike wall",
+        "title": "gogong",
         "aliases": [],
         "tags": [
             "enemies"
@@ -9,26 +9,26 @@
     },
     "embed": {
         "color": 12846604,
-        "url": "https://wildfrostwiki.com/Spike_Wall",
-        "description": "**Spike Wall** is an enemy which the player can encounter during a run. ",
+        "url": "",
+        "description": "**Gogong** is an enemy which the player can encounter during a run. ",
         "fields": [
             {
                 "inline": false,
                 "name": "Stats",
-                "value": "<&Scrap&> 3 | <&Attack&> 3"
+                "value": "<&Health&> 5 | <&Attack&> 2"
             },
             {
                 "inline": false,
                 "name": "Effects",
-                "value": "**Frontline**. **Smackback**"
+                "value": "**Smackback**"
             }
         ],
         "footer": {
             "text": "<&Footer&>"
         },
         "image": {
-            "url": "https://wildfrostwiki.com/images/d/df/Spike_Wall_%28SpikeWall%29.png"
+            "url": ""
         },
-        "title": "Spike Wall"
+        "title": "Gogong"
     }
 }

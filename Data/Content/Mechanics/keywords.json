@@ -23,7 +23,8 @@
             "trash",
             "unmovable",
             "wild",
-            "yank"
+            "yank",
+            "absorb"
         ],
         "tags": [],
         "keys": {}
@@ -36,6 +37,11 @@
             "text": "<&Footer&>"
         },
         "fields": [
+            {
+                "inline": false,
+                "name": "Absorb",
+                "value": "Take <&Health&>, <&Attack&>, effects and status effects."
+            },
             {
                 "inline": false,
                 "name": "Aimless",

@@ -20,7 +20,7 @@
             {
                 "inline": false,
                 "name": "Effects",
-                "value": "Eat allies in the row, absorbing their <&Attack&> and <&Health&>"
+                "value": "Before attacking, eat allies in the row, absorbing their <&Attack&> and <&Health&>"
             }
         ],
         "footer": {

@@ -16,12 +16,12 @@
             {
                 "inline": false,
                 "name": "Stats",
-                "value": "<&Health&> 4 | <&Attack&> 0 | <&Counter&> 6"
+                "value": "<&Health&> 7 | <&Attack&> 0 | <&Counter&> 6"
             },
             {
                 "inline": false,
                 "name": "Effects",
-                "value": "Apply 1 <&Haze&>. Take 2 <&Health&> from all allies"
+                "value": "Apply 1 <&Haze&>. Deal 3 damage to self"
             }
         ],
         "footer": {

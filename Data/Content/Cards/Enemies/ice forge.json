@@ -20,7 +20,7 @@
             {
                 "inline": false,
                 "name": "Effects",
-                "value": "While active, add +3 <&Attack&> to all allies and -3 <&Attack&> to all enemies"
+                "value": "While active, add +2 <&Attack&> to all allies and -2 <&Attack&> to all enemies"
             }
         ],
         "footer": {

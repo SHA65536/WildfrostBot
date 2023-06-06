@@ -16,7 +16,7 @@
             {
                 "inline": false,
                 "name": "Effects",
-                "value": "Add **Soulbound** to an enemy. Add **Soulbound** to a random ally"
+                "value": "Add **Soulbound** to an ally. Add **Soulbound** to a random enemy"
             },
             {
                 "inline": false,

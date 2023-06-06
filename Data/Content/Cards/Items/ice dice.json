@@ -15,13 +15,8 @@
         "fields": [
             {
                 "inline": false,
-                "name": "Stats",
-                "value": "<&Frenzy&> x2"
-            },
-            {
-                "inline": false,
                 "name": "Effects",
-                "value": "Apply 1 <&Block&> to a random ally or enemy"
+                "value": "Apply 1 <&Block&> to a random ally. Apply 1 <&Block&> to a random enemy"
             }
         ],
         "footer": {

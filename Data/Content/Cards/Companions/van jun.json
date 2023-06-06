@@ -15,12 +15,12 @@
             {
                 "inline": false,
                 "name": "Stats",
-                "value": "<&Health&> 6 | <&Attack&> 1 | <&Counter&> 4"
+                "value": "<&Health&> 6 | <&Counter&> 4"
             },
             {
                 "inline": false,
                 "name": "Effects",
-                "value": "While active, add current <&Attack&> to all Summoned allies"
+                "value": "Add +2 <&Attack&> and +2 <&Health&> to all **Summoned** allies"
             },
             {
                 "inline": false,

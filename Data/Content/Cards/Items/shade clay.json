@@ -14,13 +14,13 @@
         "fields": [
             {
                 "inline": false,
-                "name": "Stats",
-                "value": "<&Attack&> 2"
+                "name": "Effects",
+                "value": "Make a copy of an Item in your hand. Consume"
             },
             {
                 "inline": false,
-                "name": "Effects",
-                "value": "Make a copy of an Item in your hand. Consume"
+                "name": "Notes",
+                "value": "Does not copy crowns."
             }
         ],
         "footer": {
