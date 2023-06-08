@@ -1,0 +1,39 @@
+{
+    "metadata": {
+        "title": "the spice mokos",
+        "aliases": [],
+        "tags": [
+            "fights"
+        ],
+        "keys": {}
+    },
+    "embed": {
+        "color": 12846604,
+        "url": "",
+        "description": "**The Spice Mokos** is a regular fight the player may encounter in the fourth battle.",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Wave 1",
+                "value": "* Grog, Makoko\n* Grumps, Grog\n* Grumps, Makoko"
+            },
+            {
+                "inline": false,
+                "name": "Wave 2",
+                "value": "* Grog, Makoko, Makoko\n* Pepper Witch, Makoko, Makoko\n* Makoko, Pepper Witch, Pepper Witch\n* Grog, Moko Head, Makoko\n* Grumps, Pepper Witch, Pepper Witch"
+            },
+            {
+                "inline": false,
+                "name": "Miniboss Wave",
+                "value": "* King Moko, Makoko, Pepper Witch"
+            }
+        ],
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "thumbnail": {
+            "url": "https://wildfrostwiki.com/images/3/33/The_Spice_Mokos_Fight.png"
+        },
+        "title": "The Spice Mokos"
+    }
+}

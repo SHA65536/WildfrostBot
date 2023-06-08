@@ -1,0 +1,39 @@
+{
+    "metadata": {
+        "title": "krunker fight",
+        "aliases": [],
+        "tags": [
+            "fights"
+        ],
+        "keys": {}
+    },
+    "embed": {
+        "color": 12846604,
+        "url": "",
+        "description": "**Krunker Fight** is a boss fight the player may encounter in the sixth battle.",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Wave 1",
+                "value": "* Krunker, Spike Wall, Grink\n* Krunker, Spuncher, Grink\n* Krunker, Spuncher, Spike Wall"
+            },
+            {
+                "inline": false,
+                "name": "Wave 2",
+                "value": "* Spuncher, Spike Wall\n* Spike Wall, Ice Forge\n* Spuncher, Spuncher\n* Spuncher, Grink\n* Ice Forge, Grink"
+            },
+            {
+                "inline": false,
+                "name": "Wave 3",
+                "value": "* Spike Wall, Ice Forge, Grink\n* Spuncher, Ice Forge, Grink"
+            }
+        ],
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "thumbnail": {
+            "url": "https://wildfrostwiki.com/images/d/dd/Krunker_Fight.png"
+        },
+        "title": "Krunker Fight"
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "metadata": {
+        "title": "the wild hogs",
+        "aliases": [],
+        "tags": [
+            "fights"
+        ],
+        "keys": {}
+    },
+    "embed": {
+        "color": 12846604,
+        "url": "",
+        "description": "**The Wild Hogs** is a regular fight the player may encounter in the seventh battle.",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Wave 1",
+                "value": "* Warthog, Hog, Hog, Hog"
+            },
+            {
+                "inline": false,
+                "name": "Wave 2",
+                "value": "* Warthog, Hog, Hog, Rockhog"
+            },
+            {
+                "inline": false,
+                "name": "Miniboss Wave",
+                "value": "* Razor, Warthog, Hog, Hog, Hog, Hog"
+            }
+        ],
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "thumbnail": {
+            "url": "https://wildfrostwiki.com/images/7/7f/The_Wild_Hogs_Fight.png"
+        },
+        "title": "The Wild Hogs"
+    }
+}

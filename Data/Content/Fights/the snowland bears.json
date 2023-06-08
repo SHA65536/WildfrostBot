@@ -1,0 +1,40 @@
+{
+    "metadata": {
+        "title": "the snowland bears",
+        "aliases": [],
+        "tags": [
+            "fights"
+        ],
+        "keys": {}
+    },
+    "embed": {
+        "color": 12846604,
+        "url": "",
+        "description": "**The Snowland Bears** is a regular fight the player may encounter in the second battle.",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Wave 1",
+                "value": "* Ooba Bear, Snow Gobbler"
+            },
+            {
+                "inline": false,
+                "name": "Wave 2",
+                "value": "* Frostinger, Porkypine, Snow Gobbler\n* Frostinger, Porkypine, Ooba Bear"
+            }
+            ,
+            {
+                "inline": false,
+                "name": "Miniboss Wave",
+                "value": "* Bumbo, Snow Gobbler"
+            }
+        ],
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "thumbnail": {
+            "url": "https://wildfrostwiki.com/images/4/49/The_Snowland_Bears_Fight.png"
+        },
+        "title": "The Snowland Bears"
+    }
+}

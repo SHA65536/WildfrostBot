@@ -1,0 +1,40 @@
+{
+    "metadata": {
+        "title": "the pengoons",
+        "aliases": [],
+        "tags": [
+            "fights"
+        ],
+        "keys": {}
+    },
+    "embed": {
+        "color": 12846604,
+        "url": "",
+        "description": "**The Pengoons** is a regular fight the player may encounter in the first battle.",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Wave 1",
+                "value": "* Chungoon, Wild Snoolf, Pengoon\n* Gogong, Wild Snoolf, Pengoon\n* Chungoon, Pengoon, Pengoon\n* Gogong, Pengoon, Pengoon\n* Naked Gnome, Pengoon, Pengoon"
+            },
+            {
+                "inline": false,
+                "name": "Wave 2",
+                "value": "* Waddlegoons"
+            }
+            ,
+            {
+                "inline": false,
+                "name": "Miniboss Wave",
+                "value": "* Pengoon, Pengoon, Big Peng, Pengoon, Pengoon"
+            }
+        ],
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "thumbnail": {
+            "url": "https://wildfrostwiki.com/images/6/6a/The_Pengoons_Fight.png"
+        },
+        "title": "The Pengoons"
+    }
+}

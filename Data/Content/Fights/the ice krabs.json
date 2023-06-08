@@ -1,0 +1,39 @@
+{
+    "metadata": {
+        "title": "the ice krabs",
+        "aliases": [],
+        "tags": [
+            "fights"
+        ],
+        "keys": {}
+    },
+    "embed": {
+        "color": 12846604,
+        "url": "",
+        "description": "**The Ice Krabs** is a regular fight the player may encounter in the seventh battle.",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Wave 1",
+                "value": "* Krab, Burster, Burster"
+            },
+            {
+                "inline": false,
+                "name": "Wave 2",
+                "value": "* Krawler, Krab, Burster"
+            },
+            {
+                "inline": false,
+                "name": "Miniboss Wave",
+                "value": "* Numskull, Krawler, Burster, Burster\n* Numskull, Krab, Burster, Burster\n* Numskull, Krab, Krawler, Burster"
+            }
+        ],
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "thumbnail": {
+            "url": "https://wildfrostwiki.com/images/d/d8/The_Ice_Krabs_Fight.png"
+        },
+        "title": "The Ice Krabs"
+    }
+}

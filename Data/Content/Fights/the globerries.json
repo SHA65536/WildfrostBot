@@ -1,0 +1,40 @@
+{
+    "metadata": {
+        "title": "the globerries",
+        "aliases": [],
+        "tags": [
+            "fights"
+        ],
+        "keys": {}
+    },
+    "embed": {
+        "color": 12846604,
+        "url": "",
+        "description": "**The Globerries** is a regular fight the player may encounter in the second battle.",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Wave 1",
+                "value": "* Earth Berry, Berry Witch"
+            },
+            {
+                "inline": false,
+                "name": "Wave 2",
+                "value": "* Earth Berry, Earth Berry, Porkypine\n* Earth Berry, Earth Berry, Snowbirb"
+            }
+            ,
+            {
+                "inline": false,
+                "name": "Miniboss Wave",
+                "value": "* Queen Globerry, Berry Witch"
+            }
+        ],
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "thumbnail": {
+            "url": "https://wildfrostwiki.com/images/e/ee/The_Globerries_Fight.png"
+        },
+        "title": "The Globerries"
+    }
+}

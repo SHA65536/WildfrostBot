@@ -1,0 +1,40 @@
+{
+    "metadata": {
+        "title": "the snowbo squad",
+        "aliases": [],
+        "tags": [
+            "fights"
+        ],
+        "keys": {}
+    },
+    "embed": {
+        "color": 12846604,
+        "url": "",
+        "description": "**The Snowbo Squad** is a regular fight the player may encounter in the first battle.",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Wave 1",
+                "value": "* Grouchy, Grouchy\n* Snowbo, Wild Snoolf\n* Snowbo, Wild Snoolf, Baby Snowbo\n* Snowbo, Snowbo\n* Grouchy, Wild Snoolf\n* Grouchy, Wild Snoolf, Naked Gnome\n* Gogong, Wild Snoolf\n* Gogong, Snowbo"
+            },
+            {
+                "inline": false,
+                "name": "Wave 2",
+                "value": "* Winter Worm"
+            }
+            ,
+            {
+                "inline": false,
+                "name": "Miniboss Wave",
+                "value": "* The Snow Knight, Baby Snowbo\n* The Snow Knight, Snowbo"
+            }
+        ],
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "thumbnail": {
+            "url": "https://wildfrostwiki.com/images/f/f5/The_Snowbo_Squad_Fight.png"
+        },
+        "title": "The Snowbo Squad"
+    }
+}

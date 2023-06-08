@@ -1,0 +1,34 @@
+{
+    "metadata": {
+        "title": "infernoko fight",
+        "aliases": [],
+        "tags": [
+            "fights"
+        ],
+        "keys": {}
+    },
+    "embed": {
+        "color": 12846604,
+        "url": "",
+        "description": "**Infernoko Fight** is a boss fight the player may encounter in the third battle.",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Wave 1",
+                "value": "* Minimoko, Porkypine, Infernoko"
+            },
+            {
+                "inline": false,
+                "name": "Wave 2",
+                "value": "* Frostinger, Minimoko"
+            }
+        ],
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "thumbnail": {
+            "url": "https://wildfrostwiki.com/images/5/55/Infernoko_Fight.png"
+        },
+        "title": "Infernoko Fight"
+    }
+}

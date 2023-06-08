@@ -1,0 +1,40 @@
+{
+    "metadata": {
+        "title": "the frost shades",
+        "aliases": [],
+        "tags": [
+            "fights"
+        ],
+        "keys": {}
+    },
+    "embed": {
+        "color": 12846604,
+        "url": "",
+        "description": "**The Frost Shades** is a regular fight the player may encounter in the second battle.",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Wave 1",
+                "value": "* Frostinger, Porkypine, Mimik\n* Porkypine, Frostinger, Mimik"
+            },
+            {
+                "inline": false,
+                "name": "Wave 2",
+                "value": "* Frostinger, Gobling, Mimik, Ice Lantern"
+            }
+            ,
+            {
+                "inline": false,
+                "name": "Miniboss Wave",
+                "value": "* The Ringer, Frostinger, Porkypine\n* The Ringer, Porkypine, Frostinger\n* The Ringer, Frostinger, Snowbirb"
+            }
+        ],
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "thumbnail": {
+            "url": "https://wildfrostwiki.com/images/2/21/The_Frost_Shades_Fight.png"
+        },
+        "title": "The Frost Shades"
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "metadata": {
+        "title": "the toothy shades",
+        "aliases": [],
+        "tags": [
+            "fights"
+        ],
+        "keys": {}
+    },
+    "embed": {
+        "color": 12846604,
+        "url": "",
+        "description": "**The Toothy Shades** is a regular fight the player may encounter in the fifth battle.",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Wave 1",
+                "value": "* Marrow, Smog, Gromble"
+            },
+            {
+                "inline": false,
+                "name": "Wave 2",
+                "value": "* Paw Paw, Paw Paw"
+            },
+            {
+                "inline": false,
+                "name": "Miniboss Wave",
+                "value": "* Maw Jaw, Smog, Gromble\n* Maw Jaw, Smog, Paw Paw"
+            }
+        ],
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "thumbnail": {
+            "url": "https://wildfrostwiki.com/images/b/bb/The_Toothy_Shades_Fight.png"
+        },
+        "title": "The Toothy Shades"
+    }
+}

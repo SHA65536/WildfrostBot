@@ -1,0 +1,39 @@
+{
+    "metadata": {
+        "title": "truffle fight",
+        "aliases": [],
+        "tags": [
+            "fights"
+        ],
+        "keys": {}
+    },
+    "embed": {
+        "color": 12846604,
+        "url": "",
+        "description": "**Truffle Fight** is a boss fight the player may encounter in the sixth battle.",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Wave 1",
+                "value": "* Shrootles, Shroom Gobbler, Truffle\n* Shroom Gobbler, Popshroom, Truffle"
+            },
+            {
+                "inline": false,
+                "name": "Wave 2",
+                "value": "* Shrootles, Puffball"
+            },
+            {
+                "inline": false,
+                "name": "Wave 3",
+                "value": "* Shroom Gobbler, Popshroom"
+            }
+        ],
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "thumbnail": {
+            "url": "https://wildfrostwiki.com/images/3/35/Truffle_Fight.png"
+        },
+        "title": "Truffle Fight"
+    }
+}

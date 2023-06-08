@@ -1,0 +1,24 @@
+{
+    "metadata": {
+        "title": "fights",
+        "aliases": [ ],
+        "tags": [],
+        "keys": {}
+    },
+    "embed": {
+        "color": 12846604,
+        "url": "",
+        "description": "Fight are encounters in which the player has to defeat enemies.\nA fight is over after the boss or miniboss is defeated, then the rest of the enemy on the board will flee.\nFights are composed of enemy wave, each wave has a predetermined configuration which is randomly selected.",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Articles with the 'Fights' tag",
+                "value": ""
+            }
+        ],
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "title": "Fights"
+    }
+}

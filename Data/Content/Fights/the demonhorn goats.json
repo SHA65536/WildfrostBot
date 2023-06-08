@@ -1,0 +1,39 @@
+{
+    "metadata": {
+        "title": "the demonhorn goats",
+        "aliases": [],
+        "tags": [
+            "fights"
+        ],
+        "keys": {}
+    },
+    "embed": {
+        "color": 12846604,
+        "url": "",
+        "description": "**The Demonhorn Goats** is a regular fight the player may encounter in the fourth battle.",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Wave 1",
+                "value": "* Jab Joat, Jab Joat, Gok"
+            },
+            {
+                "inline": false,
+                "name": "Wave 2",
+                "value": "* Gok, Pygmy, Jab Joat\n* Gok, Jab Joat, Pygmy"
+            },
+            {
+                "inline": false,
+                "name": "Miniboss Wave",
+                "value": "* Muttonhead, Jab Joat, Porkypine"
+            }
+        ],
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "thumbnail": {
+            "url": "https://wildfrostwiki.com/images/2/2d/The_Demonhorn_Goats_Fight.png"
+        },
+        "title": "The Demonhorn Goats"
+    }
+}

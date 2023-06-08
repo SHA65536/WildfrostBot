@@ -1,0 +1,34 @@
+{
+    "metadata": {
+        "title": "bamboozle fight",
+        "aliases": [],
+        "tags": [
+            "fights"
+        ],
+        "keys": {}
+    },
+    "embed": {
+        "color": 12846604,
+        "url": "",
+        "description": "**Bamboozle Fight** is a boss fight the player may encounter in the third battle.",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Wave 1",
+                "value": "* Bamboozle, Winter Worm, Snowbo\n* Bamboozle, Winter Worm, Baby Snowbo"
+            },
+            {
+                "inline": false,
+                "name": "Wave 2",
+                "value": "* Winter Worm, Snowbo\n* Snowbo, Snowbo\n* Baby Snowbo, Grouchy\n* Snowbo, Wild Snoolf"
+            }
+        ],
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "thumbnail": {
+            "url": "https://wildfrostwiki.com/images/c/c4/Bamboozle_Fight.png"
+        },
+        "title": "Bamboozle Fight"
+    }
+}

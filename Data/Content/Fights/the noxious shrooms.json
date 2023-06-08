@@ -1,0 +1,40 @@
+{
+    "metadata": {
+        "title": "the noxious shrooms",
+        "aliases": [],
+        "tags": [
+            "fights"
+        ],
+        "keys": {}
+    },
+    "embed": {
+        "color": 12846604,
+        "url": "",
+        "description": "**The Noxious Shrooms** is a regular fight the player may encounter in the second battle.",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Wave 1",
+                "value": "* Shrootles, Bulbhead\n* Popshroom, Popshroom\n* Popshroom, Shrootles\n* Puffball, Shrootles\n* Popshroom, Bulbhead"
+            },
+            {
+                "inline": false,
+                "name": "Wave 2",
+                "value": "* Shroom Gobbler, Bulbhead, Puffball\n* Shroom Gobbler, Popshroom, Puffball\n* Shroom Gobbler, Shrootles, Puffball"
+            }
+            ,
+            {
+                "inline": false,
+                "name": "Miniboss Wave",
+                "value": "* Shrootles, Veiled Lady\n* Bulbhead, Veiled Lady"
+            }
+        ],
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "thumbnail": {
+            "url": "https://wildfrostwiki.com/images/2/2f/The_Noxious_Shrooms_Fight.png"
+        },
+        "title": "The Noxious Shrooms"
+    }
+}

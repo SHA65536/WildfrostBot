@@ -1,0 +1,39 @@
+{
+    "metadata": {
+        "title": "the woolly drek",
+        "aliases": [],
+        "tags": [
+            "fights"
+        ],
+        "keys": {}
+    },
+    "embed": {
+        "color": 12846604,
+        "url": "",
+        "description": "**The Woolly Drek** is a regular fight the player may encounter in the fifth battle.",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Wave 1",
+                "value": "* Woolly Drek, Bigfoot, Gromble"
+            },
+            {
+                "inline": false,
+                "name": "Wave 2",
+                "value": "* Bigfoot, Gromble, Gromble"
+            },
+            {
+                "inline": false,
+                "name": "Miniboss Wave",
+                "value": "* Bigloo, Bigfoot, Paw Paw, Gromble"
+            }
+        ],
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "thumbnail": {
+            "url": "https://wildfrostwiki.com/images/0/05/The_Wooly_Drek_Fight.png"
+        },
+        "title": "The Woolly Drek"
+    }
+}

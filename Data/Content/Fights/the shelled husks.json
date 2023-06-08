@@ -1,0 +1,39 @@
+{
+    "metadata": {
+        "title": "the shelled husks",
+        "aliases": [],
+        "tags": [
+            "fights"
+        ],
+        "keys": {}
+    },
+    "embed": {
+        "color": 12846604,
+        "url": "",
+        "description": "**The Shelled Husks** is a regular fight the player may encounter in the fourth battle.",
+        "fields": [
+            {
+                "inline": false,
+                "name": "Wave 1",
+                "value": "* Conker, Shell Witch, Shell Witch\n* Conker, Shell Witch, Pecan"
+            },
+            {
+                "inline": false,
+                "name": "Wave 2",
+                "value": "* Pecan, Conker, Shell Witch\n* Conker, Prickle, Shell Witch"
+            },
+            {
+                "inline": false,
+                "name": "Miniboss Wave",
+                "value": "* Bolgo, Pecan, Shell Witch\n* Bolgo, Conker, Shell Witch"
+            }
+        ],
+        "footer": {
+            "text": "<&Footer&>"
+        },
+        "thumbnail": {
+            "url": "https://wildfrostwiki.com/images/8/85/The_Shelled_Husks_Fight.png"
+        },
+        "title": "The Shelled Husks"
+    }
+}
