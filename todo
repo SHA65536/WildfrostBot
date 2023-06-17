@@ -1,0 +1,39 @@
+## New
+- [ ] Gogong will appear in early battles to teach the player about Smackback and Reaction effects.
+- [ ] Minimoko replaces the Makokos in the Infernoko boss battle, to make this battle’s difficulty more in line with the Bamboozle boss battle.
+
+## Changes
+- [*] Battle-Specific Map Icons - Every battle now features a unique icon and name, allowing you to see which battle you’ll be coming up against, and switch around your Companions and Crowns before the battle to prepare accordingly.
+- [-] Treasure Skip Button - You can now leave a treasure event without taking an item. This has been a highly requested option from players, so it’s now possible in the game (:
+- [x] Hazeblazer: +Health, damages self instead of allies
+- [x] Firefist: +Health & -Counter
+- [x] Mini Mika: +Counter
+- [x] Fizzle: -Health
+- [x] Biji: +Health
+- [x] Devicro: +Health
+- [x] Van Jun: effect changed: Add +2 Attack and +2 Health to all summoned allies
+- [x] Ice Dice: effect changed: Apply 1 Block to a random ally, Apply 1 Block to a random enemy
+- [x] Soulbound Skulls: Add Soulbound to an ally, add Soulbound to a random enemy. Soulbound now only activates on sacrifice
+- [x] Bom Barrel: has Barrage instead of ‘Hits all Enemies’
+- [x] B.I.N.K: effect reduced to 2
+- [x] Krono: effect changed: Only affects crowned allies in the row
+- [x] Krono: Moved to general pool (can be found by all Tribes)
+- [x] Woolly Drek: -Attack
+- [x] Bigfoot: Barrage instead of Aimless, -Health, -Attack
+- [x] Smog: +Counter
+- [x] Ice Forge: effect reduced to 2
+- [x] Spike Wall: -Scrap & -Attack
+- [x] Grumps: -Health
+- [x] Marrow: -Teeth
+- [x] Durian Charm: -Attack
+- [x] Recycle Charm: +Attack, can no longer be put on units
+- [x] Shade Clay no longer copies Crown
+- [x] Improve inconsistencies between Monch & Woolly Drek effect text
+- [x] New Absorb keyword for Woolly Drek to better explain its effect
+- [-] Improved popup text for Counter, Reaction & Snow
+- [-] Non-target cards (e.g. Pombomb) will show which cards they will hit
+- [-] Improved status effect tooltip text colours
+- [-] Final Boss battles have less Teeth
+- [-] Final Boss enemies' stats are boosted less if they have Charms
+- [x] Lowered Ritual challenge requirements
+- [-] Lumin Goop & Broken Vase can now be found in Gnome Traveller & Charm Merchant events
