@@ -37,7 +37,7 @@ func MakeDiscordHandler(token string, lib *Library) (*DiscordHandler, error) {
 	return h, nil
 }
 
-// SlashHandler routes the interactions into the right handler
+// InteractionHandler routes the interactions into the right handler
 func (h *DiscordHandler) InteractionHandler(s *discordgo.Session, i *discordgo.InteractionCreate) {
 	var name string
 	switch i.Type {
