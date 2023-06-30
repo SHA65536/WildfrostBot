@@ -9,7 +9,7 @@
     },
     "embed": {
         "color": 12846604,
-        "url": "",
+        "url": "https://wildfrostwiki.com/Minimoko",
         "description": "**Minimoko** is an enemy which the player can encounter during a run. ",
         "fields": [
             {
@@ -27,8 +27,8 @@
             "text": "<&Footer&>"
         },
         "image": {
-            "url": ""
+            "url": "https://wildfrostwiki.com/images/1/1d/Minimoko_%28Minimoko%29.png"
         },
-        "title": "Gogong"
+        "title": "Minimoko"
     }
 }
